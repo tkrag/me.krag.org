@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Free Software Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/free-software/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Tue, 06 Sep 2011 06:25:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Free Software Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>open source :: The Unbound Book</title>
+		<link>/index.php/2011/09/06/open-source-the-unbound-book/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2011 06:25:27 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=670</guid>
+
+					<description><![CDATA[<p>In April 2011 I gave a presentation on BookSprints and Booki at the excellent Unbound Book Conference in Amsterdam. Today a only partially related google search uncovered this blog post. Apart from frequent and varied misspellings of my name, it&#8217;s a decent summary of the discussion I brought to the table. Wireless and F/OSS geek [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/09/06/open-source-the-unbound-book/">open source :: The Unbound Book</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In April 2011 I gave a presentation on BookSprints and <a href="http://booki.cc/">Booki</a> at the excellent Unbound Book Conference in Amsterdam. Today a only partially related google search uncovered this blog post. Apart from frequent and varied misspellings of my name, it&#8217;s a decent summary of the discussion I brought to the table.</p>
+<blockquote><p>Wireless and F/OSS geek and grassroots technology generalist Thomas Krag introduced Booksprint to the Open Source Publishing Tools workshop as an inverse story about the matter-ing of publishing: “..an outsider’s view of this whole book thing.”</p>
+<p>via <a href="http://networkcultures.org/wpmu/unboundbook/tag/open-source/">open source :: The Unbound Book</a>.</p></blockquote>
+<p>The post <a rel="nofollow" href="/index.php/2011/09/06/open-source-the-unbound-book/">open source :: The Unbound Book</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">670</post-id>	</item>
+		<item>
+		<title>Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</title>
+		<link>/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2011 07:08:21 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=657</guid>
+
+					<description><![CDATA[<p>I&#8217;ll be speaking about Book Sprints, cc-licensed books and the developing world at a Free Culture event in Copenhagen this Sunday. It&#8217;s a joint project of Mellemfolkeligt Samvirke (ActionAid Denmark) and Creative Commons Denmark. It&#8217;s arranged by my recent acquaintance (soon to be friend?), Henrik Chulu, and I&#8217;ll be sharing the stage with the amazing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/">Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ll be speaking about <a href="http://booksprint.info/">Book Sprints</a>, cc-licensed books and the developing world at a Free Culture event in Copenhagen this Sunday. It&#8217;s a joint project of <a href="http://www.ms.dk/">Mellemfolkeligt Samvirke</a> (ActionAid Denmark) and <a href="http://www.creativecommons.dk/">Creative Commons Denmark</a>.
+</p>
+<p>
+It&#8217;s arranged by my recent acquaintance (soon to be friend?), Henrik Chulu, and I&#8217;ll be sharing the stage with the amazing <a href="http://twitter.com/solanasaurus/">Solana Larsen</a> from the amazing <a href="http://globalvoicesonline.org/">Global Voices</a> project.
+</p>
+<p>
+It&#8217;s Sunday at 15.45 in Fælledparken.
+</p>
+<p>
+<a href="http://frikultur.dk/2011/08/fri-faelled-sociale-medier-og-social-retfaerdighed/">Check it</a>&#8230;</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/">Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">657</post-id>	</item>
+		<item>
+		<title>Tech Without Borders</title>
+		<link>/index.php/2010/12/21/616/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2010 11:59:06 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Mixed Bag]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=616</guid>
+
+					<description><![CDATA[<p>1. We are people of tech. 2. We live and work everywhere. 3. We value our own freedom, the freedom of people who use our technology and freedom in general. 4. We think there is no meaningful distinction between WikiLeaks and the news organizations covering the stories in cooperation with WikiLeaks. 5. We urge all [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/12/21/616/">Tech Without Borders</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>
+<a href="http://techwithoutborders.org/"><img data-attachment-id="617" data-permalink="/index.php/2010/12/21/616/twobs/" data-orig-file="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?fit=766%2C72&amp;ssl=1" data-orig-size="766,72" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="twobs" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?fit=300%2C28&amp;ssl=1" data-large-file="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?fit=640%2C60&amp;ssl=1" loading="lazy" src="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?resize=382%2C36&#038;ssl=1" alt="" title="twobs" width="382" height="36" class="alignleft size-full wp-image-617" data-recalc-dims="1" /></a></p>
+<p>1. We are people of tech.</p>
+<p>2. We live and work everywhere.</p>
+<p>3. We value our own freedom, the freedom of people who use our technology and freedom in general.</p>
+<p>4. We think there is no meaningful distinction between WikiLeaks and the news organizations covering the stories in cooperation with WikiLeaks.</p>
+<p>5. We urge all governments to respect freedom of the press, whether the news originates online or offline. </p>
+<p>6. We apply these principles in our work and they are embodied in our technology.</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/12/21/616/">Tech Without Borders</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">616</post-id>	</item>
+		<item>
+		<title>How To Bypass Internet Censorship</title>
+		<link>/index.php/2008/11/14/how-to-bypass-internet-censorship/</link>
+					<comments>/index.php/2008/11/14/how-to-bypass-internet-censorship/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 15 Nov 2008 00:17:04 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=525</guid>
+
+					<description><![CDATA[<p>After a week of booksprinting, we finished what looks to be an amazing book on bypassing internet censorship. It&#8217;s available for purchase as a print book from lulu.com, here, and can be read on-line at flossmanuals.net, here. Big shout out to Adam Hyde from FLOSS Manuals, and the entire Book Sprint crew. You all rock! [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/11/14/how-to-bypass-internet-censorship/">How To Bypass Internet Censorship</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After a week of booksprinting, we finished what looks to be an amazing book on bypassing internet censorship.<br />
+It&#8217;s available for purchase as a print book from lulu.com, <a href="http://www.lulu.com/content/4904448">here</a>, and can be read on-line at flossmanuals.net, <a href="http://en.flossmanuals.net/CircumventionTools">here</a>.</p>
+<p>Big shout out to Adam Hyde from FLOSS Manuals, and the entire Book Sprint crew. You all rock!</p>
+<p>I&#8217;m immensely proud to be associated with this book, and the crew who wrote it.</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/11/14/how-to-bypass-internet-censorship/">How To Bypass Internet Censorship</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2008/11/14/how-to-bypass-internet-censorship/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">525</post-id>	</item>
+		<item>
+		<title>BookSprint: Thinking about the non-profit technology space</title>
+		<link>/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 13:41:23 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/05/booksprint-thinking-about-the-non-profit-technology-space/</guid>
+
+					<description><![CDATA[<p>5 years of wireless wizardry, a very successful book project, some time out as a linux enterprise consultant, some time spent combining my technology skills with my interest in africa, and a good 6 months mostly hanging out with the future. I&#8217;m now spending a lot of time thinking about what the next 2 years [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>5 years of <a href="http://wire.less.dk/">wireless wizardry</a>, a very successful <a href="http://wndw.net/">book project</a>, some time out as a <a href="http://casalogic.dk/">linux enterprise consultant</a>, some time spent combining my technology skills with my <a href="http://allafrica.com/">interest in africa</a>, and a good 6 months mostly hanging out with <a href="http://flickr.com/photos/tkrag/sets/72157594550688898">the future</a>. I&#8217;m now spending a lot of time thinking about what the next 2 years could/should bring. </p>
+<p>The technology non-profit space, web 2.0, free (open source) software, open networks, open content books, africa, and small kids. These are some of the things i&#8217;ve racked up some experience in over the last few years. There&#8217;s little doubt that the book project is the most impressive project i&#8217;ve had a hand in. With litterally hundreds of thousands of downloads (250,000 since february 2008), a 2nd edition, and official translations into spanish, french and arabic, this is one hell of a success for what is essentially a double niche-in-a-niche project. A technology book about wireless networks, targetted specifically at developing world practitioners. Yet the success if unequivocal, impressive, and ultimately has very little to do with my involvement.</p>
+<p>I came up with a model that seems to work, found a little bit of funding to try it out, and invited the perfect team of authors. I also used my charm to convince <a href="http://hackerfriendly.com/">the best technical editor and author</a> i know to spend enormous amounts of time on very little money to help make this book as amazing as it is. Then i stepped back, went off and did some of the other stuff i mentioned above, and watched this idea unfold. </p>
+<p>I&#8217;m proud of what i helped create, but also well aware of the role i played in it. But I want this success to be replicated, and there are a number of titles i think deserve to be written which could help create a series of pragmatic, hands-on technology books with a focus on the developing world, and free (open source) software. Published under some form of open content license, ensuring they reach their maximum potential as tools for communities around the world. </p>
+<p>Not only do i think this is possible, but i also think it&#8217;s important in ways that i can&#8217;t yet quite describe in simple words, having to do with open content licenses, books as conveyors of learning, and the importance of technology independence. </p>
+<p>Unlike other open content publishing business models, there&#8217;s a little twist in this one, since the prime source of income won&#8217;t be from book sales or advertising, but will come directly from funders, for whom the value-proposition should be pretty clear. Given the <a href="http://booksprint.info/">book sprint</a> model, we can produce pofessionally edited books at a fraction of the cost of the traditional publishing industry. And we have shown that these books are useful as training materials for workshops, as hands-on guides for individuals and organisations trying to implement these technologies, and as awareness raisers for decision-makers looking at technology solutions to exisiting problems. And the price point for a single title seems to be close to that of a single regional week-long technology workshop. So for the price of a single workshop, a book can be published that can become a tangible input to future workshops, but also can massively expand the reach of a workshop-based training model by reaching an audience far beyond that of the equivalent workshop. </p>
+<p>And given some of the fascinating discussions i&#8217;ve seen on <a href="http://manypossibilities.net/2008/04/building-the-demand-in-print-on-demand/">pricing models</a> for <a href="http://radar.oreilly.com/archives/2008/02/community-pricing-for-books.html">open content books</a>, those costs would be shareable between multiple funders, by collecting bids before initiating the project. A model that could perhaps be combined with a <a href="http://magnatune.com/">magnatune</a>, <a href="http://magnatune.com/info/model">pay-what-you-feel-is-right</a> model for downloads. The profits of which could be shared with the authors, and help fund the day-to-day running of the organisation. If the costs of publishing the book has already been covered by non-profit funders, the post-production sales might help fund the difficult overhead that always dogs non-profits between projects. </p>
+<p>Somewhere in this model there may even be room for experimenting with <a href="http://en.wikipedia.org/wiki/Social_business">Social Business</a> models, in the spirit of <a href="http://en.wikipedia.org/wiki/Muhammad_Yunus">Mohammad Yunus</a>. But that&#8217;ll be a discussion for another day, and perhaps another blog. </p>
+<p></p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">510</post-id>	</item>
+		<item>
+		<title>Speaking @ Linuxforum 2007</title>
+		<link>/index.php/2007/01/30/speaking-linuxforum-2007/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2007 14:04:36 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=497</guid>
+
+					<description><![CDATA[<p>I&#8217;ll be speaking at the Copenhagen Linuxforum on March 3rd. An entirely new presentation entitled: &#8220;Free Software in Developing World Projects &#8211; Before the OLPC and Beyond&#8221;</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/01/30/speaking-linuxforum-2007/">Speaking @ Linuxforum 2007</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ll be speaking at the Copenhagen Linuxforum on March 3rd. An entirely new presentation entitled:</p>
+<p>&#8220;Free Software in Developing World Projects &#8211; Before the OLPC and Beyond&#8221;</p>
+<p><a href="http://linuxforum.dk/2007/program/saturday/Tomas_Krag.shtml"> <img src="https://i0.wp.com/LinuxForum.dk/2007/presse/images/LF07_banner_en.gif?w=640" alt="Linuxforum 2007" data-recalc-dims="1"/></a></p>
+<p>The post <a rel="nofollow" href="/index.php/2007/01/30/speaking-linuxforum-2007/">Speaking @ Linuxforum 2007</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">497</post-id>	</item>
+		<item>
+		<title>Wireless Networking in the Developing World</title>
+		<link>/index.php/2006/01/27/wireless-networking-in-the-developing-world/</link>
+					<comments>/index.php/2006/01/27/wireless-networking-in-the-developing-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2006 09:43:08 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Mixed Bag]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=491</guid>
+
+					<description><![CDATA[<p>For the past 4 months I&#8217;ve been working to get a book out on wireless networking. Together with some of the smartest, most passionate people i&#8217;ve ever had the pleasure to work with, and lead by experienced technical book author and editor Rob Flickenger, we&#8217;ve completed the book. It&#8217;s called &#8220;WirelessNetworking in the Developing World&#8221;, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/01/27/wireless-networking-in-the-developing-world/">Wireless Networking in the Developing World</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>For the past 4 months I&#8217;ve been working to get a book out on wireless networking.<br />
+Together with some of the smartest, most passionate people i&#8217;ve ever had the pleasure to work with, and lead by experienced technical book author and editor Rob Flickenger, we&#8217;ve completed the book. It&#8217;s called &#8220;WirelessNetworking in the Developing World&#8221;, and it is a free book released under<br />
+a Creative Commons license.</p>
+<p>More info is available at: <a href="http://wndw.net/">http://wndw.net/</a></p>
+<p>and: <a href="http://dk.wndw.net/">http://dk.wndw.net/</a> (Danish Mirror)</p>
+<p>And the <a href="http://wndw.net/news.html">Press Release</a></p>
+<p>The post <a rel="nofollow" href="/index.php/2006/01/27/wireless-networking-in-the-developing-world/">Wireless Networking in the Developing World</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2006/01/27/wireless-networking-in-the-developing-world/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">492</post-id>	</item>
+		<item>
+		<title>WOS3: hack-attack</title>
+		<link>/index.php/2004/06/13/wos3-hack-attack/</link>
+					<comments>/index.php/2004/06/13/wos3-hack-attack/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2004 15:04:36 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=460</guid>
+
+					<description><![CDATA[<p>Yesterday on the last full day of</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/13/wos3-hack-attack/">WOS3: hack-attack</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Yesterday on the last full day of <a href=http://www.wizards-of-os.org/index.php">WOS3</a>, I was sitting in the cafeteria getting a little help from <a href="http://www.wizards-of-os.org/index.php?id=1533&#038;L=3">Marcell</a>, to get a connection between my laptop and my bluetooth phone. During a routine google search marcell&#8217;s machine uddenly returned <a href="http://dozomo.24hdc.com/">this</a> instead of the normal google front-end. Turns out, that a flock of, in my humble opinion, frankly immature and annoying, <a href="http://24hdc.com/">hackers</a> were staging a &#8220;24 hour dotcom&#8221; event. </p>
+<p>In just 24 hours they coded and deployed the dozomo meta-search engine, including a front-end, a mozilla/firefox search plugin and a safari keywords file. So far so good. A good effort, a neat conference event, and a decent hack (although the search front-end is pretty buggy and flawed.<br />
+That they extensively (some would say exhaustively) documented the whole thing on-line, and went ahead and offered a pseudo-IPO on ebay was actually quite a clever hack.</p>
+<p>UNFORTUNATELY, in a time-honored tradition of young geeks and adolescents, they then preceeded to scream for attention in a rude and obnoxious way, Using the in-conference proxy server they started redirecting http requests to google, msn and other major search engines to their own <a href"http://dozomo.24hdc.com/">page </a>. This is sort of like a kid baking bread to impress his/her parents and then proceeding to intentionally plaster the entire kitchen with wet dough, just to be completely certain that they were heard. </p>
+<p>That the proxy hack actually managed to break their own brainchild  (when clicking on page 2 of a search result page from google, the proxy hack would redirect that httpo request and return you to the dozomo frontpage), just made it even more pathetic.</p>
+<p>I&#8217;m sorry guys, but there were a lot of people at the conference trying to get some work done, and it&#8217;s not ok to force your shite on them against their will, even for the sake of a conference art event. hand out flyers next time, and you&#8217;ll probably get a lot more friends. </p>
+<p>Personally, like Wendy Seltzer [<a title="Wendy's Blog: Legal Tags: WOS: Dozomo" href="http://wendy.seltzer.org/blog/archives/2004/06/12/wos_dozomo.html">Wendy&#8217;s Blog: Legal Tags: WOS: Dozomo</a>], I was lucky enough to be running the <a href="http://www.freehaven.net/tor/">Tor anonymizing proxy</a>, and wasn&#8217;t affected by this particular hack. (thanks to <a href="http://www.wizards-of-os.org/index.php?id=870&#038;L=3">robert guerra</a>, <a href="http://www.wizards-of-os.org/index.php?id=863&#038;L=3">roger dingledine</a> and their <a href="http://www.wizards-of-os.org/index.php?id=929&#038;L=3">hands-on privacy workshop</a>.</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/13/wos3-hack-attack/">WOS3: hack-attack</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2004/06/13/wos3-hack-attack/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">460</post-id>	</item>
+		<item>
+		<title>WOS3 retrospect</title>
+		<link>/index.php/2004/06/12/wos3-retrospect/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2004 17:07:24 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=459</guid>
+
+					<description><![CDATA[<p>Well, retrospect is unfair, as i am currently in one of the last panels, featuring free software experts from remote corners of the world (when seen from a berlin/copenhagen axis viewpoint). It&#8217;s saturday evening, and i&#8217;m looking forward to an evening of whisky and dinner with good friends. So far WOS3 has not dissapointed, although [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/12/wos3-retrospect/">WOS3 retrospect</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Well, retrospect is unfair, as i am currently in one of the last panels, featuring free software experts from remote corners of the world (when seen from a berlin/copenhagen axis viewpoint).</p>
+<p>It&#8217;s saturday evening, and i&#8217;m looking forward to an evening of whisky and dinner with good friends. So far WOS3 has not dissapointed, although compared to a typical US (O&#8217;Reilly?) conference this is an amateurs fest. The peculiar blend of high-brow academia, low-cost activists, and a handful of free (as in speach) lawyers, has been interesting. </p>
+<p>I love the fact that Volker Grassmuck has dared put people on the stands from small projects around the world. Activists, hackers, and wireless weirdo&#8217;s (amongst them myself). The collection of bright minds, and the breadth of perspectives makes this a much more interesting, but much less efficient and elegant conference than something like Emerging Tech. </p>
+<p>Unfortunately this breadth of presence and the slightly chaotic hue that has been an ever-present companion during the last 3 days, has resulted in a number of sadly silent, or at least completely uninspiring panels. But let&#8217;s get to the hihlights, here&#8217;s a prioritized list of my favoourite moments:</p>
+<p>1. seeing old friends, ethan zuckerman, the tactical tech collective, zviad and taya from georgia, asim (tajikistan), guido (african hacker extraordinaire), gunner and katreen (asprationtech.org), joris komen (schoolnet namibia), vera, janet and darius (open society institute) and the wireless dudes and dudettes from berlin and london (armin, juergen, cven, james, adam, elektra, bruno and a few more&#8230;)</p>
+<p>2. meeting new people and being inspired. People like dewayne endricks of extreme wireless fame, sunir shah of meatball wiki, roger dinkledine (developer of tor -wonderful anonymising proxy), heather from creative commons south africa and a large number of others, who&#8217;s names slip my mind temporarily.</p>
+<p>3. the wireless discussion with dewayne hendricks. eye-opening, exciting, colourful, if a little unrealistic at times.</p>
+<p>3. eben moglen. this man is the best skaespearean actor i have ever seen. the drama, the diction, the eloquence&#8230;. priceless</p>
+<p>4. lawrence lessig. almost as fluid as eben moglen, but makes up for it ith a great sense of humour. brilliant.</p>
+<p>5. the mesh network. the first time i have seen and partaken of a du&#xFD;namic mesh that would let me roam seemlessly through a impressive part of berin (c-base to alexanderplatz). go mesh go.</p>
+<p>perhaps i&#8217;ll be changing this list after tonight. here&#8217;s a guess at what might make it to number 3 or perhaps even 2 (come tomorrow)</p>
+<p>#. Glennfiddich 21 year Havanna Reserve</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/12/wos3-retrospect/">WOS3 retrospect</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">459</post-id>	</item>
+		<item>
+		<title>Wizards-of-OpenSource 3</title>
+		<link>/index.php/2004/06/10/wizards-of-opensource-3/</link>
+					<comments>/index.php/2004/06/10/wizards-of-opensource-3/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2004 11:38:33 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=456</guid>
+
+					<description><![CDATA[<p>Blogging from the speakers podium at Wizards-of-OpenSource, just getting into the Panel on Free Networking, with Dewayne Hendricks, James Stevens, Juergen Neumann, Adam Shand and myself, moderated by Armin Medosch. Eben Moglen, just finished his keynote. This guy is the real deal, the preacher of the Free Culture/Information movement. So eloquent it is almost embarassing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/10/wizards-of-opensource-3/">Wizards-of-OpenSource 3</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Blogging from the speakers podium at Wizards-of-OpenSource, just getting into the Panel on <a href="http://www.wizards-of-os.org/index.php?id=719">Free Networking</a>, with Dewayne Hendricks, James Stevens, Juergen Neumann, Adam Shand and myself, moderated by Armin Medosch.</p>
+<p><a href="http://emoglen.law.columbia.edu/">Eben Moglen</a>, just finished his keynote. This guy is the real deal, the preacher of the Free Culture/Information movement. So eloquent it is almost embarassing to all of us light-weights, and and so concise and optimistic (yet realistic) that it really moved me. This is probably the first time i have heard a believable and moving call to arms that effectively ties together and unite the various free movements, i.e. the Free Culture movement, th Free Software Movement, The Free Spectrum Movement and the Free Hardware, or anti-copyright control movement. </p>
+<p>Right now, <a href="http://www.heise.de/tp/deutsch/html/buch_11.html">Armin Medosch</a> s introducing the main issues, including low-cost antenna&#8217;s, mesh networks, the concept of line-of-sight, etc. H&#8217;s showing picture of various rooftop-scenes, small pieces of hardware, such as the <a href="http://meshcube.org/index_e.html">MeshCube</a>, and various wild renditions of the socialist dream.<br />
+<span id="more-456"></span><br />
+Also showing off the awesome mesh network constructed between the Berlin Congress Center (our current location) and the c-base hacklab news Jannowtzbruecke. Using the unik-olsrd mesh protocol, and a series of these MeshCube&#8217;s . Using this tech, we can now roam the streets of berlin, knowing that we aren&#8217;t just using the network, but are actively contributing to the network, by being on-line.<br />
+Armin, just passed the bar over to Dewayne Hendricks, who&#8217;se giving us a historical perspective  on radio tech and free communications. </p>
+<p>*commercial wireless since 1903<br />
+*spectrum was an open commons<br />
+   *until titanic</p>
+<p> So I said my bit, and here are <a href="http://thewirelessroadshow.org/tiki-index.php?page=Wos3presentation">my unstructured notes</a>.</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/10/wizards-of-opensource-3/">Wizards-of-OpenSource 3</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2004/06/10/wizards-of-opensource-3/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">456</post-id>	</item>
+	</channel>
+</rss>

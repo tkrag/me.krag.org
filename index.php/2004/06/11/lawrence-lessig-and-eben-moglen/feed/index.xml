@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Lawrence Lessig and Eben Moglen	</title>
+	<atom:link href="/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 11 Jun 2004 19:13:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: quanta		</title>
+		<link>/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/#comment-226</link>
+
+		<dc:creator><![CDATA[quanta]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=458#comment-226</guid>
+
+					<description><![CDATA[Yes, I&#039;ve had the pleasure of hearing Dr. Moglen speak at the Open Source Conference in Toronto last month (I posted a transcript online here: http://www.silentblue.net/mtarchives/000620.html , third speaker down). 
+
+He certainly has the gift of gab. It doesn&#039;t hurt he seems to have extensively well-researched the legal issues - him being a lawyer, and all.
+
+However, the speaker after him (McGowan) did warn us to not get too drawn into the rhetoric (which he implied that Moglen spouted), and to remain pragmatic and stick to the facts.]]></description>
+			<content:encoded><![CDATA[<p>Yes, I&#8217;ve had the pleasure of hearing Dr. Moglen speak at the Open Source Conference in Toronto last month (I posted a transcript online here: <a href="http://www.silentblue.net/mtarchives/000620.html" rel="nofollow ugc">http://www.silentblue.net/mtarchives/000620.html</a> , third speaker down). </p>
+<p>He certainly has the gift of gab. It doesn&#8217;t hurt he seems to have extensively well-researched the legal issues &#8211; him being a lawyer, and all.</p>
+<p>However, the speaker after him (McGowan) did warn us to not get too drawn into the rhetoric (which he implied that Moglen spouted), and to remain pragmatic and stick to the facts.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

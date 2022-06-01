@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: vacation time….	</title>
+	<atom:link href="/index.php/2002/07/01/vacation-time/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2002/07/01/vacation-time/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 01 Jul 2002 12:45:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: john		</title>
+		<link>/index.php/2002/07/01/vacation-time/#comment-12</link>
+
+		<dc:creator><![CDATA[john]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=183#comment-12</guid>
+
+					<description><![CDATA[Hi,
+Long time no c....This is John, formerly of Africa Express...i&#039;m now at central university college, i have been trying getting thru to u but to no avail. Did u make the rtip to Ghana as indicated on ur website?
+Bye]]></description>
+			<content:encoded><![CDATA[<p>Hi,<br />
+Long time no c&#8230;.This is John, formerly of Africa Express&#8230;i&#8217;m now at central university college, i have been trying getting thru to u but to no avail. Did u make the rtip to Ghana as indicated on ur website?<br />
+Bye</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

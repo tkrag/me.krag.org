@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Going to Bahia….	</title>
+	<atom:link href="/index.php/2003/04/04/going-to-bahia/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/04/04/going-to-bahia/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 04 Apr 2003 09:05:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: San + Plop		</title>
+		<link>/index.php/2003/04/04/going-to-bahia/#comment-121</link>
+
+		<dc:creator><![CDATA[San + Plop]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=333#comment-121</guid>
+
+					<description><![CDATA[Man that rocks!
+
+And you&#039;re both jammy bastards... Good on ya!
+
+What&#039;s the dream job? - Philippa wants to know and is mighty jealous (I don&#039;t care cos I got my own dream job, so there).
+
+Anyways, we&#039;ve got news for you, so give us a call or mail when you get back.
+
+Love from Wankover,
+
+San + Phil]]></description>
+			<content:encoded><![CDATA[<p>Man that rocks!</p>
+<p>And you&#8217;re both jammy bastards&#8230; Good on ya!</p>
+<p>What&#8217;s the dream job? &#8211; Philippa wants to know and is mighty jealous (I don&#8217;t care cos I got my own dream job, so there).</p>
+<p>Anyways, we&#8217;ve got news for you, so give us a call or mail when you get back.</p>
+<p>Love from Wankover,</p>
+<p>San + Phil</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

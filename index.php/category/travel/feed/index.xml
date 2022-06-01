@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Travel Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/travel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 13 Oct 2006 12:16:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Travel Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>ICTP-SDU: Lowbandwidth Optimization Techniques</title>
+		<link>/index.php/2006/10/13/ictp-sdu-lowbandwidth-optimization-techniques/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2006 12:16:02 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=495</guid>
+
+					<description><![CDATA[<p>I am currently back in Trieste, with my good friends Marco and Carlo, and this time the topic is Bandwidth Optimization. More info here: ICTP-SDU: Lowbandwidth Optimization Techniques I&#8217;ve given lectures and had lab sessions on Traffic Shaping, and Bandwidth Monitoring, as well as some very basic linux firewalling stuff. There&#8217;s about 40 colleagues here [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/13/ictp-sdu-lowbandwidth-optimization-techniques/">ICTP-SDU: Lowbandwidth Optimization Techniques</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I am currently back in Trieste, with my good friends Marco and Carlo, and this time the topic is Bandwidth Optimization. More info here: <a href="http://sdu.ictp.it/lowbandwidth/">ICTP-SDU: Lowbandwidth Optimization Techniques</a></p>
+<p>I&#8217;ve given lectures and had lab sessions on Traffic Shaping, and Bandwidth Monitoring, as well as some very basic linux firewalling stuff.</p>
+<p>There&#8217;s about 40 colleagues here from all over sub-saharan africa, as well as Bolivia, Cuba, India, Rumania and probably a lot of countries i have missed. </p>
+<p>There are some amazing participants, and some brilliant lecturors here. </p>
+<p>Richard Stubbs from the University of KwaZulu-Natal in South Africa, is a fountain of wisdom on overall strategies fro managing bandwidth in a large university setting (12,000 students) with way too little bandwidth (about 18 Mbit/s).</p>
+<p>Olatunde Abiona, from Obafemi Awolowo University, Ile-Ife, Nigeria, adds another experienced voice to the fray, and is another new acquaintance for me to add to my growing list of gifted tehnology trainers. </p>
+<p>Duane Wessels is just teaching a class on Web proxying with Squid, and for those of you who don&#8217;t know who Duane is, take a look <a href="http://www.squid-cache.org/volunteers.html">here</a>. Duane is the original author of Squid, which in turn is the most widely used web proxy anywhere. He also wrote one of the <a href="http://worldcat.org/isbn/156592536X">definitive guides on webcaching</a>, and he happens to be a great teacher too.</p>
+<p>Les Cottrell from the Stanford Linear Accelerator Center, was here until this morning, and he is an authority on ultra-high bandwidth applications, as well as being one of the brains behind the <a href="http://www-iepm.slac.stanford.edu/pinger/">pingEr</a> project, which measures latency over time to as many universities as possible, and uses it to estimate the quality of connections around the world. </p>
+<p>Of course this is just a small sample of the great people that have made it to Trieste. Many of the lectures are on-line in QuickTime format <a href="http://sdu.ictp.it/dl/2006/1006_bandwidth/index.html">here</a>.</p>
+<p>In any case, This is the first ICT workshop I&#8217;ve done since coming back from <a href="http://wiki.africasource2.tacticaltech.org/">Africa Source 2</a> last winter, and it&#8217;s a timely reminder of how much i&#8217;ve missed this type of work.</p>
+<p>Let me just repeat this here for future reference. Just in case, i end up forgetting&#8230;</p>
+<blockquote><p>I love to teach at technology workshops, especially when some of the participants are from the developing world and have developing world problems. It is what I do well, it is my passion, and in this world I have found some of the most intelligent, fascinating and fun friends a person could ever ask for.</p></blockquote>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/13/ictp-sdu-lowbandwidth-optimization-techniques/">ICTP-SDU: Lowbandwidth Optimization Techniques</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">495</post-id>	</item>
+		<item>
+		<title>Considering a life less travelled</title>
+		<link>/index.php/2005/11/25/considering-a-life-less-travelled/</link>
+					<comments>/index.php/2005/11/25/considering-a-life-less-travelled/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2005 13:54:31 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=486</guid>
+
+					<description><![CDATA[<p>For the past 4 years; in fact ever since that fateful day about 5 years ago when I said yes to travel to ghana, working as a volunteer for Africa Express , and genreally having a blast. It was my baptism into the fascinating world that has occupied the last 4 years of my life. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2005/11/25/considering-a-life-less-travelled/">Considering a life less travelled</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>For the past 4 years; in fact ever since that fateful day about 5 years ago when I said yes to <a href="http://www.geekhalla.org/cgi-local/jeek.cgi?filter=tkrag">travel to ghana</a>, working as a volunteer for <a href="http://www.africaexpress.com/">Africa Express </a>, and genreally having a blast.</p>
+<p>It was my baptism into the fascinating world that has occupied the last 4 years of my life. Working with hands-on, do-it-yourself technology for the developing world. Travelling to Armenia, Croatia, Rural Massachussets, Namibia, South Africa, India, Italy, California, Geneva, Brazil, Rural Denmark, Tunisia, all with the triple mission to teach, to learn and to have fun, has made me more, and better friends than I could have ever imagined. It&#8217;s been the most incredible journey, one that I would do over in an instant, and will never forget. </p>
+<p>It&#8217;s not over, but it is changing. I feel a subtle change in me, especially when i&#8217;m on the road. More and more, the time away feels like time away from my life. As if, at home, was my stable base, my girlfriend, my sports, my family, my home, and as if being on the road means being away from all that. I still have fun, but not quite as much as I used to. I still have most of my best friends spread all over the planet, but I feel more of a need for an intimacy that is not available in those relationsships.</p>
+<p>But most importantly, I feel this i a turning point for me as a volunteer/development worker/non-profit organisation. A time to decide. </p>
+<p>To continue as an individual, a proffessional volunteer, a travelling consultant, means to continue a life with little stability, no stable income, no stable work base, no stable flow. The alternative, to proffesionalize myself, to become a stable organisation, with employees, and grant-proposal-writers, and a vision and business plan.<br />
+And I&#8217;m increasingly realizing that that is not what i want to be.</p>
+<p>I am in this &#8216;business&#8217; because i love what i do, but also because i believe in what i do. and for me to believe, i need to have the freedom to let the project come first, and the financing second, and that is not something that the development industry does well.</p>
+<p>Funding is institutionalized to a degree where I&#8217;ve come to believe that to run a stable organisation it is aqlmost imperative that you let funding come first, that funding, as a goal, becomes the primary goal. I want my projects to be first,k second and third, and to consider funding at a distant fourth. It is necessary for me to have it be like that. I need to believe in what i do, and being a born sceptic there are very few compromises needed before i lose that faith. </p>
+<p>I see 2 options and a strict deadline:</p>
+<ol>
+<li>I get a job. And interesting job in open source preferably, but a job. Probably one that is based here in Copenhegan, and requires a little less travelling than has been my default for the past 3 years. Ideally a job that has a 4-day work-week, or a 4 week pr. year travel allowance for volunteer jobs, or somehow let&#8217;s me keep in touch with all the wonderful people and projects I have had the extremem good fortune to encounter.
+</li>
+<li>I/we/it merge with another organisation. One that thinks our work, and our existing projects are interesting enough that they will let us do these and others with as little interference as possible. One that sees in what we do, and in our extensive contacts an opportunity big enough that it&#8217;s worth taking on the administrative overhead, the grant-proposal-writing, and the budget reporting, and let us get on with our unique skills, understanding and describing technology from that unique developing world perspective.
+</li>
+</ol>
+<p>Let me know what you think&#8230;..</p>
+<p>The post <a rel="nofollow" href="/index.php/2005/11/25/considering-a-life-less-travelled/">Considering a life less travelled</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2005/11/25/considering-a-life-less-travelled/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">488</post-id>	</item>
+		<item>
+		<title>Namibia Debrief and Detox</title>
+		<link>/index.php/2004/04/04/namibia-debrief-and-detox/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 04 Apr 2004 16:03:52 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=447</guid>
+
+					<description><![CDATA[<p>We spent saturday cleaning up and winding down after the weeks extravaganza. Well, actually i spent most of the day in the foetal position, dehydrated and hungover after and all-night beer and burning (cd&#8217;s) session and nigh on 2 hour of sleep. Debrief and detox&#8230;. In other words, the abuse of a week of social [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/04/04/namibia-debrief-and-detox/">Namibia Debrief and Detox</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We spent saturday cleaning up and winding down after the weeks extravaganza. Well, actually i spent most of the day in the foetal position, dehydrated and hungover after and all-night beer and burning (cd&#8217;s) session and nigh on 2 hour of sleep. Debrief and detox&#8230;.</p>
+<p>In other words, the abuse of a week of social interaction, intellectual challenge, a good bit of hard work, and quite a few namibian beers, finally caught up with me. There was debriefing at the house where Stephanie and Marek from <a href="http://www.tacticaltech.org/">Tactical Tech</a> where staying. I was feeling rough, but there was a good sense of accomplishment in the room, and the discussion was positive and insightful. I love these events, with their dynamic energy, positive people and full-on geek-cred, but obviously they are difficult to pull of, and each one comes with it&#8217;s own set of problems. Listening to the insights of esecially Gunner, who facilitated the event, and Wojtek who spent 20 hours a day managing all the practicalities is a great learning experience. </p>
+<p>Th discussions ranged from evaluations of individual partiipants and their suitability as facilitators for future events, the quality and sheer volume of the food at NIED in Okahandja, and the length, breadth and planning of the sessions.<br />
+Most of the discussion probably shouldn&#8217;t be replicated in public space by me, since I was an invited outsider, and I wouldn&#8217;t want to abuse the trust of the colleagues who confided in me. Suffice it to say, that for myself, it was an awesome chance to learn and hear what others found good and bad, from an event that everyone generally thought was a pretty awesome thing.</p>
+<p>Debrief was finalized with pizza, a great relief from a week of pretty dull food, after which i went straigth to bed for 3 hours of dehydrated, foetal-positioned shaking and moaning. Gunner woke me at around 4, and Kaladan, Micah, Wojtek, Gunner and I went into town. To rehydrate on salty chips and to go baragin hunting at the local Okahandja artifact market. A bowl and a mask later, and I was ready for great veggie dinner, perpetrated by Stephanie and Marek. All things considered it was good to be in closer company, talking about anything except free software for civil society, and it was a great closure to a hard but beautiful week.</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/04/04/namibia-debrief-and-detox/">Namibia Debrief and Detox</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">447</post-id>	</item>
+		<item>
+		<title>OK, I can’t hide it anymore</title>
+		<link>/index.php/2003/05/05/ok-i-cant-hide-it-anymore/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 05 May 2003 16:27:20 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=336</guid>
+
+					<description><![CDATA[<p>I&#8217;m back in Denmark. No hiding here. It was a wonderful vacation, and Brazil remains high on my list of wonderful countries. Len&#231;ois and the Chapada Diamantina, in Central Bahia are especially recommended. There are pictures to be seen here, and perhaps some updated entries from my little black moleskine will show up soonish. Also, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2003/05/05/ok-i-cant-hide-it-anymore/">OK, I can’t hide it anymore</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m back in Denmark. No hiding here.<br />
+It was a wonderful vacation, and Brazil remains high on my list of wonderful countries. Len&ccedil;ois and the Chapada Diamantina, in Central Bahia are especially recommended. </p>
+<p>There are pictures to be seen <a href="http://photo.multiplicity.dk/view_album.php?set_albumName=Brazil2003">here</a>, and perhaps some updated entries from my little black moleskine will show up soonish.</p>
+<p>Also, I promise to start posting links and comments on the ict4dev scene as soon as I get throuygh my e-mail backlog.</p>
+<p>Hope all my friends and family are well.</p>
+<p>The post <a rel="nofollow" href="/index.php/2003/05/05/ok-i-cant-hide-it-anymore/">OK, I can’t hide it anymore</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">336</post-id>	</item>
+		<item>
+		<title>Greetings from Salvador</title>
+		<link>/index.php/2003/04/13/greetings-from-salvador/</link>
+					<comments>/index.php/2003/04/13/greetings-from-salvador/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 13 Apr 2003 16:00:06 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=334</guid>
+
+					<description><![CDATA[<p>So, I had a plan&#8230;. to update this page with a few brief travelaccounts once a week while i was away. Part one of the plan has been succesful. i´ve written a few brief accounts of special experiences in my small leather-bound moleskine notebook (incidentally the notebook favoured by my all-time favourite travel-writer and something [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2003/04/13/greetings-from-salvador/">Greetings from Salvador</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>So, I had a plan&#8230;. to update this page with a few brief travelaccounts once a week while i was away.<br />
+Part one of the plan has been succesful. i´ve written a few brief accounts of special experiences in my small leather-bound moleskine notebook (incidentally the notebook favoured by my all-time favourite travel-writer and something of a personal hero, Bruce Chatwin).</p>
+<p>Part 2 of the plan is more difficult, because whenever I get near an internet café, i spend the first half-hour just sorting through the hundreds of mails in my inbox, and the next half-hour writing personal e-mail to friends and family. by the time i get around to actually updating this page, I, and especially Signe, am yearning to get back on the street, back to the experiences and the excitement that is brazil.</p>
+<p>maybe i´ll have time to transfer some of my small accounts here once i get back, maybe not. here´s a little taster, which might weel be the last lengthy update here until early may when i get back to the office and it´s need for prolonged procrastination.<br />
+<span id="more-334"></span><br />
+<bq>Sitting under a tree, by the Praia Vermelha in Rio. Pão do Açcucar dominates the view, the rest is beach, the moored rowing boats bobbing with the waves, and a small group of locals playing Bossa Nova, Samba, and popular brazilian tunes from the 20´s on various instruments.</p>
+<p>It´s raining, but warm. We´re shielded from the worst of the rain by tropical trees and a few parasols. we´re sitting in the almost ubiquitous plastic garden furniture.<br />
+The music is lively and lovely.</p>
+<p>The view over the water breathtaking.</p>
+<p>It´s a very special monday night for us, our first night in Rio together, in shorts and flip-flops on the beach.</p>
+<p>I start to understand the attraction of this miserable paradise, so lively, so awake yet so unbelievably poor. So full of music, of heart and passion. quitely, perhaps 20 people on a small beach in the tropical rain, tell me more about this beautiful city than any overfilled nightclub, any futebol at the Maracna, or even Copacaban and Ipanema. </p>
+<p>The city lives.</bq></p>
+<p>The post <a rel="nofollow" href="/index.php/2003/04/13/greetings-from-salvador/">Greetings from Salvador</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2003/04/13/greetings-from-salvador/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">334</post-id>	</item>
+		<item>
+		<title>Going to Bahia….</title>
+		<link>/index.php/2003/04/04/going-to-bahia/</link>
+					<comments>/index.php/2003/04/04/going-to-bahia/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2003 09:05:09 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=333</guid>
+
+					<description><![CDATA[<p>Yes, yes, yes&#8230;.. I&#8217;m going to Bahia, with a brief stop in Rio and a trip to Pernambuco. Brazil, here we come. Since the girl of my dreams has finished her Masters degree and is now officially an engineer, AND has landed a dream job in a difficult market, we&#8217;re off to celebrate. It was [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2003/04/04/going-to-bahia/">Going to Bahia….</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Yes, yes, yes&#8230;..</p>
+<p>I&#8217;m going to Bahia, with a brief stop in Rio and a trip to Pernambuco.</p>
+<p>Brazil, here we come.</p>
+<p>Since the girl of my dreams has finished her Masters degree and is now officially an engineer, AND has landed a dream job in a difficult market, we&#8217;re off to celebrate.</p>
+<p>It was a simple decision. The best beaches in the world, amazingly friendly people, a chance to go hiking in Chapada Diamantina, and off-season prices that are payable. The dream vacation.<br />
+<span id="more-333"></span><br />
+Here&#8217;s the rationale leading to us going to Brazil for a 3-week vacatiuon.</p>
+<p>a) let&#8217;s celebrate that Signe finished her masters with an amazing project, and landed her dream job.<br />
+b) we love to travel in exotic places<br />
+c) I&#8217;ve always wanted to see Olinda, because that&#8217;s where my oldest brother met his wife<br />
+d) While I&#8217;ve been to Brazil before, I haven&#8217;t spent much time in the North-East, and Signe has never been.<br />
+e) Since Signe has been a student for most of her life, and I have been starting up a grassroots business focusing on the cash-strapped area of ICT for Development, we have absolutely no money<br />
+f) let&#8217;s spend the rest of the money we don&#8217;t have and worry later.</p>
+<p>It&#8217;s true what they say, Be Happy, Don&#8217;t Worry&#8230; And I am <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/index.php/2003/04/04/going-to-bahia/">Going to Bahia….</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2003/04/04/going-to-bahia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">333</post-id>	</item>
+		<item>
+		<title>Pictures</title>
+		<link>/index.php/2002/11/10/pictures/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 10 Nov 2002 12:30:01 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=222</guid>
+
+					<description><![CDATA[<p>So, I actually got some pictures up&#8230;. have a look at http://photo.multiplicity.dk/ feel free to comment on them. I will hopefully be adding meaningful descriptions to some of these pictures soon.</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/10/pictures/">Pictures</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>So, I actually got some pictures up&#8230;.<br />
+have a look at <a href="http://photo.multiplicity.dk/">http://photo.multiplicity.dk/</a></p>
+<p>feel free to comment on them. I will hopefully be adding meaningful descriptions to some of these pictures soon.</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/10/pictures/">Pictures</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">222</post-id>	</item>
+		<item>
+		<title>tsitsernakaberd</title>
+		<link>/index.php/2002/11/03/tsitsernakaberd/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2002 14:05:41 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=221</guid>
+
+					<description><![CDATA[<p>tsitsernakaberd. monument and museum of the armenian genocide. between 1915 and 1916 the then ottoman empire exterminated (yes, really, exterminated) some 1.5 million armenians living as citizens of the ottoman empire, in what was then known as western armenia (a part of turkey, i might add). they started off by ordering (and completing) the cold-blooded [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/03/tsitsernakaberd/">tsitsernakaberd</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>tsitsernakaberd.<br />
+monument and museum of the armenian genocide.<br />
+between 1915 and 1916 the then ottoman empire exterminated (yes, really, exterminated) some 1.5 million armenians living as citizens of the ottoman empire, in what was then known as western armenia (a part of turkey, i might add). </p>
+<p>they started off by ordering (and completing) the cold-blooded slaughter of some 60,000 armenians in the ottoman armed services, proceeded to deport most armenian intellectuals and political leaders from the cities of western turkey, and went on to attack, and systematically kill the aforementioned (and horrendously large) number of armenians, while simultaneously destroying almost all of a few thousand old armenian churches in the country.</p>
+<p>it has largely been forgotten.<br />
+it is denied vehemently by the turkish government, who have gone so far as to close their borders with the current state of armenia, calling them liars and pretending it did not happen.</p>
+<p>yet there are enough eye-witness accounts, photographs and other historical evidence to make a pretty convincing case for the fact that this was indeed a very real event in the sad history of 20th century europe.</p>
+<p>tstsernakaberd is a very noble, and pretty monument, honouring those who died, and trying to commemorate those terrible events. events that had the bad fortune of occuring during a world war, when so many terrible things were happening, and when so much political shite was being spewed that it largely managed to cover up the genocide that occurred in one small corner of one of the empires that fought and subsequently lost the war.</p>
+<p>i don&#8217;t want to get into the details of genocide, atrocities towards human-kind, or related matters, but visiting the museum at tstsernakaberd made me realize just how scary this really is.</p>
+<p>is it imaginable, that just because this genocide happened 25 years before the next one it has already been forgotten. will the holocaust all but fade into distant memory by the time i&#8217;m middle-aged?</p>
+<p>and how can it be that people like myself, while often getting disgusted by the perversity of holocaust-deniers, has spent little or no time thinking about the perversity of an entire nation (and a large on at that) continuously denying the systematic destruction of a culture, including the killing of 1.5 million people?</p>
+<p>although i know the world at large has not forgotten the suffering, i also know that compared to comparable (if not similar) acts in the 20th century this genocide is nothing but a fading memory.</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/03/tsitsernakaberd/">tsitsernakaberd</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">221</post-id>	</item>
+		<item>
+		<title>meeting people</title>
+		<link>/index.php/2002/11/02/meeting-people/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 02 Nov 2002 17:18:57 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=220</guid>
+
+					<description><![CDATA[<p>it&#8217;s a all a little bit strange. going home! after just 30 days here in armenia, i&#8217;ve started thinking about going home. i&#8217;m ready to go home. i&#8217;ve had a great time here, i love the work i do on a trip like this. i love meeting new people, seeing new places, trying on new [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/02/meeting-people/">meeting people</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>it&#8217;s a all a little bit strange. going home!<br />
+after just 30 days here in armenia, i&#8217;ve started thinking about going home.<br />
+i&#8217;m ready to go home. i&#8217;ve had a great time here, i love the work i do on a trip like this. i love meeting new people, seeing new places, trying on new ideas for size. but at the end of this month, here is one happy camper ready to go back.</p>
+<p>back to friends, family and the girl i love. back to well-known routines, and a country that i know so well, it&#8217;s like an old pair of shoes you don&#8217;t want to give up, because what if the new ones aren&#8217;t as comfortable. back to well-knowns. the ability to buy cornflakes and cook my own dinner. the right to call any one of my friends on any given night, and just pop over, or have dinner together. watch a football game, go to the movies and actually understand what they&#8217;re saying.<br />
+but also back to a place where you&#8217;re not constantly thinking about your actions, because the culture, the language and the people are different, and you don&#8217;t really know what will offend, what will please, and what is just not done.</p>
+<p>the one thing that is kind of sad is all these new people i&#8217;ve met. in a single month i meet more people than in a year back home. some of them are complete strangers, with some i have very little in common, and very little interest in persuing relationships. but with most, i just haven&#8217;t had the time to find out. and never will. </p>
+<p>i don&#8217;t know if they could or would become friends. long-term acquaintances. people i could discuss real issues with. issues that matter to me. </p>
+<p>for most, if not all of these people, i&#8217;ll never find out. i might come back to yerevan, i might even come live here one day. anything is conceivable. but realistically speaking, my world is somewhere else. long-term that is. there are simply too many people i love in denmark. too many reasons to stay. i hope i&#8217;ll have more opportunities to live and work abroad. i wouldn&#8217;t mind coming back to yerevan, or anywhere else i&#8217;ve been, to work and live, and breathe. but the probability is low, and the probability of that place being yerevan, even lower.</p>
+<p>so what about the people i met? most likely they&#8217;ll just glide back out of my circle of acquaintances. we might keep in contact for a while. i even hope i&#8217;ll be back for a short-term stay some time soonish. but most likely they will slowly slip out of my acquaintance. not forgotten, but no longer an integral part of who i am. it&#8217;s kind of sad. mostly because it&#8217;s such a certainty, and because there just might, conceivably be someone in that group of people that would make my life richer for having them as a friend.<br />
+in a way it goes with the territory. with travelling in this way. with being such a restless person. constantly looking for that thing in life that makes a difference.<br />
+and i don&#8217;t regret it. not like that. i just makes me wonder. wonder what all these short-term relationships, passing acquaintances, new impressions, add up to. what they all mean, and how profoundly, or superficially they will end up influencing my life.</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/02/meeting-people/">meeting people</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">220</post-id>	</item>
+		<item>
+		<title>hotel armenia &#8211; saturday at 18:30</title>
+		<link>/index.php/2002/11/02/hotel-armenia-saturday-at-1830/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 02 Nov 2002 13:45:35 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=219</guid>
+
+					<description><![CDATA[<p>cheers everyone, just a few days short of the end of my yerevan adventure, i finally got a dial-up account. or more precisely i borrowed a dial-up from a new isp, with offices in the same hotel as iesc. so here i am, sitting in bed with my laptop on-line for the first time since [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/02/hotel-armenia-saturday-at-1830/">hotel armenia &#8211; saturday at 18:30</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>cheers everyone,</p>
+<p>just a few days short of the end of my yerevan adventure, i finally got a dial-up account. or more precisely i borrowed a dial-up from a new isp, with offices in the same hotel as iesc.</p>
+<p>so here i am, sitting in bed with my laptop on-line for the first time since arriving here (with the exception of some literally useless connectgions at the office).</p>
+<p>we&#8217;re close now. yesterday i gave a seminar on &#8220;Software Development Methodology &#038; Project Management&#8221;. It went well. about 20 participants from a number of armenian it companies, and everyone seemed to find it interesting and fruitful. good!</p>
+<p>today was spent in large part, lounging about, sleeping in, finally gettting around to using the bathtub for what it&#8217;s there for, having a great lunch at the artbridge café, and then going to the market to buy some simpel souvenirs. i got what i came for, there might be pictures at a later time, but decided not to get one of the gorgeous wooden backgammon boards they make here.<br />
+i simply don&#8217;t play backgammon, so it&#8217;s probably pointless to bring one in. </p>
+<p>i did buy a doodook, which is the local armenian reed-instrument, something of a mix between an oboe, and a recorder. just for fun. and a few other curious items.</p>
+<p>apart from that it&#8217;s been a suprememly empty day. and the only thing i kind of regret about this trip is that i haven&#8217;t gotten around to hiking more, seeing more places, and generally using my weekends better. part of that has been due to the workload, trying to get as much as possible done in a fairly short period, and part due to laziness and lack of suitable travel-companions. in that way this has been a totally different kind of trip than mu 3 months in Ghana. staying in a hotel, no other volunteers my age (not entirely true, but&#8230;), and of course just less time to do it all, and get into things, and decide what is worth doing etc.</p>
+<p>right now, i really feel like coming back. i think i&#8217;ll try to arange an adventure tourism trip, and see if i can gather 10 or 12 of my friends to head of to Armenia next year. the opportunities for hiking, mountain-climbing, caving, canoeing, bicycling etc. are almost endless. and it&#8217;s a cheap country too. once you offset the high cost of airfare, by planning at least 3 weeks of ground-time i think it could be an incredible experience. and hopefully Arminag at the Visitor Information Center can help arrange the tours.</p>
+<p>we&#8217;ll see if i ever get round to this, but it&#8217;s a sound plan of action&#8230;.</p>
+<p>The post <a rel="nofollow" href="/index.php/2002/11/02/hotel-armenia-saturday-at-1830/">hotel armenia &#8211; saturday at 18:30</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">219</post-id>	</item>
+	</channel>
+</rss>

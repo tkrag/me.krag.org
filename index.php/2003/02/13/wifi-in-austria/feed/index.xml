@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: WiFi in Austria	</title>
+	<atom:link href="/index.php/2003/02/13/wifi-in-austria/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/02/13/wifi-in-austria/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 13 Feb 2003 09:53:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: mor		</title>
+		<link>/index.php/2003/02/13/wifi-in-austria/#comment-88</link>
+
+		<dc:creator><![CDATA[mor]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=291#comment-88</guid>
+
+					<description><![CDATA[hej
+
+det lyder da interessant. så, jeg får ingen båndbrede problemer. til gengæld har jeg problemer med at forstå din fagjargon i disse dage. forståeligt nok er du lidt nørdet her op til din konference. det er jeg også med mine sager. jeg tager til wien i morgen. om jeg roamer får vi at se. held og lykke med det hele.]]></description>
+			<content:encoded><![CDATA[<p>hej</p>
+<p>det lyder da interessant. så, jeg får ingen båndbrede problemer. til gengæld har jeg problemer med at forstå din fagjargon i disse dage. forståeligt nok er du lidt nørdet her op til din konference. det er jeg også med mine sager. jeg tager til wien i morgen. om jeg roamer får vi at se. held og lykke med det hele.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Beate		</title>
+		<link>/index.php/2003/02/13/wifi-in-austria/#comment-89</link>
+
+		<dc:creator><![CDATA[Beate]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=291#comment-89</guid>
+
+					<description><![CDATA[19,98 Euro for 2 hours is a good price. In relation to other offers/countries you don´t have to use 2 hours at once but whenever you need it. In any case much cheaper and faster than GPRS and more comfortable than internet cafes.]]></description>
+			<content:encoded><![CDATA[<p>19,98 Euro for 2 hours is a good price. In relation to other offers/countries you don´t have to use 2 hours at once but whenever you need it. In any case much cheaper and faster than GPRS and more comfortable than internet cafes.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: tomas		</title>
+		<link>/index.php/2003/02/13/wifi-in-austria/#comment-90</link>
+
+		<dc:creator><![CDATA[tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=291#comment-90</guid>
+
+					<description><![CDATA[hmmm, i&#039;m using it daily here, so i can&#039;t be all that dissatisfied with the price ;-)
+
+but when i think about the fact that i give away this kind of access for free in copenhagen....
+
+i appreciate the fact that metronet is quite easy to find here, and their service is good, and just for the record, i&#039;d never consider using gprs for anything except emergency e-mail ;-)]]></description>
+			<content:encoded><![CDATA[<p>hmmm, i&#8217;m using it daily here, so i can&#8217;t be all that dissatisfied with the price 😉</p>
+<p>but when i think about the fact that i give away this kind of access for free in copenhagen&#8230;.</p>
+<p>i appreciate the fact that metronet is quite easy to find here, and their service is good, and just for the record, i&#8217;d never consider using gprs for anything except emergency e-mail 😉</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

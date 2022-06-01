@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Speaking at O’Reilly Emerging Tech	</title>
+	<atom:link href="/index.php/2003/10/24/speaking-at-oreilly-emerging-tech/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/10/24/speaking-at-oreilly-emerging-tech/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 24 Oct 2003 10:06:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Rainer		</title>
+		<link>/index.php/2003/10/24/speaking-at-oreilly-emerging-tech/#comment-200</link>
+
+		<dc:creator><![CDATA[Rainer]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=415#comment-200</guid>
+
+					<description><![CDATA[Congratulations! A great conference.
+I hope there will be a live cam ;-)]]></description>
+			<content:encoded><![CDATA[<p>Congratulations! A great conference.<br />
+I hope there will be a live cam 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: George Dafermos		</title>
+		<link>/index.php/2003/10/24/speaking-at-oreilly-emerging-tech/#comment-201</link>
+
+		<dc:creator><![CDATA[George Dafermos]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=415#comment-201</guid>
+
+					<description><![CDATA[many kudos!
+
+and yes, i agree it&#039;s a shame that ETCON is not reimbursing speakers&#039; travel expenses, however, it seems your finances are swiftly improving to afford taking a trip to the states. in any case, i&#039;m glad you&#039;ll be there to speak about wireless revolutions!]]></description>
+			<content:encoded><![CDATA[<p>many kudos!</p>
+<p>and yes, i agree it&#8217;s a shame that ETCON is not reimbursing speakers&#8217; travel expenses, however, it seems your finances are swiftly improving to afford taking a trip to the states. in any case, i&#8217;m glad you&#8217;ll be there to speak about wireless revolutions!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

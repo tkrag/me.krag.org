@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: at heathrow…	</title>
+	<atom:link href="/index.php/2002/10/07/at-heathrow/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2002/10/07/at-heathrow/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 07 Oct 2002 13:38:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: San Shepherd		</title>
+		<link>/index.php/2002/10/07/at-heathrow/#comment-16</link>
+
+		<dc:creator><![CDATA[San Shepherd]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=212#comment-16</guid>
+
+					<description><![CDATA[Where are all the nice photos I&#039;ve been sitting here expantantly expecting for the last 10 days?]]></description>
+			<content:encoded><![CDATA[<p>Where are all the nice photos I&#8217;ve been sitting here expantantly expecting for the last 10 days?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: tt		</title>
+		<link>/index.php/2002/10/07/at-heathrow/#comment-17</link>
+
+		<dc:creator><![CDATA[tt]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=212#comment-17</guid>
+
+					<description><![CDATA[Blame the armenien internet connections. i&#039;ve trried for 10 days now to get my laptop on-line, but so far no major successes. i.e. it&#039;s practivcally impossible for me to get any decent pictures on-line from here.
+
+i&#039;m working on the problem though....]]></description>
+			<content:encoded><![CDATA[<p>Blame the armenien internet connections. i&#8217;ve trried for 10 days now to get my laptop on-line, but so far no major successes. i.e. it&#8217;s practivcally impossible for me to get any decent pictures on-line from here.</p>
+<p>i&#8217;m working on the problem though&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

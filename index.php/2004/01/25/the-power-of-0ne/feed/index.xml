@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The power of 0ne	</title>
+	<atom:link href="/index.php/2004/01/25/the-power-of-0ne/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/01/25/the-power-of-0ne/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 25 Jan 2004 13:01:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: mrG		</title>
+		<link>/index.php/2004/01/25/the-power-of-0ne/#comment-209</link>
+
+		<dc:creator><![CDATA[mrG]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=433#comment-209</guid>
+
+					<description><![CDATA[This was pretty much the role of the Internet Societal Task Force (ISTF), the abandoned child of the Internet Society (ISOC) who&#039;s role was initially conceived as a task force to identify and then try to fix these local problems using only the power of the internet to connect with the local people, share everyone&#039;s experience, help in whatever way the grassroots workers thought they might need.
+
+it hasn&#039;t been wildly successful.  I don&#039;t know if it had anything to do with our political initiatives post 9-11 in trying to retain internet access in nations where the US gov&#039;t was disconnnecting &quot;terrorism-linked&quot; ISPs, or maybe it was just because we were loud and unruly, but ISOC demoted us from a Task Force to a Discussion Group.
+
+But we push on because, like you, we think change can work if we the little people just take the bull by the horns ourselves and do what we can.
+
+For more information on the ISTF and it&#039;s modern evolution: http://www.internetforce.org/tiki/tiki-index.php]]></description>
+			<content:encoded><![CDATA[<p>This was pretty much the role of the Internet Societal Task Force (ISTF), the abandoned child of the Internet Society (ISOC) who&#8217;s role was initially conceived as a task force to identify and then try to fix these local problems using only the power of the internet to connect with the local people, share everyone&#8217;s experience, help in whatever way the grassroots workers thought they might need.</p>
+<p>it hasn&#8217;t been wildly successful.  I don&#8217;t know if it had anything to do with our political initiatives post 9-11 in trying to retain internet access in nations where the US gov&#8217;t was disconnnecting &#8220;terrorism-linked&#8221; ISPs, or maybe it was just because we were loud and unruly, but ISOC demoted us from a Task Force to a Discussion Group.</p>
+<p>But we push on because, like you, we think change can work if we the little people just take the bull by the horns ourselves and do what we can.</p>
+<p>For more information on the ISTF and it&#8217;s modern evolution: <a href="http://www.internetforce.org/tiki/tiki-index.php" rel="nofollow ugc">http://www.internetforce.org/tiki/tiki-index.php</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

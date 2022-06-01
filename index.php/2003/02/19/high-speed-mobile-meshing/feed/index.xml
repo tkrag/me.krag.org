@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: high speed mobile meshing	</title>
+	<atom:link href="/index.php/2003/02/19/high-speed-mobile-meshing/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/02/19/high-speed-mobile-meshing/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 19 Feb 2003 20:29:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: m u l · t i · p l i c · i · t y		</title>
+		<link>/index.php/2003/02/19/high-speed-mobile-meshing/#comment-97</link>
+
+		<dc:creator><![CDATA[m u l · t i · p l i c · i · t y]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=302#comment-97</guid>
+
+					<description><![CDATA[&lt;strong&gt;The wireless Mesh caravn revisited&lt;/strong&gt;
+
+c o d e r l o g I recently wrote about the WiFi Caravan; an attempt at maintaining a wireless mesh network while driving through the US. this article on coderlog, is all about what went wrong.... this one, is more of a general description of how it all...]]></description>
+			<content:encoded><![CDATA[<p><strong>The wireless Mesh caravn revisited</strong></p>
+<p>c o d e r l o g I recently wrote about the WiFi Caravan; an attempt at maintaining a wireless mesh network while driving through the US. this article on coderlog, is all about what went wrong&#8230;. this one, is more of a general description of how it all&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

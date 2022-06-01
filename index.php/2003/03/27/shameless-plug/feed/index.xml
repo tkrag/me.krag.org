@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Shameless plug	</title>
+	<atom:link href="/index.php/2003/03/27/shameless-plug/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/03/27/shameless-plug/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 27 Mar 2003 09:25:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Peter		</title>
+		<link>/index.php/2003/03/27/shameless-plug/#comment-107</link>
+
+		<dc:creator><![CDATA[Peter]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=325#comment-107</guid>
+
+					<description><![CDATA[Tomas I am going have to learn danish if I want to keep reading your web log.  All I know for now is
+&quot;det var som fanden&quot; which, although probably useful in a number of situations, somewhat limits me.  I don&#039;t know, can I even say that in a web log?]]></description>
+			<content:encoded><![CDATA[<p>Tomas I am going have to learn danish if I want to keep reading your web log.  All I know for now is<br />
+&#8220;det var som fanden&#8221; which, although probably useful in a number of situations, somewhat limits me.  I don&#8217;t know, can I even say that in a web log?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: simon		</title>
+		<link>/index.php/2003/03/27/shameless-plug/#comment-108</link>
+
+		<dc:creator><![CDATA[simon]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=325#comment-108</guid>
+
+					<description><![CDATA[translate it for us Tomas? :-)]]></description>
+			<content:encoded><![CDATA[<p>translate it for us Tomas? 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: m u l · t i · p l i c · i · t y		</title>
+		<link>/index.php/2003/03/27/shameless-plug/#comment-109</link>
+
+		<dc:creator><![CDATA[m u l · t i · p l i c · i · t y]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=325#comment-109</guid>
+
+					<description><![CDATA[&lt;strong&gt;Shameless plug - follow-up&lt;/strong&gt;
+
+After a number of requests (well actually two), I&#039;ve thrown together a quick translation of the article on Ghana Telecom in which I am heavily quoted. I posted this shameless plug yesterday. And got these comments: Tomas I am going have to learn danish...]]></description>
+			<content:encoded><![CDATA[<p><strong>Shameless plug &#8211; follow-up</strong></p>
+<p>After a number of requests (well actually two), I&#8217;ve thrown together a quick translation of the article on Ghana Telecom in which I am heavily quoted. I posted this shameless plug yesterday. And got these comments: Tomas I am going have to learn danish&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

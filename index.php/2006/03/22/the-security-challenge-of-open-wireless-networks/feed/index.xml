@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Security Challenge of Open Wireless Networks	</title>
+	<atom:link href="/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 21 Jun 2007 23:54:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: emurhfkq		</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comment-246</link>
+
+		<dc:creator><![CDATA[emurhfkq]]></dc:creator>
+		<pubDate>Thu, 21 Jun 2007 23:54:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492#comment-246</guid>
+
+					<description><![CDATA[&lt;p&gt;people are stranger&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>people are stranger</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: tkrag		</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comment-245</link>
+
+		<dc:creator><![CDATA[tkrag]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2006 22:15:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492#comment-245</guid>
+
+					<description><![CDATA[Max, that&#039;s a good point, and to a certain degree just strengthens my point that there are potential security issues that need to be dealt with in these scenario&#039;s, and since most Fon users cannot be expected to be able to properly setup iptables, this is a non-trivial issue. I think my point with the multiple VLAN&#039;s was meant to be that, with that feature, and some good default firewall rules it is possible to make a reasonably secure segregation of traffic, something that simply isn&#039;t possible with a standard (cheap) DSL router or modem and a single Linksys box for wireless (at least not without some tunneling or VPN).
+
+cheers
+
+/tomas]]></description>
+			<content:encoded><![CDATA[<p>Max, that&#8217;s a good point, and to a certain degree just strengthens my point that there are potential security issues that need to be dealt with in these scenario&#8217;s, and since most Fon users cannot be expected to be able to properly setup iptables, this is a non-trivial issue. I think my point with the multiple VLAN&#8217;s was meant to be that, with that feature, and some good default firewall rules it is possible to make a reasonably secure segregation of traffic, something that simply isn&#8217;t possible with a standard (cheap) DSL router or modem and a single Linksys box for wireless (at least not without some tunneling or VPN).</p>
+<p>cheers</p>
+<p>/tomas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Max Horvath		</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comment-244</link>
+
+		<dc:creator><![CDATA[Max Horvath]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2006 19:57:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492#comment-244</guid>
+
+					<description><![CDATA[Well, seperating the LAN from the WLAN via VLANs doesn&#039;t really protect the access to a local network when the router&#039;s WAN is connected to a local network itself.
+
+To protect this local network I blocked access via WLAN to every private IP possible in the router&#039;s firewall (using iptables).
+
+This way a local network cannot be accessed via WLAN at all.
+
+Cheers, Max]]></description>
+			<content:encoded><![CDATA[<p>Well, seperating the LAN from the WLAN via VLANs doesn&#8217;t really protect the access to a local network when the router&#8217;s WAN is connected to a local network itself.</p>
+<p>To protect this local network I blocked access via WLAN to every private IP possible in the router&#8217;s firewall (using iptables).</p>
+<p>This way a local network cannot be accessed via WLAN at all.</p>
+<p>Cheers, Max</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michael Lenczner		</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comment-243</link>
+
+		<dc:creator><![CDATA[Michael Lenczner]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2006 15:41:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492#comment-243</guid>
+
+					<description><![CDATA[&quot;I think the Man-in-the-middle challenge is more complicated than simple authentication&quot;
+
+ya.  definitely.]]></description>
+			<content:encoded><![CDATA[<p>&#8220;I think the Man-in-the-middle challenge is more complicated than simple authentication&#8221;</p>
+<p>ya.  definitely.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: tkrag		</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comment-242</link>
+
+		<dc:creator><![CDATA[tkrag]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2006 15:35:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492#comment-242</guid>
+
+					<description><![CDATA[First of all, i am by no means a security expert, but I think the Man-in-the-middle challenge is more complicated than simple authentication. First of all, a Rogue AP could offer up a fake captive portal page (copied from the real network) in what is very similar to a phishing attack, except that (because the rogue AP controls DNS) it isn&#039;t even visible in the URL. Using https with a &quot;real&quot; certificate, would mean that the user would get a certificate warning in their browser when accessing the fake captive portal page, but having set-up lots of chillispot auth systems with self-signed certificates, I can pretty safely say that most users would just accept the self-signed certficate, because they assume they are on a good network.
+
+The other way this can be done, is for someone to setup a machine with 2 radios as a transparent bridge between the user and the real access point (using the same essid, but with a stronger radio), and let all the auth happen through the transparent bridge, and just passively sniffing traffic until the user goes to an interesting web-page, i.e. their bank, at which point the transparent bridge becomes a web proxy that accepts the password on behalf of the user and passes it on to the actual bank. 
+
+I am sure there are ways to deal with these issues, that do not require tunneling through the AP, but i have a hard time seeing what would be more trust-worthy than tunneling back to a piece equipment you trust, i.e. your own access point. 
+
+I realize that your access point may be compromised as well, and that truly each tunnel should go to the end-point server where that servic is being accessed, but that seems fairly unrealistic to me, compared to the simpler solution of just creating a tunnel.
+
+cheers
+
+/tomas]]></description>
+			<content:encoded><![CDATA[<p>First of all, i am by no means a security expert, but I think the Man-in-the-middle challenge is more complicated than simple authentication. First of all, a Rogue AP could offer up a fake captive portal page (copied from the real network) in what is very similar to a phishing attack, except that (because the rogue AP controls DNS) it isn&#8217;t even visible in the URL. Using https with a &#8220;real&#8221; certificate, would mean that the user would get a certificate warning in their browser when accessing the fake captive portal page, but having set-up lots of chillispot auth systems with self-signed certificates, I can pretty safely say that most users would just accept the self-signed certficate, because they assume they are on a good network.</p>
+<p>The other way this can be done, is for someone to setup a machine with 2 radios as a transparent bridge between the user and the real access point (using the same essid, but with a stronger radio), and let all the auth happen through the transparent bridge, and just passively sniffing traffic until the user goes to an interesting web-page, i.e. their bank, at which point the transparent bridge becomes a web proxy that accepts the password on behalf of the user and passes it on to the actual bank. </p>
+<p>I am sure there are ways to deal with these issues, that do not require tunneling through the AP, but i have a hard time seeing what would be more trust-worthy than tunneling back to a piece equipment you trust, i.e. your own access point. </p>
+<p>I realize that your access point may be compromised as well, and that truly each tunnel should go to the end-point server where that servic is being accessed, but that seems fairly unrealistic to me, compared to the simpler solution of just creating a tunnel.</p>
+<p>cheers</p>
+<p>/tomas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Michael Lenczner		</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comment-241</link>
+
+		<dc:creator><![CDATA[Michael Lenczner]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2006 15:17:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492#comment-241</guid>
+
+					<description><![CDATA[&quot;Using VLANâ€<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s, either wireless or wired, to segregate Fon user traffic from local user traffic could be used to improve local security. However, using just the equipment available from the ISP (a low-cost router) and Fonâ€<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s access point, there doesnâ€<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t seem to be a fool-proof way to segregate traffic logically or physically, without using some sort of tunneling or vpn. (I might be wrong here, so please do correct me if I am).&quot;
+
+Hey Thomas.  At ISF we seperate wireless traffic from the LAN so that our members can&#039;t access the owner&#039;s network.  The linksys will let you set up different networks on each interface.  I imagine you already know that.  But we can&#039;t seperate members&#039; wireless traffic from the owner&#039;s wireless traffic.
+
+Also - re: man in the middle - What about authetification.  I know that it was a big deal when we designed wifidog that our hotspots *would not* be able to catch the authentification information of our users.  User authenticates with the central server in a way that the hotspot owner can&#039;t eavesdrop.]]></description>
+			<content:encoded><![CDATA[<p>&#8220;Using VLANâ€™s, either wireless or wired, to segregate Fon user traffic from local user traffic could be used to improve local security. However, using just the equipment available from the ISP (a low-cost router) and Fonâ€™s access point, there doesnâ€™t seem to be a fool-proof way to segregate traffic logically or physically, without using some sort of tunneling or vpn. (I might be wrong here, so please do correct me if I am).&#8221;</p>
+<p>Hey Thomas.  At ISF we seperate wireless traffic from the LAN so that our members can&#8217;t access the owner&#8217;s network.  The linksys will let you set up different networks on each interface.  I imagine you already know that.  But we can&#8217;t seperate members&#8217; wireless traffic from the owner&#8217;s wireless traffic.</p>
+<p>Also &#8211; re: man in the middle &#8211; What about authetification.  I know that it was a big deal when we designed wifidog that our hotspots *would not* be able to catch the authentification information of our users.  User authenticates with the central server in a way that the hotspot owner can&#8217;t eavesdrop.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

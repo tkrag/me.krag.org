@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Voice over IP argument	</title>
+	<atom:link href="/index.php/2003/02/03/the-voice-over-ip-argument/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/02/03/the-voice-over-ip-argument/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 03 Feb 2003 09:57:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Patrizia		</title>
+		<link>/index.php/2003/02/03/the-voice-over-ip-argument/#comment-69</link>
+
+		<dc:creator><![CDATA[Patrizia]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=269#comment-69</guid>
+
+					<description><![CDATA[Now if you need to invest in dedicated VoIP equipment, that could still set you back over USD 500 for each unit (not counting the IP to copper gateway), which is a lot of money.
+
+We have IP telephones that work without the need of a computer ( essential for no business and out of business hours use) that cost maximum $200.
+
+Telephony traffic is split (more-or-less) evenly between each of the telco’s at either end, ie. quite a bit of revenue is generated for a national telco (or a commercial telco that then pays license-fees to the government). With IP networks, on the other hand, it is pure cost for the telco’s, who are paying the full traffic fees to the company that owns the International IP lines.
+
+
+The revenue of the Telco&#039;s is far overcoming the real cost of the service.
+Anyway they are STILL making a huge profit in the leasing of the DATA line.
+It is time to stop to feed these real parasites that do nothing else than blocking the progress, with thier outdated and anachronistic Monopolies.
+
+
+The ultimate conclusion of this is probably echoing David Brake’s, namely that this is a hugely complex matter, and we need more research!. But on a more practical level, we need to solve the complexities of setting up VoIP. There should be a simple to use, out-of-the-box, Open Source solution for VoIP, that way the political issues may still be there, but the high price, and complexity of getting this to work could be a thing of the past.
+
+The solution is in plugging a new device to the usual line:
+
+An IP phone.
+
+Please read my pages:
+
+http://www.worldonip.com/community
+
+and this article:
+
+To understand what&#039;s going to happen to the telephone companies thanks to  Voice over IP (VoIP) you only need to know one story: ZapMail. 
+
+The story goes like this. In 1984, flush from the success of their overnight delivery business, Federal Express announced a new service called ZapMail, which guaranteed document delivery in 2 hours. They built this service not by replacing their planes with rockets, but with fax machines. 
+
+This was CEO Fred Smith&#039;s next big idea after the original delivery business. Putting a fax machine in every FedEx office would radically reconfigure the center of their network, thus slashing costs: toner would replace jet fuel, bike messenger&#039;s hourly rates would replace pilot&#039;s salaries, and so on. With a much less expensive network, FedEx could attract customers with a discount on regular delivery rates, but with the dramatically lower costs, profit margins would be huge compared to actually moving packages point to point. Lower prices, higher margins, and to top it all off, the customer would get their documents in 2 hours instead of 24. What&#039;s not to love? 
+
+Abject failure was not to love, as it turned out. Two years and hundreds of millions of dollars later, FedEx pulled the plug on ZapMail, allowing it to vanish without a trace. And the story of ZapMail&#039;s collapse holds a crucial lesson for the telephone companies today. 
+
+The Customer is the Competitor 
+
+ZapMail had three fatal weaknesses. 
+
+First of all, Federal Express didn&#039;t get that faxing was a product, not a service. FedEx understood that faxing would be cheaper than physical delivery. What they missed, however, was that their customers understood this too. The important business decision wasn&#039;t when to pay for individual faxes, as the ZapMail model assumed, but rather when to buy a fax machine. The service was enabled by the device, and the business opportunity was in selling the devices. 
+
+Second, because FedEx thought of faxing as a service, it failed to understand how the fax network would be built. FedEx was correct in assuming it would take hundreds of millions of dollars to create a useful network. (It has taken billions, in fact, over the last two decades.) However, instead of the single massive build out FedEx undertook, the network was constructed by individual customers buying one fax machine at a time. The capital expenditure was indeed huge, but it was paid for in tiny chunks, at the edges of the network. 
+
+Finally, because it misunderstood how the fax network would be built, FedEx misunderstood who its competition was. Seeing itself in the delivery business, it thought it had only UPS and DHL to worry about. What FedEx didn&#039;t see was that its customers were its competition. ZapMail offered two hour delivery for slightly reduced prices, charged each time a message was sent. A business with a fax machine, on the other hand, could send and receive an unlimited number of messages almost instantaneously and at little cost, for a one-time hardware fee of a few hundred dollars. 
+
+There was simply no competition. ZapMail looked good next to FedEx&#039;s physical delivery option, but compared to the advantages enjoyed by the owners of fax machines, it was laughable. If the phone network offered cheap service, it was better to buy a device to tap directly into that than to allow FedEx to overcharge for an interface to that network that created no additional value. The competitive force that killed ZapMail was the common sense of its putative users. 
+
+ZapPhone 
+
+The business Fred Smith imagined being in -- build a network that&#039;s cheap to run but charge customers as it if were expensive -- is the business the telephone companies are in today. They are selling us a kind of ZapPhone service, where they&#039;ve digitized their entire network up to the last mile, but are still charging the high and confusing rates established when the network was analog. 
+
+The original design of the circuit-switched telephone network required the customers to lease a real circuit of copper wire for the duration of their call. Those days are long over, as copper wires have been largely replaced by fiber optic cable. Every long distance phone call and virtually every local call is now digitized for at least some part of its journey. 
+
+As FedEx was about faxes, the telephone companies are in deep denial about the change from analog to digital. A particularly clueless report written for the telephone companies offers this choice bit of advice:
+
+Telcos gain billions in service fees from [...] services like Call Forwarding and Call Waiting [...]. Hence, capex programs that shift a telco, say, from TDM to IP, as in a softswitch approach that might have less capital intensity, must absolutely preserve the revenue stream. [ http://www.proberesearch.com/alerts/refocusing.htm] 
+You don&#039;t need to know telephone company jargon to see that this is the ZapMail strategy. 
+Step #1: Scrap the existing network, which relies on pricey hardware switches and voice-specific protocols like Time Division Multiplexing (TDM). 
+Step #2: Replace it with a network that runs on inexpensive software switches and Internet Protocol (IP). This new network will cost less to build and be much cheaper to run. 
+Step #3: &quot;Preserve the revenue stream&quot; by continuing to charge the prices from the old, expensive network. 
+
+This will not work, because the customers don&#039;t need to wait for the telephone companies to offer services based on IP. The customers already have access to an IP network -- it&#039;s called the internet. And like the fax machine, they are going to buy devices that enable the services they want on top of this network, without additional involvement by the telephone companies. 
+
+Two cheap consumer devices loom large on this front, devices that create enormous value for the owners while generating little revenue for the phone companies. The first is WiFi access points, which allow the effortless sharing of broadband connections, and the second is our VoIP phones, a real, faithfull replica of the usual phones, the difference is : once you paid the device you won&#039;t pay the service anymore.
+And the device is much cheaper than a FAX Machine.
+And they do not need a COMPUTER.
+
+Till now the VOIP was a market almost exclusively for business people.
+Who in a normal house was going to switch on a computer to make or receive a telephone call?
+While the business people have the computer on, connected to the data line, at least for all the business hours.
+Besides the quality of voice was far away from the one of the usual telephone lines 
+
+In classic ZapMail fashion, the telephone companies misunderstand the VOIP business. VOIP is a product, not a service, and they assume their competition is limited to other service companies. 
+
+VoIP -- Phone calls at internet prices 
+
+Voice over IP is the area where a service is becoming a product. 
+Our phones are the new Fax Machines. You plug them to the normal telephone line or to the ISDN line or to a DSL line and you call the World for free.
+It is true, like a fax machine, you could only fax to people who owned a fax machine.
+But that was not a problem for long.
+In a little time everybody had a fax machine ( of course among the people who needed to send and receive faxes).
+But nowaday, EVERYBODY uses the phone. What about those few millions who pay $25 flat rate for a DSL line? Don&#039;t they want to use it for calling at no extra cost? They just need to invest in a small device. ( 150$) 
+
+ 
+
+Voice quality is not an issue anymore 
+
+
+Once you had to accept delays, echoes, bad quality of voice.
+Now with us, the quality IS EXACTLY THE SAME.
+I called sometime ago my cousin John in Denver from Carmagnola.
+
+He said: &quot; I cannot believe my ears. It is even better than my portable phone. I think you will be succesful, because, I DO NOT KNOW ONE SINGLE SOUL THAT WOULDN&#039;T BE HAPPY TO SAVE ON TELEPHONE CALLS.
+
+Now that VoIP has reached that quality, VoIP offers one feature the phone companies can&#039;t touch: price. 
+
+The service fees charged by the average telephone company (call waiting, caller ID, dial-tone and number portability fees, etc) add enough to the cost of a phone that a two-line household that moved only its second line to VoIP could save $40 a month before making their first actual phone call. By simply paying for the costs of the related services, a VoIP customer can get all their domestic phone calls thrown in as a freebie. 
+
+As with ZapMail, the principal threat to the telephone companies&#039; ability to shrink costs but not revenues is their customers&#039; common sense. Given the choice, an increasing number of customers will simply bypass the phone company and buy the hardware necessary to acquire the service on their own. 
+
+And hardware symbiosis will further magnify the threat of WiFi and VoIP. 
+And that can easily be reality with our real portable IP phone and the &quot;Hot Spots&quot; web that I am eager to build.
+
+The economic logic of customer owned networks 
+
+According to Metcalfe&#039;s Law, the value of an internet connection rises with the number of users on the network. However, the phone companies do not get to raise their prices in return for that increase in value. This is a matter of considerable frustration to them. 
+
+The economic logic of the market suggests that capital should be invested by whoever captures the value of the investment. The telephone companies are using that argument to suggest that they should either be given monopoly pricing power over the last mile, or that they should be allowed to vertically integrate content with conduit. Either strategy would allow them to raise prices by locking out the competition, thus restoring their coercive power over the customer and helping them extract new revenues from their internet subscribers. 
+
+However, a second possibility has appeared. If the economics of internet connectivity lets the user rather than the network operator capture the residual value of the network, the economics likewise suggest that the user should be the builder and owner of the network infrastructure. 
+
+And here comes my project: The World on IP community, where the people rule the infrastructures and make the VOIP a product (a phone) and not a service.
+The new IP portable phone will use the same infrastructure, the user will need just to invest $100 in an Access point.
+And the spreading of the HOT SPOTS will be even faster than the Fax machines.
+
+Hotels, restaurants, touristic places, shops, they will offer a DSL line with a HOT SPOT as value added service.
+It costs less than the air conditioning and catches far more customers.
+
+And that itself would cover 80% of our network.
+People use the telephone mainly from home or from the place where they work (no problem building access points there) or where they go on vacation (see above).
+
+We won&#039;t sell a phone with the service ( call termination) we will sell two phones.
+One for the buyer and one for the people he wants to call.
+Or we just sell a phone and let the buyer find the Hot Spots on our website.
+
+
+
+The creation of the fax network was the first time this happened, but it won&#039;t be the last. WiFi hubs and VoIP adapters allow the users to build out the edges of the network without needing to ask the phone companies for either help or permission. Thanks to the move from analog to digital networks, the telephone companies&#039; most significant competition is now their customers, because if the customer can buy a simple device that makes wireless connectivity or IP phone calls possible, then anything the phone companies offer by way of competition is nothing more than the latest version of ZapMail. 
+
+
+Regards
+
+Patrizia]]></description>
+			<content:encoded><![CDATA[<p>Now if you need to invest in dedicated VoIP equipment, that could still set you back over USD 500 for each unit (not counting the IP to copper gateway), which is a lot of money.</p>
+<p>We have IP telephones that work without the need of a computer ( essential for no business and out of business hours use) that cost maximum $200.</p>
+<p>Telephony traffic is split (more-or-less) evenly between each of the telco’s at either end, ie. quite a bit of revenue is generated for a national telco (or a commercial telco that then pays license-fees to the government). With IP networks, on the other hand, it is pure cost for the telco’s, who are paying the full traffic fees to the company that owns the International IP lines.</p>
+<p>The revenue of the Telco&#8217;s is far overcoming the real cost of the service.<br />
+Anyway they are STILL making a huge profit in the leasing of the DATA line.<br />
+It is time to stop to feed these real parasites that do nothing else than blocking the progress, with thier outdated and anachronistic Monopolies.</p>
+<p>The ultimate conclusion of this is probably echoing David Brake’s, namely that this is a hugely complex matter, and we need more research!. But on a more practical level, we need to solve the complexities of setting up VoIP. There should be a simple to use, out-of-the-box, Open Source solution for VoIP, that way the political issues may still be there, but the high price, and complexity of getting this to work could be a thing of the past.</p>
+<p>The solution is in plugging a new device to the usual line:</p>
+<p>An IP phone.</p>
+<p>Please read my pages:</p>
+<p><a href="http://www.worldonip.com/community" rel="nofollow ugc">http://www.worldonip.com/community</a></p>
+<p>and this article:</p>
+<p>To understand what&#8217;s going to happen to the telephone companies thanks to  Voice over IP (VoIP) you only need to know one story: ZapMail. </p>
+<p>The story goes like this. In 1984, flush from the success of their overnight delivery business, Federal Express announced a new service called ZapMail, which guaranteed document delivery in 2 hours. They built this service not by replacing their planes with rockets, but with fax machines. </p>
+<p>This was CEO Fred Smith&#8217;s next big idea after the original delivery business. Putting a fax machine in every FedEx office would radically reconfigure the center of their network, thus slashing costs: toner would replace jet fuel, bike messenger&#8217;s hourly rates would replace pilot&#8217;s salaries, and so on. With a much less expensive network, FedEx could attract customers with a discount on regular delivery rates, but with the dramatically lower costs, profit margins would be huge compared to actually moving packages point to point. Lower prices, higher margins, and to top it all off, the customer would get their documents in 2 hours instead of 24. What&#8217;s not to love? </p>
+<p>Abject failure was not to love, as it turned out. Two years and hundreds of millions of dollars later, FedEx pulled the plug on ZapMail, allowing it to vanish without a trace. And the story of ZapMail&#8217;s collapse holds a crucial lesson for the telephone companies today. </p>
+<p>The Customer is the Competitor </p>
+<p>ZapMail had three fatal weaknesses. </p>
+<p>First of all, Federal Express didn&#8217;t get that faxing was a product, not a service. FedEx understood that faxing would be cheaper than physical delivery. What they missed, however, was that their customers understood this too. The important business decision wasn&#8217;t when to pay for individual faxes, as the ZapMail model assumed, but rather when to buy a fax machine. The service was enabled by the device, and the business opportunity was in selling the devices. </p>
+<p>Second, because FedEx thought of faxing as a service, it failed to understand how the fax network would be built. FedEx was correct in assuming it would take hundreds of millions of dollars to create a useful network. (It has taken billions, in fact, over the last two decades.) However, instead of the single massive build out FedEx undertook, the network was constructed by individual customers buying one fax machine at a time. The capital expenditure was indeed huge, but it was paid for in tiny chunks, at the edges of the network. </p>
+<p>Finally, because it misunderstood how the fax network would be built, FedEx misunderstood who its competition was. Seeing itself in the delivery business, it thought it had only UPS and DHL to worry about. What FedEx didn&#8217;t see was that its customers were its competition. ZapMail offered two hour delivery for slightly reduced prices, charged each time a message was sent. A business with a fax machine, on the other hand, could send and receive an unlimited number of messages almost instantaneously and at little cost, for a one-time hardware fee of a few hundred dollars. </p>
+<p>There was simply no competition. ZapMail looked good next to FedEx&#8217;s physical delivery option, but compared to the advantages enjoyed by the owners of fax machines, it was laughable. If the phone network offered cheap service, it was better to buy a device to tap directly into that than to allow FedEx to overcharge for an interface to that network that created no additional value. The competitive force that killed ZapMail was the common sense of its putative users. </p>
+<p>ZapPhone </p>
+<p>The business Fred Smith imagined being in &#8212; build a network that&#8217;s cheap to run but charge customers as it if were expensive &#8212; is the business the telephone companies are in today. They are selling us a kind of ZapPhone service, where they&#8217;ve digitized their entire network up to the last mile, but are still charging the high and confusing rates established when the network was analog. </p>
+<p>The original design of the circuit-switched telephone network required the customers to lease a real circuit of copper wire for the duration of their call. Those days are long over, as copper wires have been largely replaced by fiber optic cable. Every long distance phone call and virtually every local call is now digitized for at least some part of its journey. </p>
+<p>As FedEx was about faxes, the telephone companies are in deep denial about the change from analog to digital. A particularly clueless report written for the telephone companies offers this choice bit of advice:</p>
+<p>Telcos gain billions in service fees from [&#8230;] services like Call Forwarding and Call Waiting [&#8230;]. Hence, capex programs that shift a telco, say, from TDM to IP, as in a softswitch approach that might have less capital intensity, must absolutely preserve the revenue stream. [ <a href="http://www.proberesearch.com/alerts/refocusing.htm%5D" rel="nofollow ugc">http://www.proberesearch.com/alerts/refocusing.htm%5D</a><br />
+You don&#8217;t need to know telephone company jargon to see that this is the ZapMail strategy.<br />
+Step #1: Scrap the existing network, which relies on pricey hardware switches and voice-specific protocols like Time Division Multiplexing (TDM).<br />
+Step #2: Replace it with a network that runs on inexpensive software switches and Internet Protocol (IP). This new network will cost less to build and be much cheaper to run.<br />
+Step #3: &#8220;Preserve the revenue stream&#8221; by continuing to charge the prices from the old, expensive network. </p>
+<p>This will not work, because the customers don&#8217;t need to wait for the telephone companies to offer services based on IP. The customers already have access to an IP network &#8212; it&#8217;s called the internet. And like the fax machine, they are going to buy devices that enable the services they want on top of this network, without additional involvement by the telephone companies. </p>
+<p>Two cheap consumer devices loom large on this front, devices that create enormous value for the owners while generating little revenue for the phone companies. The first is WiFi access points, which allow the effortless sharing of broadband connections, and the second is our VoIP phones, a real, faithfull replica of the usual phones, the difference is : once you paid the device you won&#8217;t pay the service anymore.<br />
+And the device is much cheaper than a FAX Machine.<br />
+And they do not need a COMPUTER.</p>
+<p>Till now the VOIP was a market almost exclusively for business people.<br />
+Who in a normal house was going to switch on a computer to make or receive a telephone call?<br />
+While the business people have the computer on, connected to the data line, at least for all the business hours.<br />
+Besides the quality of voice was far away from the one of the usual telephone lines </p>
+<p>In classic ZapMail fashion, the telephone companies misunderstand the VOIP business. VOIP is a product, not a service, and they assume their competition is limited to other service companies. </p>
+<p>VoIP &#8212; Phone calls at internet prices </p>
+<p>Voice over IP is the area where a service is becoming a product.<br />
+Our phones are the new Fax Machines. You plug them to the normal telephone line or to the ISDN line or to a DSL line and you call the World for free.<br />
+It is true, like a fax machine, you could only fax to people who owned a fax machine.<br />
+But that was not a problem for long.<br />
+In a little time everybody had a fax machine ( of course among the people who needed to send and receive faxes).<br />
+But nowaday, EVERYBODY uses the phone. What about those few millions who pay $25 flat rate for a DSL line? Don&#8217;t they want to use it for calling at no extra cost? They just need to invest in a small device. ( 150$) </p>
+<p>Voice quality is not an issue anymore </p>
+<p>Once you had to accept delays, echoes, bad quality of voice.<br />
+Now with us, the quality IS EXACTLY THE SAME.<br />
+I called sometime ago my cousin John in Denver from Carmagnola.</p>
+<p>He said: &#8221; I cannot believe my ears. It is even better than my portable phone. I think you will be succesful, because, I DO NOT KNOW ONE SINGLE SOUL THAT WOULDN&#8217;T BE HAPPY TO SAVE ON TELEPHONE CALLS.</p>
+<p>Now that VoIP has reached that quality, VoIP offers one feature the phone companies can&#8217;t touch: price. </p>
+<p>The service fees charged by the average telephone company (call waiting, caller ID, dial-tone and number portability fees, etc) add enough to the cost of a phone that a two-line household that moved only its second line to VoIP could save $40 a month before making their first actual phone call. By simply paying for the costs of the related services, a VoIP customer can get all their domestic phone calls thrown in as a freebie. </p>
+<p>As with ZapMail, the principal threat to the telephone companies&#8217; ability to shrink costs but not revenues is their customers&#8217; common sense. Given the choice, an increasing number of customers will simply bypass the phone company and buy the hardware necessary to acquire the service on their own. </p>
+<p>And hardware symbiosis will further magnify the threat of WiFi and VoIP.<br />
+And that can easily be reality with our real portable IP phone and the &#8220;Hot Spots&#8221; web that I am eager to build.</p>
+<p>The economic logic of customer owned networks </p>
+<p>According to Metcalfe&#8217;s Law, the value of an internet connection rises with the number of users on the network. However, the phone companies do not get to raise their prices in return for that increase in value. This is a matter of considerable frustration to them. </p>
+<p>The economic logic of the market suggests that capital should be invested by whoever captures the value of the investment. The telephone companies are using that argument to suggest that they should either be given monopoly pricing power over the last mile, or that they should be allowed to vertically integrate content with conduit. Either strategy would allow them to raise prices by locking out the competition, thus restoring their coercive power over the customer and helping them extract new revenues from their internet subscribers. </p>
+<p>However, a second possibility has appeared. If the economics of internet connectivity lets the user rather than the network operator capture the residual value of the network, the economics likewise suggest that the user should be the builder and owner of the network infrastructure. </p>
+<p>And here comes my project: The World on IP community, where the people rule the infrastructures and make the VOIP a product (a phone) and not a service.<br />
+The new IP portable phone will use the same infrastructure, the user will need just to invest $100 in an Access point.<br />
+And the spreading of the HOT SPOTS will be even faster than the Fax machines.</p>
+<p>Hotels, restaurants, touristic places, shops, they will offer a DSL line with a HOT SPOT as value added service.<br />
+It costs less than the air conditioning and catches far more customers.</p>
+<p>And that itself would cover 80% of our network.<br />
+People use the telephone mainly from home or from the place where they work (no problem building access points there) or where they go on vacation (see above).</p>
+<p>We won&#8217;t sell a phone with the service ( call termination) we will sell two phones.<br />
+One for the buyer and one for the people he wants to call.<br />
+Or we just sell a phone and let the buyer find the Hot Spots on our website.</p>
+<p>The creation of the fax network was the first time this happened, but it won&#8217;t be the last. WiFi hubs and VoIP adapters allow the users to build out the edges of the network without needing to ask the phone companies for either help or permission. Thanks to the move from analog to digital networks, the telephone companies&#8217; most significant competition is now their customers, because if the customer can buy a simple device that makes wireless connectivity or IP phone calls possible, then anything the phone companies offer by way of competition is nothing more than the latest version of ZapMail. </p>
+<p>Regards</p>
+<p>Patrizia</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Blog.org		</title>
+		<link>/index.php/2003/02/03/the-voice-over-ip-argument/#comment-70</link>
+
+		<dc:creator><![CDATA[Blog.org]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=269#comment-70</guid>
+
+					<description><![CDATA[&lt;strong&gt;A more detailed analysis of the pluses and minuses of universal Internet access&lt;/strong&gt;
+
+The digital divide - is it more important to provide Internet access than food or education to developing countries? Reaction to an article by the World Bank&#039;s Charles Kenny.]]></description>
+			<content:encoded><![CDATA[<p><strong>A more detailed analysis of the pluses and minuses of universal Internet access</strong></p>
+<p>The digital divide &#8211; is it more important to provide Internet access than food or education to developing countries? Reaction to an article by the World Bank&#8217;s Charles Kenny.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Blog.org		</title>
+		<link>/index.php/2003/02/03/the-voice-over-ip-argument/#comment-71</link>
+
+		<dc:creator><![CDATA[Blog.org]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=269#comment-71</guid>
+
+					<description><![CDATA[&lt;strong&gt;IP telephony as a fringe benefit of closing the digital divide&lt;/strong&gt;
+
+The Voice over IP in developing countries debate continues]]></description>
+			<content:encoded><![CDATA[<p><strong>IP telephony as a fringe benefit of closing the digital divide</strong></p>
+<p>The Voice over IP in developing countries debate continues</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: m u l · t i · p l i c · i · t y		</title>
+		<link>/index.php/2003/02/03/the-voice-over-ip-argument/#comment-72</link>
+
+		<dc:creator><![CDATA[m u l · t i · p l i c · i · t y]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=269#comment-72</guid>
+
+					<description><![CDATA[&lt;strong&gt;More on VoIP over WiFi&lt;/strong&gt;
+
+Last week I posted, regarding the readiness of current WiFi technologies to deliever low-cost VoIP. My argument was mostly about the complexity and additional cost for handsets, and VoIP gateways etc. But according to this article over at Newsfactor [v...]]></description>
+			<content:encoded><![CDATA[<p><strong>More on VoIP over WiFi</strong></p>
+<p>Last week I posted, regarding the readiness of current WiFi technologies to deliever low-cost VoIP. My argument was mostly about the complexity and additional cost for handsets, and VoIP gateways etc. But according to this article over at Newsfactor [v&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

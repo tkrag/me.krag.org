@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>PVR Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/pvr/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 09 Jan 2004 13:04:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>PVR Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Home Stero Linux Box</title>
+		<link>/index.php/2004/01/09/home-stero-linux-box/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2004 13:04:45 +0000</pubDate>
+				<category><![CDATA[PVR]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=430</guid>
+
+					<description><![CDATA[<p>My wonderful parents gave me a wonderful present this christmas. I got a Hush Technologies mini-itx PC. It&#8217;s a beautiful VIA mini-itx PC, made to fit into my Stereo stack. I&#8217;ve long been wanting an upgrade to my current surround system, including the capability to record tv-programs to harddisk, as well as play mp3&#8217;s on [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/01/09/home-stero-linux-box/">Home Stero Linux Box</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>My wonderful parents gave me a wonderful present this christmas. I got a <a title="Hush Technologies 2003" href="http://www.hushtechnologies.com/">Hush Technologies</a> mini-itx PC.</p>
+<p>It&#8217;s a beautiful <a href="http://www.via.com.tw/en/VInternet/mini_itx.jsp">VIA</a> <a href="http://www.mini-itx.com/">mini-itx</a> PC, made to fit into my Stereo stack. I&#8217;ve long been wanting an upgrade to my current surround system, including the capability to record tv-programs to harddisk, as well as play mp3&#8217;s on my stereo system.<br />
+<span id="more-430"></span><br />
+My requirements are really simple, since I live in a one-bedroom apartment with my girlfriend, it has to be a practically noise-less solution, and the idea of having a 24/7 server in a closet and streaming the data is not realistic. We have no closet that isn&#8217;t full of stuff already, and the power-consumption of a modern PC is prohibitive. </p>
+<p>The VIA EPIA processor and the mini-itx Hush PC offers a fanless 1GHz PC in a beautiful box, perfect for the goal I have with this (or so I hope). I&#8217;m expecting to take delivery of the box in the next few days, and will start my quest to find the right linux-distro, get all the drivers working, choose a TV-tuner card, and generally get it up and running. </p>
+<p>I am pretty sure I will be running the impressive <a href="http://www.mythtv.org/">mythTV</a> package on it, which offers a seriously cool interface for watching DVD&#8217;s, playing MP3&#8217;s, and recording tv-shows all using a remote control.</p>
+<p>I&#8217;ve created a <a href="http://multiplicity.dk/cat_PersonalVideoRecorder">separate category</a> on this blog to track my progress with the box. It&#8217;ll be a blast.</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/01/09/home-stero-linux-box/">Home Stero Linux Box</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">430</post-id>	</item>
+	</channel>
+</rss>

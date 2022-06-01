@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Wizards of OS	</title>
+	<atom:link href="/index.php/2004/04/09/wizards-of-os/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/04/09/wizards-of-os/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 09 Apr 2004 11:27:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Ethan		</title>
+		<link>/index.php/2004/04/09/wizards-of-os/#comment-215</link>
+
+		<dc:creator><![CDATA[Ethan]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=451#comment-215</guid>
+
+					<description><![CDATA[I just got invited to the con as well, speaking on digital divide issues. Looks like we&#039;ll have the chance to engage in some mischief in Berlin - looking forward to it.]]></description>
+			<content:encoded><![CDATA[<p>I just got invited to the con as well, speaking on digital divide issues. Looks like we&#8217;ll have the chance to engage in some mischief in Berlin &#8211; looking forward to it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2004/04/09/wizards-of-os/#comment-216</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=451#comment-216</guid>
+
+					<description><![CDATA[Awesome,
+
+Once again we will meet on the conference trail. Looking forward to meeting you there.]]></description>
+			<content:encoded><![CDATA[<p>Awesome,</p>
+<p>Once again we will meet on the conference trail. Looking forward to meeting you there.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tatejoris		</title>
+		<link>/index.php/2004/04/09/wizards-of-os/#comment-217</link>
+
+		<dc:creator><![CDATA[Tatejoris]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=451#comment-217</guid>
+
+					<description><![CDATA[I think that the meeting has some major moments, but lots of senior moments Too]]></description>
+			<content:encoded><![CDATA[<p>I think that the meeting has some major moments, but lots of senior moments Too</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Off to Boston	</title>
+	<atom:link href="/index.php/2003/01/05/off-to-boston/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/01/05/off-to-boston/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 05 Jan 2003 14:25:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: louise stroyberg		</title>
+		<link>/index.php/2003/01/05/off-to-boston/#comment-28</link>
+
+		<dc:creator><![CDATA[louise stroyberg]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=240#comment-28</guid>
+
+					<description><![CDATA[safe trip! (and don&#039;t forget to remind them that I am ready next fall :-))]]></description>
+			<content:encoded><![CDATA[<p>safe trip! (and don&#8217;t forget to remind them that I am ready next fall :-))</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

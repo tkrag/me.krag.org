@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>blogs Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 20 Nov 2011 04:59:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>blogs Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Site Redesigned</title>
+		<link>/index.php/2011/11/20/site-redesigned/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2011 04:59:36 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=767</guid>
+
+					<description><![CDATA[<p>Since my time at Refugees Untied has come to an end and I&#8217;m now looking for consulting gigs in non-rofit technology work, I decided to redesign my blog and add some content. Have a look around&#8230;.</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/site-redesigned/">Site Redesigned</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Since my time at Refugees Untied has come to an end and I&#8217;m now looking for consulting gigs in non-rofit technology work, I decided to redesign my blog and add some content. Have a look around&#8230;.</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/site-redesigned/">Site Redesigned</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">767</post-id>	</item>
+		<item>
+		<title>BookSprint: Thinking about the non-profit technology space</title>
+		<link>/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 13:41:23 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/05/booksprint-thinking-about-the-non-profit-technology-space/</guid>
+
+					<description><![CDATA[<p>5 years of wireless wizardry, a very successful book project, some time out as a linux enterprise consultant, some time spent combining my technology skills with my interest in africa, and a good 6 months mostly hanging out with the future. I&#8217;m now spending a lot of time thinking about what the next 2 years [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>5 years of <a href="http://wire.less.dk/">wireless wizardry</a>, a very successful <a href="http://wndw.net/">book project</a>, some time out as a <a href="http://casalogic.dk/">linux enterprise consultant</a>, some time spent combining my technology skills with my <a href="http://allafrica.com/">interest in africa</a>, and a good 6 months mostly hanging out with <a href="http://flickr.com/photos/tkrag/sets/72157594550688898">the future</a>. I&#8217;m now spending a lot of time thinking about what the next 2 years could/should bring. </p>
+<p>The technology non-profit space, web 2.0, free (open source) software, open networks, open content books, africa, and small kids. These are some of the things i&#8217;ve racked up some experience in over the last few years. There&#8217;s little doubt that the book project is the most impressive project i&#8217;ve had a hand in. With litterally hundreds of thousands of downloads (250,000 since february 2008), a 2nd edition, and official translations into spanish, french and arabic, this is one hell of a success for what is essentially a double niche-in-a-niche project. A technology book about wireless networks, targetted specifically at developing world practitioners. Yet the success if unequivocal, impressive, and ultimately has very little to do with my involvement.</p>
+<p>I came up with a model that seems to work, found a little bit of funding to try it out, and invited the perfect team of authors. I also used my charm to convince <a href="http://hackerfriendly.com/">the best technical editor and author</a> i know to spend enormous amounts of time on very little money to help make this book as amazing as it is. Then i stepped back, went off and did some of the other stuff i mentioned above, and watched this idea unfold. </p>
+<p>I&#8217;m proud of what i helped create, but also well aware of the role i played in it. But I want this success to be replicated, and there are a number of titles i think deserve to be written which could help create a series of pragmatic, hands-on technology books with a focus on the developing world, and free (open source) software. Published under some form of open content license, ensuring they reach their maximum potential as tools for communities around the world. </p>
+<p>Not only do i think this is possible, but i also think it&#8217;s important in ways that i can&#8217;t yet quite describe in simple words, having to do with open content licenses, books as conveyors of learning, and the importance of technology independence. </p>
+<p>Unlike other open content publishing business models, there&#8217;s a little twist in this one, since the prime source of income won&#8217;t be from book sales or advertising, but will come directly from funders, for whom the value-proposition should be pretty clear. Given the <a href="http://booksprint.info/">book sprint</a> model, we can produce pofessionally edited books at a fraction of the cost of the traditional publishing industry. And we have shown that these books are useful as training materials for workshops, as hands-on guides for individuals and organisations trying to implement these technologies, and as awareness raisers for decision-makers looking at technology solutions to exisiting problems. And the price point for a single title seems to be close to that of a single regional week-long technology workshop. So for the price of a single workshop, a book can be published that can become a tangible input to future workshops, but also can massively expand the reach of a workshop-based training model by reaching an audience far beyond that of the equivalent workshop. </p>
+<p>And given some of the fascinating discussions i&#8217;ve seen on <a href="http://manypossibilities.net/2008/04/building-the-demand-in-print-on-demand/">pricing models</a> for <a href="http://radar.oreilly.com/archives/2008/02/community-pricing-for-books.html">open content books</a>, those costs would be shareable between multiple funders, by collecting bids before initiating the project. A model that could perhaps be combined with a <a href="http://magnatune.com/">magnatune</a>, <a href="http://magnatune.com/info/model">pay-what-you-feel-is-right</a> model for downloads. The profits of which could be shared with the authors, and help fund the day-to-day running of the organisation. If the costs of publishing the book has already been covered by non-profit funders, the post-production sales might help fund the difficult overhead that always dogs non-profits between projects. </p>
+<p>Somewhere in this model there may even be room for experimenting with <a href="http://en.wikipedia.org/wiki/Social_business">Social Business</a> models, in the spirit of <a href="http://en.wikipedia.org/wiki/Muhammad_Yunus">Mohammad Yunus</a>. But that&#8217;ll be a discussion for another day, and perhaps another blog. </p>
+<p></p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">510</post-id>	</item>
+		<item>
+		<title>Looking for my next gig&#8230;.</title>
+		<link>/index.php/2008/04/30/looking-for-my-next-gig/</link>
+					<comments>/index.php/2008/04/30/looking-for-my-next-gig/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2008 20:26:06 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/04/looking-for-my-next-gig/</guid>
+
+					<description><![CDATA[<p>Questions:Startup or Job? Poor and excited or well-payed and constrained? Keywords: Free Software / Linux / Green IT / Mgmt / Evangelism / Developing world / Training Idea 1: Linux Training Company for Enterprise Linux training (Danish Market). Using freelancers to provide kick-ass linux enterprise training to the danish market. Probably with some attempt at [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/04/30/looking-for-my-next-gig/">Looking for my next gig&#8230;.</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Questions:<br />Startup or Job? Poor and excited or well-payed and constrained?</p>
+<p>Keywords: Free Software / Linux / Green IT / Mgmt / Evangelism / Developing world / Training</p>
+<p>Idea 1: Linux Training Company for Enterprise Linux training (Danish Market). Using freelancers to provide kick-ass linux enterprise training to the danish market. Probably with some attempt at adding African training activities to the mix. </p>
+<p>Option 2: Project Mgmt job in the web industry. Good, stable pay. Opportunities for saving up some money for later investment into a startup or non-profit. </p>
+<p>Problem: I&#8217;m not sure how to make all my personal goals meet. Having time for my wonderful family, making a difference, having fun at work, with strong challenges and good colleagues, and paying the bills. How?</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/04/30/looking-for-my-next-gig/">Looking for my next gig&#8230;.</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2008/04/30/looking-for-my-next-gig/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">509</post-id>	</item>
+	</channel>
+</rss>

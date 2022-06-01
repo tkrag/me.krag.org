@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 802.16 WiMAX	</title>
+	<atom:link href="/index.php/2003/07/10/80216-wimax/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/07/10/80216-wimax/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 10 Jul 2003 11:42:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: julian chen		</title>
+		<link>/index.php/2003/07/10/80216-wimax/#comment-162</link>
+
+		<dc:creator><![CDATA[julian chen]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=375#comment-162</guid>
+
+					<description><![CDATA[eee]]></description>
+			<content:encoded><![CDATA[<p>eee</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: biku		</title>
+		<link>/index.php/2003/07/10/80216-wimax/#comment-163</link>
+
+		<dc:creator><![CDATA[biku]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=375#comment-163</guid>
+
+					<description><![CDATA[Does this already exist?]]></description>
+			<content:encoded><![CDATA[<p>Does this already exist?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Imran Rasheed		</title>
+		<link>/index.php/2003/07/10/80216-wimax/#comment-164</link>
+
+		<dc:creator><![CDATA[Imran Rasheed]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=375#comment-164</guid>
+
+					<description><![CDATA[Wi-Fi ecosystems would rapidly evolve in Asia and would aggregate into nation carriers with Wi-Max back haul architecture]]></description>
+			<content:encoded><![CDATA[<p>Wi-Fi ecosystems would rapidly evolve in Asia and would aggregate into nation carriers with Wi-Max back haul architecture</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jorge		</title>
+		<link>/index.php/2003/07/10/80216-wimax/#comment-165</link>
+
+		<dc:creator><![CDATA[Jorge]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=375#comment-165</guid>
+
+					<description><![CDATA[But, is some hardware in place? I mean, some tryals or early buyers?]]></description>
+			<content:encoded><![CDATA[<p>But, is some hardware in place? I mean, some tryals or early buyers?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

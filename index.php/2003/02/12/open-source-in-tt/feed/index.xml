@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Open Source in T&#038;T	</title>
+	<atom:link href="/index.php/2003/02/12/open-source-in-tt/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/02/12/open-source-in-tt/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 12 Feb 2003 15:44:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Taran Rampersad		</title>
+		<link>/index.php/2003/02/12/open-source-in-tt/#comment-86</link>
+
+		<dc:creator><![CDATA[Taran Rampersad]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=288#comment-86</guid>
+
+					<description><![CDATA[The article was really an overview of Free and Open Source in Trinidad and Tobago. The key issue is the digital divide - and one of the best ways to address the digital divide is to use Free and Open Source software.
+
+As I write this, the Trinidad and Tobago Computer Society and the Trinidad and Tobago Linux User Group are working on ways to solve this. It&#039;s hoped that the upcoming conference - http://www.floscaribbean.org/ - will be one more step toward decreasing the digital divide.]]></description>
+			<content:encoded><![CDATA[<p>The article was really an overview of Free and Open Source in Trinidad and Tobago. The key issue is the digital divide &#8211; and one of the best ways to address the digital divide is to use Free and Open Source software.</p>
+<p>As I write this, the Trinidad and Tobago Computer Society and the Trinidad and Tobago Linux User Group are working on ways to solve this. It&#8217;s hoped that the upcoming conference &#8211; <a href="http://www.floscaribbean.org/" rel="nofollow ugc">http://www.floscaribbean.org/</a> &#8211; will be one more step toward decreasing the digital divide.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nigel Mahabir		</title>
+		<link>/index.php/2003/02/12/open-source-in-tt/#comment-87</link>
+
+		<dc:creator><![CDATA[Nigel Mahabir]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=288#comment-87</guid>
+
+					<description><![CDATA[For more on Trinidad and Tobago 
+
+
+Visit 
+
+http://www.search.co.tt]]>/</description>
+			<content:encoded><![CDATA[<p>For more on Trinidad and Tobago </p>
+<p>Visit </p>
+<p><a href="http://www.search.co.tt/" rel="nofollow ugc">http://www.search.co.tt/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

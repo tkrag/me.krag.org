@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ict4dev Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/ict4dev/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 12 Aug 2011 07:08:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>ict4dev Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</title>
+		<link>/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2011 07:08:21 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=657</guid>
+
+					<description><![CDATA[<p>I&#8217;ll be speaking about Book Sprints, cc-licensed books and the developing world at a Free Culture event in Copenhagen this Sunday. It&#8217;s a joint project of Mellemfolkeligt Samvirke (ActionAid Denmark) and Creative Commons Denmark. It&#8217;s arranged by my recent acquaintance (soon to be friend?), Henrik Chulu, and I&#8217;ll be sharing the stage with the amazing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/">Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ll be speaking about <a href="http://booksprint.info/">Book Sprints</a>, cc-licensed books and the developing world at a Free Culture event in Copenhagen this Sunday. It&#8217;s a joint project of <a href="http://www.ms.dk/">Mellemfolkeligt Samvirke</a> (ActionAid Denmark) and <a href="http://www.creativecommons.dk/">Creative Commons Denmark</a>.
+</p>
+<p>
+It&#8217;s arranged by my recent acquaintance (soon to be friend?), Henrik Chulu, and I&#8217;ll be sharing the stage with the amazing <a href="http://twitter.com/solanasaurus/">Solana Larsen</a> from the amazing <a href="http://globalvoicesonline.org/">Global Voices</a> project.
+</p>
+<p>
+It&#8217;s Sunday at 15.45 in Fælledparken.
+</p>
+<p>
+<a href="http://frikultur.dk/2011/08/fri-faelled-sociale-medier-og-social-retfaerdighed/">Check it</a>&#8230;</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/">Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">657</post-id>	</item>
+		<item>
+		<title>How To Bypass Internet Censorship</title>
+		<link>/index.php/2008/11/14/how-to-bypass-internet-censorship/</link>
+					<comments>/index.php/2008/11/14/how-to-bypass-internet-censorship/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 15 Nov 2008 00:17:04 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=525</guid>
+
+					<description><![CDATA[<p>After a week of booksprinting, we finished what looks to be an amazing book on bypassing internet censorship. It&#8217;s available for purchase as a print book from lulu.com, here, and can be read on-line at flossmanuals.net, here. Big shout out to Adam Hyde from FLOSS Manuals, and the entire Book Sprint crew. You all rock! [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/11/14/how-to-bypass-internet-censorship/">How To Bypass Internet Censorship</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After a week of booksprinting, we finished what looks to be an amazing book on bypassing internet censorship.<br />
+It&#8217;s available for purchase as a print book from lulu.com, <a href="http://www.lulu.com/content/4904448">here</a>, and can be read on-line at flossmanuals.net, <a href="http://en.flossmanuals.net/CircumventionTools">here</a>.</p>
+<p>Big shout out to Adam Hyde from FLOSS Manuals, and the entire Book Sprint crew. You all rock!</p>
+<p>I&#8217;m immensely proud to be associated with this book, and the crew who wrote it.</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/11/14/how-to-bypass-internet-censorship/">How To Bypass Internet Censorship</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2008/11/14/how-to-bypass-internet-censorship/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">525</post-id>	</item>
+		<item>
+		<title>Shameless self-promotion</title>
+		<link>/index.php/2008/09/16/shameless-self-promotion/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2008 09:56:36 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/09/shameless-self-promotion/</guid>
+
+					<description><![CDATA[<p>Despite having kept a low profile, and done next to no development-related work in the past 2 years, a old journalist contact of wire.less.dk gave me a call yesterday, and today there&#8217;s a&#160; couple of decent quotes on danish on-line computer mag version2. It&#8217;s an article (in danish) about Tim Berners-Lee&#8217;s World Wide Web Foundation, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/09/16/shameless-self-promotion/">Shameless self-promotion</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Despite having kept a low profile, and done next to no development-related work in the past 2 years, a old journalist contact of <a href="http://wire.less.dk/">wire.less.dk</a> gave me a call yesterday, and today there&#8217;s <a href="http://www.version2.dk/artikel/8465?nyhedsbrev">a&nbsp; couple of decent quotes</a> on danish on-line computer mag <a href="http://www.version2.dk/">version2</a>. </p>
+<p>It&#8217;s an article (in danish) about <a href="http://www.webfoundation.org/donations/knight2008/tbl-speech">Tim Berners-Lee&#8217;s World Wide Web Foundation</a>, and his claims that we need to focus on extending the web to those 4 billion people who still aren&#8217;t properly on-line. His is a hard point to argue with, and i got away with spewing some very un-controversial answers to the usual questions, i.e. Do they really need the web? and what do they need it for? isn&#8217;t it hard when there&#8217;s no clean drinking water and no electricity?</p>
+<p>I&#8217;m not going to bore anyone here with the obvious answers, but all-in-all the journalist did a decent job, only misspelling my name once in 4 mentions, and getting almost the entire name of our non-profit correct (it&#8217;s wire.less.dk rather than just wire.less).</p>
+<p>perhaps this means i&#8217;m forgiven, not forgotten?</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/09/16/shameless-self-promotion/">Shameless self-promotion</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">523</post-id>	</item>
+		<item>
+		<title>AllAfrica Looking for tech staff</title>
+		<link>/index.php/2007/04/27/allafrica-looking-for-tech-staff/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2007 15:23:34 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2007/04/allafrica-looking-for-tech-staff/</guid>
+
+					<description><![CDATA[<p>We&#8217;re looking for some new colleagues here at AllAfrica, where, in case you missed the memo, I&#8217;m now Director of Technology. It&#8217;s a great place to work, especially if you dig Africa the way i do, and you want to work with cool web technologies like mapping, mashups, ajaxy stuff etc.</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/04/27/allafrica-looking-for-tech-staff/">AllAfrica Looking for tech staff</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re looking for some new colleagues here at <a href="http://allafrica.com/">AllAfrica</a>, where, in case you missed the memo, I&#8217;m now Director of Technology. It&#8217;s a great place to work, especially if you dig Africa the way i do, and you want to work with cool web technologies like mapping, mashups, ajaxy stuff etc.</p>
+<p><script
+ src="http://writer.zoho.com/public/tkrag/Tech-Job-descriptions1/script"
+></script></p>
+<p>The post <a rel="nofollow" href="/index.php/2007/04/27/allafrica-looking-for-tech-staff/">AllAfrica Looking for tech staff</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">503</post-id>	</item>
+		<item>
+		<title>Arthur, Pt. 2</title>
+		<link>/index.php/2007/02/24/arthur-pt-2/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2007 15:58:31 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=499</guid>
+
+					<description><![CDATA[<p>IMGP3666 Originally uploaded by tt.</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/02/24/arthur-pt-2/">Arthur, Pt. 2</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/tkrag/398980098/" title="photo sharing"><img src="https://i0.wp.com/farm1.static.flickr.com/165/398980098_f623d6974c_m.jpg?w=640" alt="" style="border: solid 2px #000000;" data-recalc-dims="1" /></a><br />
+<br />
+<span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/tkrag/398980098/">IMGP3666</a><br />
+<br />
+Originally uploaded by <a href="http://www.flickr.com/people/tkrag/">tt</a>.<br />
+</span><br />
+<br clear="all" /></p>
+<p>The post <a rel="nofollow" href="/index.php/2007/02/24/arthur-pt-2/">Arthur, Pt. 2</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">499</post-id>	</item>
+		<item>
+		<title>Arthur</title>
+		<link>/index.php/2007/02/24/arthur/</link>
+					<comments>/index.php/2007/02/24/arthur/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2007 15:56:14 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=498</guid>
+
+					<description><![CDATA[<p>IMGP3691 Originally uploaded by tt. Here&#8217;s an early preview of our newborn son Arthur&#8230;. Thanks for all the kind words and congratulations. Parenthood is treating us well, and we&#8217;re tired but happy.</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/02/24/arthur/">Arthur</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/tkrag/400786258/" title="photo sharing"><img src="https://i0.wp.com/farm1.static.flickr.com/127/400786258_4aa4be515c_m.jpg?w=640" alt="" style="border: solid 2px #000000;" data-recalc-dims="1" /></a><br />
+<br />
+<span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/tkrag/400786258/">IMGP3691</a><br />
+<br />
+Originally uploaded by <a href="http://www.flickr.com/people/tkrag/">tt</a>.<br />
+</span><br />
+<br clear="all" /></p>
+<p>Here&#8217;s an early preview of our newborn son Arthur&#8230;.</p>
+<p>Thanks for all the kind words and congratulations. Parenthood is treating us well, and we&#8217;re tired but happy.</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/02/24/arthur/">Arthur</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2007/02/24/arthur/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">498</post-id>	</item>
+		<item>
+		<title>Speaking @ Linuxforum 2007</title>
+		<link>/index.php/2007/01/30/speaking-linuxforum-2007/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2007 14:04:36 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=497</guid>
+
+					<description><![CDATA[<p>I&#8217;ll be speaking at the Copenhagen Linuxforum on March 3rd. An entirely new presentation entitled: &#8220;Free Software in Developing World Projects &#8211; Before the OLPC and Beyond&#8221;</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/01/30/speaking-linuxforum-2007/">Speaking @ Linuxforum 2007</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ll be speaking at the Copenhagen Linuxforum on March 3rd. An entirely new presentation entitled:</p>
+<p>&#8220;Free Software in Developing World Projects &#8211; Before the OLPC and Beyond&#8221;</p>
+<p><a href="http://linuxforum.dk/2007/program/saturday/Tomas_Krag.shtml"> <img src="https://i0.wp.com/LinuxForum.dk/2007/presse/images/LF07_banner_en.gif?w=640" alt="Linuxforum 2007" data-recalc-dims="1"/></a></p>
+<p>The post <a rel="nofollow" href="/index.php/2007/01/30/speaking-linuxforum-2007/">Speaking @ Linuxforum 2007</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">497</post-id>	</item>
+		<item>
+		<title>BookSprint, Revisited</title>
+		<link>/index.php/2006/10/20/booksprint-revisited/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2006 12:13:00 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=496</guid>
+
+					<description><![CDATA[<p>In january this year we released the first book in what has just become a series.The book was written by a team of wireless experts working closely with each other over the space of 3 months. We call this concept a &#8220;Book Sprint&#8221;, and I am somewhat proud that the original idea was mine. Just [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/20/booksprint-revisited/">BookSprint, Revisited</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img src="https://i0.wp.com/bwmo.net/img/cover.jpg?w=640" style="float: right;" data-recalc-dims="1" /></p>
+<p>In <a href="http://multiplicity.dk/2006/01/wireless-networking-in-the-developing-world/">january this year</a> we released the <a href="http://wndw.net/">first book</a> in what has just become a series.<br />The book was written by a team of wireless experts working closely with each other over the space of 3 months. We call this concept a &#8220;Book Sprint&#8221;, and I am somewhat proud that the original idea was mine.</p>
+<p>Just this week the &#8220;<a href="http://booksprint.info/">Book Sprint</a>&#8221; proccess proved it&#8217;s worth again, as <a href="http://hackerfriendly.com/">Rob Flickenger</a>, my good friends Marco and Carlo at the <a href="http://wireless.ictp.trieste.it/">ICTP</a> and a handful of experts from all over the world managed to release &#8220;<a href="http://bwmo.net/">How To Accelerate Your Internet</a>&#8220;. </p>
+<p>Production time: 3 months (Now that&#8217;s what I call a sprint!)</p>
+<p>The book is freely <a href="http://bwmo.net/download.html">downloadable</a> (<a href="http://creativecommons.org/licenses/by-sa/2.5/">cc Attribution-ShareAlike</a>) in pdf from the website, and can also be <a href="http://www.lulu.com/content/451934">purchased on lulu.com</a></p>
+<p>Here&#8217;s a blurb from the books website. </p>
+<blockquote>
+<p>Access to sufficient Internet bandwidth enables worldwide electronic collaboration, access to informational resources, rapid and effective communication, and grants membership to a global community. Therefore, bandwidth is probably the single most critical resource at the disposal of a modern organisation.</p>
+<p> The goal of this book is to provide practical information on how to gain the largest possible benefit from your connection to the Internet. By applying the monitoring and optimisation techniques discussed here, the effectiveness of your network can be significantly improved.</p>
+<p> We hope that you find these materials and this website useful. Please feel free to contribute your own experiences on the <a href="http://wiki.bwmo.net/">wiki</a> and mailing list, and help make the next edition even better. </p>
+</blockquote>
+<p class="poweredbyperformancing">powered by <a href="http://performancing.com/firefox">performancing firefox</a></p>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/20/booksprint-revisited/">BookSprint, Revisited</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">496</post-id>	</item>
+		<item>
+		<title>ICTP-SDU: Lowbandwidth Optimization Techniques</title>
+		<link>/index.php/2006/10/13/ictp-sdu-lowbandwidth-optimization-techniques/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2006 12:16:02 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=495</guid>
+
+					<description><![CDATA[<p>I am currently back in Trieste, with my good friends Marco and Carlo, and this time the topic is Bandwidth Optimization. More info here: ICTP-SDU: Lowbandwidth Optimization Techniques I&#8217;ve given lectures and had lab sessions on Traffic Shaping, and Bandwidth Monitoring, as well as some very basic linux firewalling stuff. There&#8217;s about 40 colleagues here [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/13/ictp-sdu-lowbandwidth-optimization-techniques/">ICTP-SDU: Lowbandwidth Optimization Techniques</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I am currently back in Trieste, with my good friends Marco and Carlo, and this time the topic is Bandwidth Optimization. More info here: <a href="http://sdu.ictp.it/lowbandwidth/">ICTP-SDU: Lowbandwidth Optimization Techniques</a></p>
+<p>I&#8217;ve given lectures and had lab sessions on Traffic Shaping, and Bandwidth Monitoring, as well as some very basic linux firewalling stuff.</p>
+<p>There&#8217;s about 40 colleagues here from all over sub-saharan africa, as well as Bolivia, Cuba, India, Rumania and probably a lot of countries i have missed. </p>
+<p>There are some amazing participants, and some brilliant lecturors here. </p>
+<p>Richard Stubbs from the University of KwaZulu-Natal in South Africa, is a fountain of wisdom on overall strategies fro managing bandwidth in a large university setting (12,000 students) with way too little bandwidth (about 18 Mbit/s).</p>
+<p>Olatunde Abiona, from Obafemi Awolowo University, Ile-Ife, Nigeria, adds another experienced voice to the fray, and is another new acquaintance for me to add to my growing list of gifted tehnology trainers. </p>
+<p>Duane Wessels is just teaching a class on Web proxying with Squid, and for those of you who don&#8217;t know who Duane is, take a look <a href="http://www.squid-cache.org/volunteers.html">here</a>. Duane is the original author of Squid, which in turn is the most widely used web proxy anywhere. He also wrote one of the <a href="http://worldcat.org/isbn/156592536X">definitive guides on webcaching</a>, and he happens to be a great teacher too.</p>
+<p>Les Cottrell from the Stanford Linear Accelerator Center, was here until this morning, and he is an authority on ultra-high bandwidth applications, as well as being one of the brains behind the <a href="http://www-iepm.slac.stanford.edu/pinger/">pingEr</a> project, which measures latency over time to as many universities as possible, and uses it to estimate the quality of connections around the world. </p>
+<p>Of course this is just a small sample of the great people that have made it to Trieste. Many of the lectures are on-line in QuickTime format <a href="http://sdu.ictp.it/dl/2006/1006_bandwidth/index.html">here</a>.</p>
+<p>In any case, This is the first ICT workshop I&#8217;ve done since coming back from <a href="http://wiki.africasource2.tacticaltech.org/">Africa Source 2</a> last winter, and it&#8217;s a timely reminder of how much i&#8217;ve missed this type of work.</p>
+<p>Let me just repeat this here for future reference. Just in case, i end up forgetting&#8230;</p>
+<blockquote><p>I love to teach at technology workshops, especially when some of the participants are from the developing world and have developing world problems. It is what I do well, it is my passion, and in this world I have found some of the most intelligent, fascinating and fun friends a person could ever ask for.</p></blockquote>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/13/ictp-sdu-lowbandwidth-optimization-techniques/">ICTP-SDU: Lowbandwidth Optimization Techniques</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">495</post-id>	</item>
+		<item>
+		<title>The Security Challenge of Open Wireless Networks</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/</link>
+					<comments>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Wed, 22 Mar 2006 14:29:15 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492</guid>
+
+					<description><![CDATA[<p>**Disclosure**: I am currently in the proccess of interviewing for a job with [Fon](http://fon.com/) and this piece is largely a result of me spending time (for the first time in years) on the challenges of shared wireless in the rich countries of the west (rather than thinking mostly about the challenges in the less developed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/">The Security Challenge of Open Wireless Networks</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>**Disclosure**: I am currently in the proccess of interviewing for a job with [Fon](http://fon.com/) and this piece is largely a result of me spending time (for the first time in years) on the challenges of shared wireless in the rich countries of the west (rather than thinking mostly about the challenges in the less developed countries). *</p>
+<p>The following are my pretty unstructured notes on how a hotspot sharing service such as [Fon](http://fon.com/) could help deal with some of the, real and imagined, security issues of hotspot-based networks. In many ways it doesn&#8217;t seem to matter to _the average user_ whether a security threat is real or imagined, as most people will never actually lose data or get atacked in a way that has actual consequences, it mostly the awareness of the threat that needs to be dealt with, rather than perhaps th threat itself. In many cases the way to deal with the awareness of the threat, is of course to remove the threat itself, however unlikely it is to ever be a problem. </p>
+<p>Here we go&#8230;.</p>
+<p>There are 2 main security challenges that emerge from a system of shared wireless. Both are essentially the result of not having a stable trust network between the owner of the wireless network node, and the user of the network.<br />
+1. The risk of someone abusing your network for unethical (or perhaps even illegal) activities, including access to unethical materials on-line or attempts to access personal data over the local network.<br />
+2. The risk induced by the need to trust the owner of whatever Access Point you happen to connect to when away from home, and the ability of that trust to be abused top access your personal data and attempt to steal passwords to services such as e-mail or on-line banking services. </p>
+<p><span id="more-493"></span><br />
+## The risk of abuse of connectivity.  ##</p>
+<p>There is a risk, when sharing ones network, that users will not use this network responsibly. This risk includes<br />
+* the risk of abuse of bandwidth,<br />
+* the risk of uethical (and sometimes illegal) use of network resources (child pornography and terrorism seem to be favoured by the news media when discussing this risk),<br />
+* the risk abuse of local network privileges. </p>
+<p>### Abuse of bandwidth ###<br />
+When you agree to share your network with others, it is most often done, with the implicit understanding that you are sharing excess bandwidth, i.e. that you probably won&#8217;t notice the difference. However, especially in densely popuilated areas, a completely open network, may receive much more usage than the person sharing the network expects, thus adversely impacting his/her user experience. </p>
+<p>Simple traffic shaping/bandwidth management can easily be implemented at the router level, and the biggest barrier in doing this for most people, is probably a lack of understanding of the issue, and a lack of knowledge about how to configure this.  Controlled models of sharing, such as those offered by Fon and others, have the potential to easily deal with this issue. Primarily, the fact that Aliens (i.e. non-members of the Fon network) are charged a small fee for access, means there is little business seense in using someone elses network as your main connection. Also, the fact that Fon distributes routers with a simple web interface that allows for user authentiaction greatly simplifies the challenge of bandwidth control. In fact, user authentication, at some level, is a prerequisite for decent bandwidth management, and without some sort of user-level auth more advanced equipment would be required to deal with this issue (i.e. either dual access points or a system that supports VLAN&#8217;s with multiple essid&#8217;s in the same access point). Once user authentication is built into the system, it is fairly trivial to set-up a system that reserves a minimum of bandwidth for the network owner and his or her household. </p>
+<p>**Recommendation**: Build simple bandwidth control into the default Fon-Basic firmware. Ideally using 2 separate essid&#8217;s, one running WPA and one with the exisiting captive portal solution for roaming visitors (Remark: This isn&#8217;t possible with current firmware for the Linksys WRT54G). Ensure that bandwidth control is enabled by default, and that all it takes to modify it is to enter the full bandwidth of your connection, and (if the VLAN solution is not viable) a list of usernames to be prioritised. Make it possible to disable this for advanced users like myself who have separate access points for personal use and for Fon.<br />
+I think everyone is potentially going to run into this problem, and dealing with it up-front increases the likelihood of happy users.</p>
+<p>### Unethical (perhaps illegal) use of the network ###<br />
+This is a risk that receives a lot of attention from the media, (at least in Europe) with the story being that anyonme who has an open wireless network, essentially is abetting Terrorists and Child Pornographers in plying their trade, because they are offering a place for these criminals to connect anonymously to the Internet. From a perspective of common sense, this is a blatantly absurd assumption. The internet is pretty much built on a concept of anonymity, and there are litterally thousands of tools available for easy download that will let anyone completely hide their tracks on the internet. It is trivialk for anyone wanting to perpetrate a crime on-line to do so anonymously without resorting to parking their car outside your home and sitting in a cold, dark car while downloading information off your network. There are cybercafÃ©&#8217;s or libraries with internet access, but more importantly, with a bit of research and the right tools they can do all this from the comfort of their DSL connection. </p>
+<p>Legally, the position seems even more absurd. Since anyone running an Open Network is subject to other people using their network, it is impossible for law enforcement to prove that a specific bit of traffic originating on a wireless network, was initiated by any one person or computer. In other words, if your network is not open, and someone hacks into your network or computer, you may be facing a much harder job proving it wasn&#8217;t your traffic, than if the network was indeed left open. Add to this that most cases of compter crime perpetrated over private networks is actually done by hacking into windows-based computers over the Internet (remotely) and using them for sending spam or perpetrating Distributed Denial of Service attacks, and the absurdity of the legal argument rises further. </p>
+<p>On the other hand, we have to accept that there is a will amongst both the Governments and the ISP&#8217;s to propagfate this myth, and to spread this fear of abuse. In other words, the more people believe in these absurdities, the more important it is for Fon and others to address these fears in public. </p>
+<p>**Recommendation**: There seem to be 2 ways for a network such as Fon to deal with this issue. Technically speaking, the fact that users must be authenticated and logged in in order to use the network, would go some way towards mitigating the fear of anonymous usage (although there is not true authentication in this scenario because Fon users credentials are not checked on registration). The other, and in my mind, more important role for Fon, is to work actively through the media, to mitigate these absurdities, by repeatedly explaining the truth, perhaps starting with a FAQ on security issues.  Beyond that, since the threat is fabricated anyway, there is probably very little Fon (or others) can do to deal with this issue. </p>
+<p>### Abuse of local network privileges ###</p>
+<p>This is, perhaps, the biggest of the security challenges faced by average users sharing their bandwidth. Given the way many people share local resources amongst multiple computers in the home, i.e. using windows file sharing or Apple Bonjour, and given the inherently incesure default configurations of most home computers, the trusted local network becomes an (unfortunately)  critical part of home user security. In other words, in home swith multiple computers, a lot of trust is often placed in the fact that the ISP&#8217;s router and/or firewall provides some degree of segregation between the Internet and the local network. In the default configurations of most people who share a local network (with or without a system like Fon), this quickly becomes an issue. The way Fon and other recommend setting up the access point used for sharing, places it behind the firewall on the local area network, leaving any visitors capable of browsing for windows file shares, intercepting local Bonjour data etc.<br />
+As with the issue of bandwidth abuse, the main reason for this is probably a lack of knowledge and understadning of the issues with most regular Internet users. Also there seems to be very little information about this from ISP&#8217;s and equipment manufacturers, who prefer to tell people to close off their wireless networks, rather than helping them open them in a secure manner. </p>
+<p>**Recommendation**:  Using  VLAN&#8217;s, either wireless or wired, to segregate Fon user traffic from local user traffic could be used to improve local security. However, using just the equipment available from the ISP (a low-cost router) and Fon&#8217;s access point, there doesn&#8217;t seem to be a fool-proof way to segregate traffic logically or physically, without using some sort of tunneling or vpn. (I might be wrong here, so please do correct me if I am). At least as long as both the visiting Fon users and local users wish to use the wireless network, and there is only one wireless access point available, unless the access point supports wireless VLAN&#8217;s with encryption only on one of the essids.<br />
+The simplest setup might involve 2 access points, both conencted to separate ports on the ISP&#8217;s router, and segregated intop VLAN&#8217;s on that router, but this markedly increases equipment costs.<br />
+Another, and perhaps better approach, would be for Fon, in cooperation with participating ISP&#8217;s, to produce simple security guides, explaining the local security issues, specifically as they apply to the setup of the ISP&#8217;s router with Fon&#8217;s system. This could include useful guides to setting up local VPN&#8217;s or tunnels that can be used for local file-sharing and Bonjour traffic etc. Some of the options for that include running an OpenVPN server on the access point, and explaining the advantages of local users joining a VPN when using local network resources. Alternatively, there are peer-to-peer VPN solutions, such as [hamachi](http://hamachi.cc/), which might offer a useful alternative for local filesharing, without requiring pushing the limits of the Linksys WRT54G for encryption and decryption of data. (More about the impressive hamachi later). </p>
+<p>## Security for Roaming Users.  ##</p>
+<p>Now this is where the security dicsussion gets really interesting. Essentially, when using a 3rd party hotspot, I am placing a lot of trust in the owner of that particular hotspot (as well as his or her provider). There are basically 2 ways this trust can be abused. By the actual provider of the hotspot, or by a [rogue hotspot](http://en.wikipedia.org/wiki/Wireless_security#Malicious_Association) or [man-in-the-middle attack](http://en.wikipedia.org/wiki/Wireless_security#Man-In-The-Middle_Attacks). </p>
+<p>Both of these threats can, in many ways, be treated as one, i.e. the scenario where Internet Access is gained through an untrusted 3rd party, be it a Rogue Access Point, or a malicious Open AP provider or Fon member.</p>
+<p>### Trust in the Hotspot ###</p>
+<p>In commercial hotspot networks, such a T-mobile or similar, the trust i place in the actual hotspot provider is similar to the trust I place in my ISP at home, and is founded on the reputation of that particular company, which is pretty simple to research on-line. However the Rogue AP scenario must be considered a potential threat in these cases ass well. In the case of an entirely open hotspot, or one provided by an informal network such as Fon, this trust is much harder to verify. The person who&#8217;s network i connect to has only an informal association with Fon, and the risk of acting maliciously is assumed to be much smaller than for a company making a living out of providing decent service.</p>
+<p>In these cases (open AP&#8217;s or Rogue AP&#8217;s), the risk of abuse must be assumed to be real, even if it is probably rare. And unfortunately, in the rare cases where such a network is abused with malicious intent, this gives the hotspot owner complete access to traffic from the user&#8217;s computer to the Internet. With a skilled attacker and a less than extremely sharp user, this unfortunately can include SSL traffic such as credit card information or bank login details (see this [article on Tom&#8217;s Networking](http://www.tomsnetworking.com/2006/03/21/out_to_get_you/) for more details).</p>
+<p>There are basically 3 ways to protect against these types of issues, on untrusted networks.<br />
+1. Assume that the risk of this happening is small enough that you can ignore it. If your biggest secrets are you&#8217;re credit card data, and you have a habit of watching your statements for strange transactions, perhaps the issue really isn&#8217;t too big. This is generally my approach, and I&#8217;m a big fan of less paranoia, but then i don&#8217;t often transmit sensitive corporate data or have other peoples trust to consider, almost everything i transmit can only hurt myself, and so the threat seems containable.</p>
+<p>1. Ensure that nothing private is transmitted over the untrusted network. Use the Open AP only for surfing the web, and doing other innoculous things (generally things that don&#8217;t require a password. Perhaps use an anonymizer, such as [tor](http://tor.eff.org/) and [privoxy](http://www.privoxy.org/), if you don&#8217;t want the hotspot owner to know which sites you have been using). Think carefully about which data you want to risk exposing, before transmitting that data over the uintrusted network. </p>
+<p>1. Secure your connection with a VPN or advanced tunneling. This seems to be the optimal solution, but for regular computer users, this can be pretty difficult to understand, let alone implement properly. If SSL is insecure, why trust other encryption mechanisms? And do I really need to understand what is going on in the background to be able to trust the network? There has been a lack of simple solutions for this type of encryption, solutions that just work, from companies the users trust. And specifically solutions that don&#8217;t require advanced knowledge of security.</p>
+<p>### VPN&#8217;s and Tunneling ###<br />
+For end-users without the skills or server access to setup SSH tunnels or their own VPN tunnel, using a VPN solution is not simple. Unless your company runns a service supported by an IT department, this has, so far, not been a simple matter. There are alternatives for users without a corporate VPN. Hosted VPN services such as [HotspotVPN](http://www.hotspotvpn.com/), will let you use their servers as a VPN end-point for a monthly fee. There are 2 issues with this type of service, mainly that it introduces yet another trust point, that the end-user needs to place faith in, and that the services aren&#8217;t cheap for casual users who may not need the, on a regular basis. The main reason for monthly costs in the 10 USD region is probably bandwidth, i.e. everyone who uses a service such as HotspotVPN, passes all traffic through their servers, requiring them to have quite a bit of bandwidth available. </p>
+<p>An interesting alternative to this, would be to use one&#8217;s own bandwidth, by hosting ones own VPN endpoint.  Unfortunately there are some barriers to this, the most significant being the need to have your own server running 24/7, with a routable (preferably fixed) IP address. Both of these requirements, are currently quite demanding, and not something that normal Internet users should need to do/have. </p>
+<p>**Recommendation**: In this respect, controlled wireless networks such as Fon have a potential advantage. Fon controls the software on the access point, and using the Linksys WRT45G series running linux, such an access point can easily act as a VPN end-point. With the right software on the access point, each users home AP could act as a VPN end-point for that user, when he/she is travelling, and using a different Fon node (or other Open AP). This might have the additional advantage of being a reason for people not turning off their Access Point when they are away on vacation or otherwise not needing the local access for a period (in other words, it might also improve the availability of Fon hotspots). </p>
+<p>The obvious way to provide such a service in the Fon software, would seem to be using the Open Source [OpenVPN](http://openvpn.net/) implementation. Not only is it already implemented in the software that forms the basis of the Fon software, but it also has clients for all 3 major Operating Systems (Linux, Mac OSX and Windows). Unfortunately, I foresee an issue here, namely that many Fon users will not be installing their AP&#8217;s in such a way that they have a routable IP on their Internet (WAN) interface. In many cases, the ISP already provides a router, that other equipment plugs into, and some quite technical configuration may be needed to forward requests through the router to the AP. In other cases, the ISP doesn&#8217;t provide routable addresses to end-users at all, making it very difficult to provide traditional VPN endpoints on the Access Points. Note: While it may be possible to configure OpenVPN to traverse NAT systems, this is by no means easy, especially given the many different forms of NAT employed by ISP routers.</p>
+<p>One alternative suggestion for using AP&#8217;s as VPN end-points is implementing a sort of NAT-traversing peer-to-peer tunneling system. In the past 6 months systems like these have begun to appear, and other companies are working on similar software. One implementation that can give an indication of this type of functionality is   [Hamachi](http://hamachi.cc/). Hamachi is a peer-to-peer secure tunneling system, that allows you to organize two or more computers into a virtual network. The strength of the systems lies in it&#8217;s ease-of-use and the fact that hamachi manages to traverse about 95% of all NAT routers (according to hamachi&#8217;s own estimates). Unfortunately Hamachi software is not Open Source, but free clients exist for both Windows and Linux (Mac OSX coming soon) . While it may be difficult for Fon (or others) to implement this software, due to it&#8217;s closed-source nature, hamachi seems to provide a good indication of what is possible in this space. Having this type of system on their AP, would allow a user to remotely connect their laptop directly to their home AP in a secure tunneled network, and perform all their network transactions over this link, rendering rogue AP&#8217;s and MITM attacks extremely difficult. And more importantly it would allow Fon to offer a security service without having to cover the cost of bandwidth.</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/">The Security Challenge of Open Wireless Networks</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">493</post-id>	</item>
+	</channel>
+</rss>

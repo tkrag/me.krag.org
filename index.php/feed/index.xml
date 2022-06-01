@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>krag.be</title>
+	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 16 Feb 2017 16:25:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Hello world!</title>
+		<link>/index.php/2017/02/16/hello-world/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2017 16:25:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/index.php/2017/02/16/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/index.php/2017/02/16/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+		<item>
+		<title>Non-profit software developers summit</title>
+		<link>/index.php/2011/11/20/non-profit-software-developers-summit/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2011 09:47:27 +0000</pubDate>
+				<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=804</guid>
+
+					<description><![CDATA[<p>I took a break from my paternity leave to come to San Francisco and meet with about 100 other folks who work in the intersection of tech and social change. It&#8217;s a yearly event held by Aspiration, and facilitated by my close friend and mentor Gunner. It&#8217;s 3 days of insane mind-meld with some of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/non-profit-software-developers-summit/">Non-profit software developers summit</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I took a break from my paternity leave to come to San Francisco and meet with about 100 other folks who work in the intersection of tech and social change. It&#8217;s a yearly event held by <a href="http://aspirationtech.org/events/devsummit11">Aspiration</a>, and facilitated by my close friend and mentor Gunner. </p>
+<p>It&#8217;s 3 days of insane mind-meld with some of the smartest and most passionate people I ever get a chance to meet, and it&#8217;s an opportunity to meet my &#8220;tribe&#8221;. People who do the same type of work I do, for the same types of reasons.  And people who have so much to teach. Mostly I just thought I&#8217;d take the opportunity to talk to some folks and see if it would help me clear my mind about what the future may bring in terms of professional projects. In many ways it did. It helped me clear my mind on some issues, wipe some silly ideas from the rusty membrane, and fuel up on some much less silly ones instead. </p>
+<p>I&#8217;m basically refuelled, ready to think long and hard about my continuing role in the non-profit sector. I&#8217;ve always felt that if I didn&#8217;t have the passion and the skills to make a difference, then I might as well step back into the for-profit sector once again. I&#8217;ve had 3 days of intense discussions on topics as diverse as mobile security, founders syndrome and non-profit mgmt, writing books as documentation and ensuring that your non-profit remains value-driven rather than feature-driven. Luckily those 3 days of drinking from the firehose has left me convinced that I still have the skills and the passion to make a difference. </p>
+<p>Now for the hard part: figuring out how to lay that puzzle in such a way that I can also contribute a little bit to the family upkeep. Wish me luck.  </p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/non-profit-software-developers-summit/">Non-profit software developers summit</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">804</post-id>	</item>
+		<item>
+		<title>Site Redesigned</title>
+		<link>/index.php/2011/11/20/site-redesigned/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2011 04:59:36 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=767</guid>
+
+					<description><![CDATA[<p>Since my time at Refugees Untied has come to an end and I&#8217;m now looking for consulting gigs in non-rofit technology work, I decided to redesign my blog and add some content. Have a look around&#8230;.</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/site-redesigned/">Site Redesigned</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Since my time at Refugees Untied has come to an end and I&#8217;m now looking for consulting gigs in non-rofit technology work, I decided to redesign my blog and add some content. Have a look around&#8230;.</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/site-redesigned/">Site Redesigned</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">767</post-id>	</item>
+		<item>
+		<title>This week I resigned my job at Refugees United</title>
+		<link>/index.php/2011/10/14/this-week-i-resigned-my-job-at-refugees-united/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2011 11:35:01 +0000</pubDate>
+				<category><![CDATA[Me]]></category>
+		<category><![CDATA[Refunite]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=678</guid>
+
+					<description><![CDATA[<p>After just over 2 years and some great successes, matched by some great frustrations, I finally decided to quit my job as CTO of Refugees United. I&#8217;m currently on paternity leave, until January 1st, which neatly coincides with the end of my contract there. As to the reasons for leaving, well, we can chalk it [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/10/14/this-week-i-resigned-my-job-at-refugees-united/">This week I resigned my job at Refugees United</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After just over 2 years and some great successes, matched by some great frustrations, I finally decided to quit my job as CTO of Refugees United. I&#8217;m currently on paternity leave, until January 1st, which neatly coincides with the end of my contract there. As to the reasons for leaving, well, we can chalk it down to frustrations over a lack of defined strategy, and some deep-felt disagreement about how to get the maximum impact from the available funding. I&#8217;m a passionate guy, and when it comes to passion and beliefs, probably not as compromising as I could be, and the founders have a very clear vision for what they want. Those 2 things collided. </p>
+<p>I&#8217;m not going to go into a lot more detail in a public forum, for what should be obvious reasons, but I will say that it&#8217;s been a frustrating summer, and that I&#8217;m not the only one who&#8217;s left Refugees United in the past few months.</p>
+<p>Refugees United is currently recruiting a new CEO, and I wish whomever that may be, the best of luck in the future. And I do, sincerely, hope that the vision (of providing a tool that empowers refugees to get involved in their own search for family) ultimately succeeds.</p>
+<p>As for what the future holds, a person I trust recently invited me to have a &#8220;speculative wander through future opportunities&#8221;, and I like that phrase so much that I think that&#8217;s just what I&#8217;ll spend the next few months on. </p>
+<p>The post <a rel="nofollow" href="/index.php/2011/10/14/this-week-i-resigned-my-job-at-refugees-united/">This week I resigned my job at Refugees United</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">678</post-id>	</item>
+		<item>
+		<title>open source :: The Unbound Book</title>
+		<link>/index.php/2011/09/06/open-source-the-unbound-book/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2011 06:25:27 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=670</guid>
+
+					<description><![CDATA[<p>In April 2011 I gave a presentation on BookSprints and Booki at the excellent Unbound Book Conference in Amsterdam. Today a only partially related google search uncovered this blog post. Apart from frequent and varied misspellings of my name, it&#8217;s a decent summary of the discussion I brought to the table. Wireless and F/OSS geek [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/09/06/open-source-the-unbound-book/">open source :: The Unbound Book</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In April 2011 I gave a presentation on BookSprints and <a href="http://booki.cc/">Booki</a> at the excellent Unbound Book Conference in Amsterdam. Today a only partially related google search uncovered this blog post. Apart from frequent and varied misspellings of my name, it&#8217;s a decent summary of the discussion I brought to the table.</p>
+<blockquote><p>Wireless and F/OSS geek and grassroots technology generalist Thomas Krag introduced Booksprint to the Open Source Publishing Tools workshop as an inverse story about the matter-ing of publishing: “..an outsider’s view of this whole book thing.”</p>
+<p>via <a href="http://networkcultures.org/wpmu/unboundbook/tag/open-source/">open source :: The Unbound Book</a>.</p></blockquote>
+<p>The post <a rel="nofollow" href="/index.php/2011/09/06/open-source-the-unbound-book/">open source :: The Unbound Book</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">670</post-id>	</item>
+		<item>
+		<title>Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</title>
+		<link>/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2011 07:08:21 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=657</guid>
+
+					<description><![CDATA[<p>I&#8217;ll be speaking about Book Sprints, cc-licensed books and the developing world at a Free Culture event in Copenhagen this Sunday. It&#8217;s a joint project of Mellemfolkeligt Samvirke (ActionAid Denmark) and Creative Commons Denmark. It&#8217;s arranged by my recent acquaintance (soon to be friend?), Henrik Chulu, and I&#8217;ll be sharing the stage with the amazing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/">Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ll be speaking about <a href="http://booksprint.info/">Book Sprints</a>, cc-licensed books and the developing world at a Free Culture event in Copenhagen this Sunday. It&#8217;s a joint project of <a href="http://www.ms.dk/">Mellemfolkeligt Samvirke</a> (ActionAid Denmark) and <a href="http://www.creativecommons.dk/">Creative Commons Denmark</a>.
+</p>
+<p>
+It&#8217;s arranged by my recent acquaintance (soon to be friend?), Henrik Chulu, and I&#8217;ll be sharing the stage with the amazing <a href="http://twitter.com/solanasaurus/">Solana Larsen</a> from the amazing <a href="http://globalvoicesonline.org/">Global Voices</a> project.
+</p>
+<p>
+It&#8217;s Sunday at 15.45 in Fælledparken.
+</p>
+<p>
+<a href="http://frikultur.dk/2011/08/fri-faelled-sociale-medier-og-social-retfaerdighed/">Check it</a>&#8230;</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/08/12/speaking-at-fri-faelled-sociale-medier-og-social-retfaerdighed-this-sunday/">Speaking at &#8220;Fri fælled: sociale medier og social retfærdighed&#8221; this sunday</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">657</post-id>	</item>
+		<item>
+		<title>Tech Without Borders</title>
+		<link>/index.php/2010/12/21/616/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 21 Dec 2010 11:59:06 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Mixed Bag]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=616</guid>
+
+					<description><![CDATA[<p>1. We are people of tech. 2. We live and work everywhere. 3. We value our own freedom, the freedom of people who use our technology and freedom in general. 4. We think there is no meaningful distinction between WikiLeaks and the news organizations covering the stories in cooperation with WikiLeaks. 5. We urge all [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/12/21/616/">Tech Without Borders</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>
+<a href="http://techwithoutborders.org/"><img data-attachment-id="617" data-permalink="/index.php/2010/12/21/616/twobs/" data-orig-file="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?fit=766%2C72&amp;ssl=1" data-orig-size="766,72" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="twobs" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?fit=300%2C28&amp;ssl=1" data-large-file="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?fit=640%2C60&amp;ssl=1" loading="lazy" src="https://i0.wp.com/krag.be/wp-content/uploads/2010/12/twobs-1.gif?resize=382%2C36&#038;ssl=1" alt="" title="twobs" width="382" height="36" class="alignleft size-full wp-image-617" data-recalc-dims="1" /></a></p>
+<p>1. We are people of tech.</p>
+<p>2. We live and work everywhere.</p>
+<p>3. We value our own freedom, the freedom of people who use our technology and freedom in general.</p>
+<p>4. We think there is no meaningful distinction between WikiLeaks and the news organizations covering the stories in cooperation with WikiLeaks.</p>
+<p>5. We urge all governments to respect freedom of the press, whether the news originates online or offline. </p>
+<p>6. We apply these principles in our work and they are embodied in our technology.</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/12/21/616/">Tech Without Borders</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">616</post-id>	</item>
+		<item>
+		<title>12 years ago today&#8230; My first blog-post</title>
+		<link>/index.php/2010/06/14/12-years-ago-today-my-first-blog-post/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2010 13:34:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=611</guid>
+
+					<description><![CDATA[<p>12 years ago today, on the 14th of June 1998, during the World Cup in France, I posted my first ever blog post. Back then I was blogging at krag.org, what was in fact a very personal blog. I&#8217;d written a few blog-like pages on what was then my website, but those have been lost [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/14/12-years-ago-today-my-first-blog-post/">12 years ago today&#8230; My first blog-post</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>12 years ago today, on the 14th of June 1998, during the World Cup in France, I posted <a href="http://www.multiplicity.dk/Ancient/Tomas/Rant/98/vi/14.html">my first ever blog post</a>.</p>
+<p>Back then I was blogging at krag.org, what was in fact a very personal blog. I&#8217;d written a few blog-like pages on what was then my website, but those have been lost to the world by now. I started blogging after hearing <a href="http://en.wikipedia.org/wiki/Justin_Hall">Justin Hall</a> speak about his blog at links.net (I gorget where he spoke, but then it has been 12 years). </p>
+<p>The blog I started back then was hand-coded HTML, with a few CGI scripts to generate a calendar of posts, and a logo designed by a colleague I had at Tele Danmark Internet. OK, so it looks a bit dated, but this was 1998.</p>
+<p>I ran that blog for almost 2 years, before moving to Movable Type, and since to finally to WordPress, at which point I also switched to the multiplicity.dk domain.</p>
+<p>In those 12 years there have been a lot of periods with little or no blogging, and for the past 3 years or so I haven&#8217;t blogged a lot. I think this weekends <a href="http://www.barcampnairobi.com/">Barcamp Nairobi</a>, has made me think about picking up again. </p>
+<p>The tecch challenges we have at Refugees United, seem like the perfect kind of thing to blog about. Perhaps clear my mind by writing them down, perhaps even soliciting some feedback. </p>
+<p>Also, and on a more personal note, perhaps rekindling this blog will help me keep in touch with my friends abroad, now that i spend significantly less time travelling and going to events. Meeting old and new friends in Nairobi this week, has certainly made me miss all those trips more, and the spirit of sharing, and the common ground that they bring. </p>
+<p>(On the other hand, I really miss my wife and son right now, so it&#8217;s not like i&#8217;m going to be travelling much more anytime in the next 18 years <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p> In any case, enjoy the embarassment that was the late 90&#8217;s</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/14/12-years-ago-today-my-first-blog-post/">12 years ago today&#8230; My first blog-post</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611</post-id>	</item>
+		<item>
+		<title>More nairobi thoughts&#8230;</title>
+		<link>/index.php/2010/06/13/more-nairobi-thoughts/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2010 13:26:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2010/06/more-nairobi-thoughts/</guid>
+
+					<description><![CDATA[<p>* I think it&#8217;s impossible to develop good mobile interfaces without being emerged in this context * I think it&#8217;s much harder to outsource innovation than coding, but, at least in this context, innovation is what we need to find * I think that the advice i got today from Bridgette at Google Africa is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/13/more-nairobi-thoughts/">More nairobi thoughts&#8230;</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>* I think it&#8217;s impossible to develop good mobile interfaces without being emerged in this context</p>
+<p>* I think it&#8217;s much harder to outsource innovation than coding, but, at least in this context, innovation is what we need to find</p>
+<p>* I think that the advice i got today from Bridgette at Google Africa is worth taking seriously:<br />
+** That we can never under estimate the need for marketing, incentive structures and face-to-face assistance.<br />
+** That hiring 10 smart interns might be worth more than hiring 1 smart developer.<br />
+** That we need to stop thinking of mobile applications as an extension of our web service and start thinking about it as self contained apps<br />
+** That incentive structures, immediate gratification for people to register may help lower the barrier to entry</p>
+<p>* I think that we really need to embrace the open-source and barcamp style communities if we want to deliver world class systems to refugees worldwide.</p>
+<p>* I think the challenges ahead could be extremely exciting but also pretty risky. </p>
+<p>* I think the Nairobi scene is the coolest shit i&#8217;ve seen since the good old days of the wireless communities in djurlsand, freifunk berlin and the amazing copemhagen interpolation.</p>
+<p>Rock On.</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/13/more-nairobi-thoughts/">More nairobi thoughts&#8230;</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610</post-id>	</item>
+		<item>
+		<title>In nairobi with refugees united</title>
+		<link>/index.php/2010/06/12/in-nairobi-with-refugees-united/</link>
+					<comments>/index.php/2010/06/12/in-nairobi-with-refugees-united/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2010 15:38:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[barcampnairobi]]></category>
+		<category><![CDATA[nairobi]]></category>
+		<category><![CDATA[refugees united]]></category>
+		<category><![CDATA[Refunite]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2010/06/in-nairobi-with-refugees-united/</guid>
+
+					<description><![CDATA[<p>I&#8217;m in Nairobi for a week for a series of meetings with partners and to get an impression of the local tech scene. Day 1 was very much about touching down, having a quick meeting and then a quick football party for the world cup opening. Today is BarCamp Nairobi, a geek, web developer, tech [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/12/in-nairobi-with-refugees-united/">In nairobi with refugees united</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m in Nairobi for a week for a series of meetings with partners and to get an impression of the local tech scene. Day 1 was very much about touching down, having a quick meeting and then a quick football party for the world cup opening. </p>
+<p>Today is BarCamp Nairobi, a geek, web developer, tech entrepreneur hangout. Its a great place to meet people, and an amazing place to get an impression of the buzz in the Nairobi tech scene. It&#8217;s pretty wow. The kind of scene we were always dreaming of interacting with back when http://wire.less.dk/ was my day job. The kind of scene that just didn&#8217;t exist back then in Africa. Well it&#8217;s certainly happening here, right now. </p>
+<p>It&#8217;s also pretty strange being at an unconference like this in a city and a scene i&#8217;ve never been involved in before. It isn&#8217;t easy finding an in, getting to meet people and figuring out who&#8217;s who and what&#8217;s what. </p>
+<p>In some weird way it&#8217;s also quite strange not to be deeply involved in open, grassroots driven projects anymore. I find it easier to get up in front of a crowd and talk about http://wire.less.dk/, open books such as http://wndw.net/ or geeky networking stuff, rather than Refugees United. Part of that is experience. I know how to talk to geeks about geeky stuff. I am (or at least was) deeply into the intricacies of linux networking, license-exempt wireless and even open-content ict training materials. </p>
+<p>And while there are some truly fascinating tech challenges involved in the Refugees United idea, it&#8217;s still too early for me to feel confident that I haven&#8217;t missed something really fundamental. </p>
+<p>Anonymity and location anonymity for publicly viewable personal profiles. Mobile interfaces, sim applications and xforms. Open data and APIs. Multi-language web tool, advanced search indexing and Open Source tools.<br />
+I think i have to get used to the idea that there are just too many distinct challenges at Refugees United for me to be deeply familiar with any of them. I guess thats part of what it feels like to be a manager rather than a trainer, geek and grassroots enthusiast. </p>
+<p>But it also makes it much harder to define myself as a geek, to give a one-line description of what my current challenges are. And here at Barcamp that&#8217;s a surprisingly new challenges.</p>
+<p>All that said, the advantage of a place like barcamp nairobi is that unlike back home, every geek i&#8217;ve talked to immediately understands the challenges, the reality of refugees life etc. It seems, on anecdotal evidence, that refugee life and refugee realities are much closer to home here. In tech terms it probably means that we could learn a lot from being more active participants in the nairobi scene. </p>
+<p>This is after all where we do our outreach, where the challenges we&#8217;re dealing with go from the abstract to the concrete, and where, in ushahidis (http://ushahidi.org/) words &#8220;if it works here it&#8217;ll work anywhere&#8221;.</p>
+<p>But, and this is a pretty big but, there&#8217;s also an organisational challenge to be faced. A dichotomy of self that we&#8217;re going to be facing at refunite. We&#8217;re pretty big on corporate partnerships here, with some amazing positive experiences arising from that. In tech terms, the work ericsson has done for us, and the prospect of some great partnerships with mobile operators are literally invaluable to us. But they also represent a fundamentally different culture and approach than the grassroots, open-source approach of frontlineSMS, ushahidi, translate.org.za and so on. Orgs and projects that have the definite potential to be as invaluable as the corporate contributions. Orgs and projects that, in the context of difficult to reach populations are easily at the forefront of innovation. </p>
+<p>How to combine the 2 worlds into undeniable success? I guess it starts with myself embracing the corporate along with the, to me, much more familiar open. But it also starts with us, as an organisation embracing the open, and the local. Engaging with techies as close to our constituents as possible. </p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/12/in-nairobi-with-refugees-united/">In nairobi with refugees united</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2010/06/12/in-nairobi-with-refugees-united/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609</post-id>	</item>
+	</channel>
+</rss>

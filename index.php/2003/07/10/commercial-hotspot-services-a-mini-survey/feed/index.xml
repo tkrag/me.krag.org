@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Commercial HotSpot services &#8211; a mini-survey	</title>
+	<atom:link href="/index.php/2003/07/10/commercial-hotspot-services-a-mini-survey/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/07/10/commercial-hotspot-services-a-mini-survey/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 10 Jul 2003 09:45:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Wi-Fi Networking News		</title>
+		<link>/index.php/2003/07/10/commercial-hotspot-services-a-mini-survey/#comment-156</link>
+
+		<dc:creator><![CDATA[Wi-Fi Networking News]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=370#comment-156</guid>
+
+					<description><![CDATA[&lt;strong&gt;Field Report: Denmark to Vienna&lt;/strong&gt;
+
+Tomas Krag writes of his trip from Denmark to Vienna with a Tungsten C: Service was available, but annoying to access and use....]]></description>
+			<content:encoded><![CDATA[<p><strong>Field Report: Denmark to Vienna</strong></p>
+<p>Tomas Krag writes of his trip from Denmark to Vienna with a Tungsten C: Service was available, but annoying to access and use&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

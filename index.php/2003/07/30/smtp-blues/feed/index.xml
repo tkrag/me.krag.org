@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: SMTP blues	</title>
+	<atom:link href="/index.php/2003/07/30/smtp-blues/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/07/30/smtp-blues/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 30 Jul 2003 09:44:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Anders		</title>
+		<link>/index.php/2003/07/30/smtp-blues/#comment-175</link>
+
+		<dc:creator><![CDATA[Anders]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=387#comment-175</guid>
+
+					<description><![CDATA[I recently read somewhere (and I can&#039;t remember where, which is truly annoying) that Mac OS X users can turn their machines into a relaying smtp-server which basically solves the problem. Not that it is any real help in your situation -- I just wanted to mention it as it&#039;s sort of related; maybe it&#039;s possible to go along those lines...?]]></description>
+			<content:encoded><![CDATA[<p>I recently read somewhere (and I can&#8217;t remember where, which is truly annoying) that Mac OS X users can turn their machines into a relaying smtp-server which basically solves the problem. Not that it is any real help in your situation &#8212; I just wanted to mention it as it&#8217;s sort of related; maybe it&#8217;s possible to go along those lines&#8230;?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2003/07/30/smtp-blues/#comment-176</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=387#comment-176</guid>
+
+					<description><![CDATA[Yeah,
+Since I run Linux on my laptop, I can always install and run an SMTP relay right there. I know many people who do that, although so far I&#039;ve resisted simply out of security concerns, since I sometimes leave y laptop connected to a public network.
+
+The problem is with my Palm-Pilot, and other pocket devices or handhelds. I doubt i&#039;d want to run an smtp relay directly on the palm, although if someone came up with a free smtp server for that platform i&#039;d consider it.
+
+The problem is that i strongly believe that more and more people will connect to open, public hotspots using pocket devices. but for that to work, some of the inconveniences that occur in this type of connection (compared f.ex. to a GPRS connection via a cellular operator) need to be ealt with. And SMTP is (IMHO) one o the biggest of these issues. 
+
+Now that MIDP Java app is not a bad idea at all. Where did i leave that Java MIDP tutorial?]]></description>
+			<content:encoded><![CDATA[<p>Yeah,<br />
+Since I run Linux on my laptop, I can always install and run an SMTP relay right there. I know many people who do that, although so far I&#8217;ve resisted simply out of security concerns, since I sometimes leave y laptop connected to a public network.</p>
+<p>The problem is with my Palm-Pilot, and other pocket devices or handhelds. I doubt i&#8217;d want to run an smtp relay directly on the palm, although if someone came up with a free smtp server for that platform i&#8217;d consider it.</p>
+<p>The problem is that i strongly believe that more and more people will connect to open, public hotspots using pocket devices. but for that to work, some of the inconveniences that occur in this type of connection (compared f.ex. to a GPRS connection via a cellular operator) need to be ealt with. And SMTP is (IMHO) one o the biggest of these issues. </p>
+<p>Now that MIDP Java app is not a bad idea at all. Where did i leave that Java MIDP tutorial?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Julian Bond		</title>
+		<link>/index.php/2003/07/30/smtp-blues/#comment-177</link>
+
+		<dc:creator><![CDATA[Julian Bond]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=387#comment-177</guid>
+
+					<description><![CDATA[What you need is an SMTP server that supports AUTH so that it&#039;s not an open relay and SSL so it&#039;s secure. Then you can use it from anywhere. So now you have to go and pummel your home ISP into providing this. Or set it up yourself. Or find someone who will do host for you. While you&#039;re at it, you need POP3 over SSL as well so you&#039;re not spraying your pop3 password over WiFi in the clear.]]></description>
+			<content:encoded><![CDATA[<p>What you need is an SMTP server that supports AUTH so that it&#8217;s not an open relay and SSL so it&#8217;s secure. Then you can use it from anywhere. So now you have to go and pummel your home ISP into providing this. Or set it up yourself. Or find someone who will do host for you. While you&#8217;re at it, you need POP3 over SSL as well so you&#8217;re not spraying your pop3 password over WiFi in the clear.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: P T Withington		</title>
+		<link>/index.php/2003/07/30/smtp-blues/#comment-178</link>
+
+		<dc:creator><![CDATA[P T Withington]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=387#comment-178</guid>
+
+					<description><![CDATA[For a nominal annual fee (US$15/a) you can get yourself a pobox ( http://www.pobox.com/ ) account, and they run an SASL SMTP server that you (as a pobox customer) can use from anywhere to relay your mail.
+
+[Just an endorsement from a happy customer.]]]></description>
+			<content:encoded><![CDATA[<p>For a nominal annual fee (US$15/a) you can get yourself a pobox ( <a href="http://www.pobox.com/" rel="nofollow ugc">http://www.pobox.com/</a> ) account, and they run an SASL SMTP server that you (as a pobox customer) can use from anywhere to relay your mail.</p>
+<p>[Just an endorsement from a happy customer.]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

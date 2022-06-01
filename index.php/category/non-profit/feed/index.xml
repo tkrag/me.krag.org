@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>non-profit Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/non-profit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 20 Nov 2011 09:47:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>non-profit Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Non-profit software developers summit</title>
+		<link>/index.php/2011/11/20/non-profit-software-developers-summit/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2011 09:47:27 +0000</pubDate>
+				<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=804</guid>
+
+					<description><![CDATA[<p>I took a break from my paternity leave to come to San Francisco and meet with about 100 other folks who work in the intersection of tech and social change. It&#8217;s a yearly event held by Aspiration, and facilitated by my close friend and mentor Gunner. It&#8217;s 3 days of insane mind-meld with some of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/non-profit-software-developers-summit/">Non-profit software developers summit</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I took a break from my paternity leave to come to San Francisco and meet with about 100 other folks who work in the intersection of tech and social change. It&#8217;s a yearly event held by <a href="http://aspirationtech.org/events/devsummit11">Aspiration</a>, and facilitated by my close friend and mentor Gunner. </p>
+<p>It&#8217;s 3 days of insane mind-meld with some of the smartest and most passionate people I ever get a chance to meet, and it&#8217;s an opportunity to meet my &#8220;tribe&#8221;. People who do the same type of work I do, for the same types of reasons.  And people who have so much to teach. Mostly I just thought I&#8217;d take the opportunity to talk to some folks and see if it would help me clear my mind about what the future may bring in terms of professional projects. In many ways it did. It helped me clear my mind on some issues, wipe some silly ideas from the rusty membrane, and fuel up on some much less silly ones instead. </p>
+<p>I&#8217;m basically refuelled, ready to think long and hard about my continuing role in the non-profit sector. I&#8217;ve always felt that if I didn&#8217;t have the passion and the skills to make a difference, then I might as well step back into the for-profit sector once again. I&#8217;ve had 3 days of intense discussions on topics as diverse as mobile security, founders syndrome and non-profit mgmt, writing books as documentation and ensuring that your non-profit remains value-driven rather than feature-driven. Luckily those 3 days of drinking from the firehose has left me convinced that I still have the skills and the passion to make a difference. </p>
+<p>Now for the hard part: figuring out how to lay that puzzle in such a way that I can also contribute a little bit to the family upkeep. Wish me luck.  </p>
+<p>The post <a rel="nofollow" href="/index.php/2011/11/20/non-profit-software-developers-summit/">Non-profit software developers summit</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">804</post-id>	</item>
+		<item>
+		<title>open source :: The Unbound Book</title>
+		<link>/index.php/2011/09/06/open-source-the-unbound-book/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2011 06:25:27 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=670</guid>
+
+					<description><![CDATA[<p>In April 2011 I gave a presentation on BookSprints and Booki at the excellent Unbound Book Conference in Amsterdam. Today a only partially related google search uncovered this blog post. Apart from frequent and varied misspellings of my name, it&#8217;s a decent summary of the discussion I brought to the table. Wireless and F/OSS geek [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2011/09/06/open-source-the-unbound-book/">open source :: The Unbound Book</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In April 2011 I gave a presentation on BookSprints and <a href="http://booki.cc/">Booki</a> at the excellent Unbound Book Conference in Amsterdam. Today a only partially related google search uncovered this blog post. Apart from frequent and varied misspellings of my name, it&#8217;s a decent summary of the discussion I brought to the table.</p>
+<blockquote><p>Wireless and F/OSS geek and grassroots technology generalist Thomas Krag introduced Booksprint to the Open Source Publishing Tools workshop as an inverse story about the matter-ing of publishing: “..an outsider’s view of this whole book thing.”</p>
+<p>via <a href="http://networkcultures.org/wpmu/unboundbook/tag/open-source/">open source :: The Unbound Book</a>.</p></blockquote>
+<p>The post <a rel="nofollow" href="/index.php/2011/09/06/open-source-the-unbound-book/">open source :: The Unbound Book</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">670</post-id>	</item>
+		<item>
+		<title>Refugees United &#8211; My new stomping grounds</title>
+		<link>/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/</link>
+					<comments>/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2009 14:56:37 +0000</pubDate>
+				<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Refunite]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=586</guid>
+
+					<description><![CDATA[<p>I&#8217;m now a few weeks into my new full-time job with Refugees United, and after the epic fail of my 4 months in the bossom of the danish state, it&#8217;s not only a relief, but so far it&#8217;s been an amazing journey. It reminds me of the famous &#8220;Like drinking from a firehose&#8221; quote. There&#8217;s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/">Refugees United &#8211; My new stomping grounds</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m now a few weeks into my new full-time job with Refugees United, and after the epic fail of my 4 months in the bossom of the danish state, it&#8217;s not only a relief, but so far it&#8217;s been an amazing journey.</p>
+<p>It reminds me of the famous &#8220;Like drinking from a firehose&#8221; quote. There&#8217;s so much new stuff to learn, the entire world of Refugee issues is new to me, but at the same time the nitty-gritty of the job is so much down my alley, that i really feel like i have something to contribute. </p>
+<p>Refugees United (http://refunite.org/) is essentially an independent .org with a web-based platform where refugees and the internally displaced can register and search for lost family members. It&#8217;s a huge problem , with a huge target group, which is begging to be brought into the 21st century, and we&#8217;re trying to tackle it as best we can. We&#8217;re working with partners to upgrade the current service to a kick-ass system, with state-of-the-art tech. Including mobile support, better collaboration features, better translation issues and better architecture for security. </p>
+<p>We&#8217;re a small team, with 5 people in the copenhagen office, and some outreach efforts around the world, and it&#8217;s a massively complex issue, but I&#8217;m ludicrously excited to be working with such passionate and smart people again, and i&#8217;m sure we&#8217;ll do something well worthwhile while always having fun.</p>
+<p>In a best-case scenario i&#8217;ll update my blog once in  a while with news of our ventures, and at some point i&#8217;ll be asking for input and help as well (but perhaps that&#8217;s better done on twitter?)</p>
+<p>The post <a rel="nofollow" href="/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/">Refugees United &#8211; My new stomping grounds</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">586</post-id>	</item>
+		<item>
+		<title>Shameless self-promotion</title>
+		<link>/index.php/2008/09/16/shameless-self-promotion/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2008 09:56:36 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/09/shameless-self-promotion/</guid>
+
+					<description><![CDATA[<p>Despite having kept a low profile, and done next to no development-related work in the past 2 years, a old journalist contact of wire.less.dk gave me a call yesterday, and today there&#8217;s a&#160; couple of decent quotes on danish on-line computer mag version2. It&#8217;s an article (in danish) about Tim Berners-Lee&#8217;s World Wide Web Foundation, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/09/16/shameless-self-promotion/">Shameless self-promotion</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Despite having kept a low profile, and done next to no development-related work in the past 2 years, a old journalist contact of <a href="http://wire.less.dk/">wire.less.dk</a> gave me a call yesterday, and today there&#8217;s <a href="http://www.version2.dk/artikel/8465?nyhedsbrev">a&nbsp; couple of decent quotes</a> on danish on-line computer mag <a href="http://www.version2.dk/">version2</a>. </p>
+<p>It&#8217;s an article (in danish) about <a href="http://www.webfoundation.org/donations/knight2008/tbl-speech">Tim Berners-Lee&#8217;s World Wide Web Foundation</a>, and his claims that we need to focus on extending the web to those 4 billion people who still aren&#8217;t properly on-line. His is a hard point to argue with, and i got away with spewing some very un-controversial answers to the usual questions, i.e. Do they really need the web? and what do they need it for? isn&#8217;t it hard when there&#8217;s no clean drinking water and no electricity?</p>
+<p>I&#8217;m not going to bore anyone here with the obvious answers, but all-in-all the journalist did a decent job, only misspelling my name once in 4 mentions, and getting almost the entire name of our non-profit correct (it&#8217;s wire.less.dk rather than just wire.less).</p>
+<p>perhaps this means i&#8217;m forgiven, not forgotten?</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/09/16/shameless-self-promotion/">Shameless self-promotion</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">523</post-id>	</item>
+		<item>
+		<title>BookSprint: Thinking about the non-profit technology space</title>
+		<link>/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 13:41:23 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/05/booksprint-thinking-about-the-non-profit-technology-space/</guid>
+
+					<description><![CDATA[<p>5 years of wireless wizardry, a very successful book project, some time out as a linux enterprise consultant, some time spent combining my technology skills with my interest in africa, and a good 6 months mostly hanging out with the future. I&#8217;m now spending a lot of time thinking about what the next 2 years [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>5 years of <a href="http://wire.less.dk/">wireless wizardry</a>, a very successful <a href="http://wndw.net/">book project</a>, some time out as a <a href="http://casalogic.dk/">linux enterprise consultant</a>, some time spent combining my technology skills with my <a href="http://allafrica.com/">interest in africa</a>, and a good 6 months mostly hanging out with <a href="http://flickr.com/photos/tkrag/sets/72157594550688898">the future</a>. I&#8217;m now spending a lot of time thinking about what the next 2 years could/should bring. </p>
+<p>The technology non-profit space, web 2.0, free (open source) software, open networks, open content books, africa, and small kids. These are some of the things i&#8217;ve racked up some experience in over the last few years. There&#8217;s little doubt that the book project is the most impressive project i&#8217;ve had a hand in. With litterally hundreds of thousands of downloads (250,000 since february 2008), a 2nd edition, and official translations into spanish, french and arabic, this is one hell of a success for what is essentially a double niche-in-a-niche project. A technology book about wireless networks, targetted specifically at developing world practitioners. Yet the success if unequivocal, impressive, and ultimately has very little to do with my involvement.</p>
+<p>I came up with a model that seems to work, found a little bit of funding to try it out, and invited the perfect team of authors. I also used my charm to convince <a href="http://hackerfriendly.com/">the best technical editor and author</a> i know to spend enormous amounts of time on very little money to help make this book as amazing as it is. Then i stepped back, went off and did some of the other stuff i mentioned above, and watched this idea unfold. </p>
+<p>I&#8217;m proud of what i helped create, but also well aware of the role i played in it. But I want this success to be replicated, and there are a number of titles i think deserve to be written which could help create a series of pragmatic, hands-on technology books with a focus on the developing world, and free (open source) software. Published under some form of open content license, ensuring they reach their maximum potential as tools for communities around the world. </p>
+<p>Not only do i think this is possible, but i also think it&#8217;s important in ways that i can&#8217;t yet quite describe in simple words, having to do with open content licenses, books as conveyors of learning, and the importance of technology independence. </p>
+<p>Unlike other open content publishing business models, there&#8217;s a little twist in this one, since the prime source of income won&#8217;t be from book sales or advertising, but will come directly from funders, for whom the value-proposition should be pretty clear. Given the <a href="http://booksprint.info/">book sprint</a> model, we can produce pofessionally edited books at a fraction of the cost of the traditional publishing industry. And we have shown that these books are useful as training materials for workshops, as hands-on guides for individuals and organisations trying to implement these technologies, and as awareness raisers for decision-makers looking at technology solutions to exisiting problems. And the price point for a single title seems to be close to that of a single regional week-long technology workshop. So for the price of a single workshop, a book can be published that can become a tangible input to future workshops, but also can massively expand the reach of a workshop-based training model by reaching an audience far beyond that of the equivalent workshop. </p>
+<p>And given some of the fascinating discussions i&#8217;ve seen on <a href="http://manypossibilities.net/2008/04/building-the-demand-in-print-on-demand/">pricing models</a> for <a href="http://radar.oreilly.com/archives/2008/02/community-pricing-for-books.html">open content books</a>, those costs would be shareable between multiple funders, by collecting bids before initiating the project. A model that could perhaps be combined with a <a href="http://magnatune.com/">magnatune</a>, <a href="http://magnatune.com/info/model">pay-what-you-feel-is-right</a> model for downloads. The profits of which could be shared with the authors, and help fund the day-to-day running of the organisation. If the costs of publishing the book has already been covered by non-profit funders, the post-production sales might help fund the difficult overhead that always dogs non-profits between projects. </p>
+<p>Somewhere in this model there may even be room for experimenting with <a href="http://en.wikipedia.org/wiki/Social_business">Social Business</a> models, in the spirit of <a href="http://en.wikipedia.org/wiki/Muhammad_Yunus">Mohammad Yunus</a>. But that&#8217;ll be a discussion for another day, and perhaps another blog. </p>
+<p></p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">510</post-id>	</item>
+		<item>
+		<title>AllAfrica Looking for tech staff</title>
+		<link>/index.php/2007/04/27/allafrica-looking-for-tech-staff/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 27 Apr 2007 15:23:34 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2007/04/allafrica-looking-for-tech-staff/</guid>
+
+					<description><![CDATA[<p>We&#8217;re looking for some new colleagues here at AllAfrica, where, in case you missed the memo, I&#8217;m now Director of Technology. It&#8217;s a great place to work, especially if you dig Africa the way i do, and you want to work with cool web technologies like mapping, mashups, ajaxy stuff etc.</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/04/27/allafrica-looking-for-tech-staff/">AllAfrica Looking for tech staff</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re looking for some new colleagues here at <a href="http://allafrica.com/">AllAfrica</a>, where, in case you missed the memo, I&#8217;m now Director of Technology. It&#8217;s a great place to work, especially if you dig Africa the way i do, and you want to work with cool web technologies like mapping, mashups, ajaxy stuff etc.</p>
+<p><script
+ src="http://writer.zoho.com/public/tkrag/Tech-Job-descriptions1/script"
+></script></p>
+<p>The post <a rel="nofollow" href="/index.php/2007/04/27/allafrica-looking-for-tech-staff/">AllAfrica Looking for tech staff</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">503</post-id>	</item>
+	</channel>
+</rss>

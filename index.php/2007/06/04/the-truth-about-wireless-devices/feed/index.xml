@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Truth About Wireless Devices	</title>
+	<atom:link href="/index.php/2007/06/04/the-truth-about-wireless-devices/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2007/06/04/the-truth-about-wireless-devices/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 04 Jun 2007 18:07:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: GRey		</title>
+		<link>/index.php/2007/06/04/the-truth-about-wireless-devices/#comment-261</link>
+
+		<dc:creator><![CDATA[GRey]]></dc:creator>
+		<pubDate>Mon, 04 Jun 2007 18:07:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2007/06/the-truth-about-wireless-devices/#comment-261</guid>
+
+					<description><![CDATA[&lt;p&gt;Thank you for linking to my site.&lt;/p&gt;
+
+&lt;p&gt;-Grey&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>Thank you for linking to my site.</p>
+<p>-Grey</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

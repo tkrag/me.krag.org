@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: zero-config WiFi gadget	</title>
+	<atom:link href="/index.php/2004/01/09/zero-config-wifi-gadget/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/01/09/zero-config-wifi-gadget/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 10 Apr 2014 21:47:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Stefano		</title>
+		<link>/index.php/2004/01/09/zero-config-wifi-gadget/#comment-207</link>
+
+		<dc:creator><![CDATA[Stefano]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2014 21:47:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=429#comment-207</guid>
+
+					<description><![CDATA[Interesting solution, set in this mode the wifi is really comfortable. Thank you!]]></description>
+			<content:encoded><![CDATA[<p>Interesting solution, set in this mode the wifi is really comfortable. Thank you!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Patrizia		</title>
+		<link>/index.php/2004/01/09/zero-config-wifi-gadget/#comment-206</link>
+
+		<dc:creator><![CDATA[Patrizia]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=429#comment-206</guid>
+
+					<description><![CDATA[A common thinking among &quot;Marketing people &quot; is that for every product that enters the market there must be a path, a target, a need ( real or created) that decides how the product must enter the consumer&#039;s life, which part of the population is more likely to go for it, which niche it is going to fill and, most important &quot;...certain things being stated, something other than what is stated follows of necessity from their being so.&quot; and that is the final issue: the price.
+
+Depending on those anavoidable patterns a product is more or less ready for a certain market.
+High technologically devices, the ones that offer perfect quality and cost a fortune will target the elitarian market, where the price has not big importance (on the contrary, if the price would be lower than what certain people can afford, the product wouldn&#039;t reach them) since it means luxury.
+When a product ceases to be luxury and begins to be a need, then the mass market is ready. The product can enter 60% of consumers&#039; lives, reach easily a good upgrade in the percentage and become &quot; The New Product of the year 200....&quot;.
+
+Let&#039;s consider the VoIP market.
+
+Prior to recent theoretical work on social needs, the usual purpose of a product invoked individual (social) behaviors. We now know that these assumptions are not completely wrong.
+Wrong would be NON considering them.
+
+In systems where many people are free to choose between many options, a small subset of the whole offer will get a disproportionate amount of traffic (or attention, or income), even if no one of the system actively work towards such an outcome. This has nothing to do with moral weakness, selling out, or any other psychological explanation. The very act of choosing, spread widely enough and freely enough, creates a power law distribution. 
+
+Now, thanks to a series of breakthroughs in network theory by researchers  we know that power law distributions tend to arise in social systems where many people express their preferences among many options. We also know that as the number of options rise, the curve becomes more extreme. This is a counter-intuitive finding - most of us would expect a rising number of choices to flatten the curve, but in fact, increasing the size of the system increases the gap between the #1 spot and the median spot.
+
+In other words:
+give to the people the choice among desktop phones and mobile phones and the majority will choose what they think more convenient, in spite of the cost of the service.
+In a way the cost of the service is the only left advantage in favour of the fixed telephony.
+If the price was the same the desktop phones would disappear from the life of the average consumer (mass market consumer).
+
+To see how freedom of choice could create such unequal distributions, consider a hypothetical population of a thousand people, each picking their favorite way of telecommunication. One way to model such a system is simply to assume that each person has an equal chance of liking each kind of telephony. This distribution would be basically flat - most kind of telephony will have the same number of people listing it as a favorite. A few will be more popular than average and a few less, of course, but that will be statistical noise. The bulk of the telephony will be of average popularity, and the highs and lows will not be too far different from this average. In this model, neither the quality of the voice, the availability, the design of the device nor other people&#039;s choices have any effect; there are no shared tastes, no preferred genres, no effects from marketing or recommendations from friends.
+
+This is the mass market of VoIP as dreamed and forecasted by most hardware producers.
+People would choose VoIP in spite of the fact that the systems are not intercommunicating, the available phones are just desktop phones, most of the population doesn&#039;t have a &quot;Flat rate DSL&quot; and some do not even have a decent connection, (just one &quot; UP to...) and just because VoIP means cutting cost.
+
+They have a few wrong assumptions:
+
+1) Most of the people want to save calling internationally 
+
+2) Most of the people will use a cheap  Flat rate connection
+
+3) Most of the people know how to handle a computer or a network, and so solve all the eventual problems that could arise.
+
+But they do not consider that:
+
+1) Most people call locally and just a few once in a while internationally.
+
+2) Most of the people do not have a cheap flat rate Internet
+
+3) Most of the people are not IT experts.
+
+Besides people&#039;s choices do affect one another. If we assume that any kind of telephony chosen by one user is more likely, by even a fractional amount, to be chosen by another user, the system changes dramatically. 
+If Robert ( our average mass market consumer) likes to have a phone in his pocket, available mostly anywhere, it is very likely that Mary would like the same.
+
+
+Is VoIp ready for the &quot; Mass Market&quot;?
+
+The answer could be No and Yes.
+
+What would VoIP offer more than the existing several choices?
+
+1) Price. Telephone calls would be completely free of charge among two IP phones ( and that believe me is a GREEEEAT THING when you try it)
+
+2) The never enough considered satisfaction to be able to ref..ck who f..cked us for many years...
+
+
+What would VoIP telephony need to be #1 spot in the curve?
+
+1) A reliable PORTABLE Phone that doesn&#039;t need millions of Hot Spot&#039;s to work.
+
+2) A reliable, cheap flat rate internet connection anywhere for everybody.
+
+
+If ONE could put these patterns together, THEN VoIP would really have the chance to be #1.
+
+
+See my website: http://www.worldonip.com/ or contact me   patrizia@worldonip.com]]></description>
+			<content:encoded><![CDATA[<p>A common thinking among &#8220;Marketing people &#8221; is that for every product that enters the market there must be a path, a target, a need ( real or created) that decides how the product must enter the consumer&#8217;s life, which part of the population is more likely to go for it, which niche it is going to fill and, most important &#8220;&#8230;certain things being stated, something other than what is stated follows of necessity from their being so.&#8221; and that is the final issue: the price.</p>
+<p>Depending on those anavoidable patterns a product is more or less ready for a certain market.<br />
+High technologically devices, the ones that offer perfect quality and cost a fortune will target the elitarian market, where the price has not big importance (on the contrary, if the price would be lower than what certain people can afford, the product wouldn&#8217;t reach them) since it means luxury.<br />
+When a product ceases to be luxury and begins to be a need, then the mass market is ready. The product can enter 60% of consumers&#8217; lives, reach easily a good upgrade in the percentage and become &#8221; The New Product of the year 200&#8230;.&#8221;.</p>
+<p>Let&#8217;s consider the VoIP market.</p>
+<p>Prior to recent theoretical work on social needs, the usual purpose of a product invoked individual (social) behaviors. We now know that these assumptions are not completely wrong.<br />
+Wrong would be NON considering them.</p>
+<p>In systems where many people are free to choose between many options, a small subset of the whole offer will get a disproportionate amount of traffic (or attention, or income), even if no one of the system actively work towards such an outcome. This has nothing to do with moral weakness, selling out, or any other psychological explanation. The very act of choosing, spread widely enough and freely enough, creates a power law distribution. </p>
+<p>Now, thanks to a series of breakthroughs in network theory by researchers  we know that power law distributions tend to arise in social systems where many people express their preferences among many options. We also know that as the number of options rise, the curve becomes more extreme. This is a counter-intuitive finding &#8211; most of us would expect a rising number of choices to flatten the curve, but in fact, increasing the size of the system increases the gap between the #1 spot and the median spot.</p>
+<p>In other words:<br />
+give to the people the choice among desktop phones and mobile phones and the majority will choose what they think more convenient, in spite of the cost of the service.<br />
+In a way the cost of the service is the only left advantage in favour of the fixed telephony.<br />
+If the price was the same the desktop phones would disappear from the life of the average consumer (mass market consumer).</p>
+<p>To see how freedom of choice could create such unequal distributions, consider a hypothetical population of a thousand people, each picking their favorite way of telecommunication. One way to model such a system is simply to assume that each person has an equal chance of liking each kind of telephony. This distribution would be basically flat &#8211; most kind of telephony will have the same number of people listing it as a favorite. A few will be more popular than average and a few less, of course, but that will be statistical noise. The bulk of the telephony will be of average popularity, and the highs and lows will not be too far different from this average. In this model, neither the quality of the voice, the availability, the design of the device nor other people&#8217;s choices have any effect; there are no shared tastes, no preferred genres, no effects from marketing or recommendations from friends.</p>
+<p>This is the mass market of VoIP as dreamed and forecasted by most hardware producers.<br />
+People would choose VoIP in spite of the fact that the systems are not intercommunicating, the available phones are just desktop phones, most of the population doesn&#8217;t have a &#8220;Flat rate DSL&#8221; and some do not even have a decent connection, (just one &#8221; UP to&#8230;) and just because VoIP means cutting cost.</p>
+<p>They have a few wrong assumptions:</p>
+<p>1) Most of the people want to save calling internationally </p>
+<p>2) Most of the people will use a cheap  Flat rate connection</p>
+<p>3) Most of the people know how to handle a computer or a network, and so solve all the eventual problems that could arise.</p>
+<p>But they do not consider that:</p>
+<p>1) Most people call locally and just a few once in a while internationally.</p>
+<p>2) Most of the people do not have a cheap flat rate Internet</p>
+<p>3) Most of the people are not IT experts.</p>
+<p>Besides people&#8217;s choices do affect one another. If we assume that any kind of telephony chosen by one user is more likely, by even a fractional amount, to be chosen by another user, the system changes dramatically.<br />
+If Robert ( our average mass market consumer) likes to have a phone in his pocket, available mostly anywhere, it is very likely that Mary would like the same.</p>
+<p>Is VoIp ready for the &#8221; Mass Market&#8221;?</p>
+<p>The answer could be No and Yes.</p>
+<p>What would VoIP offer more than the existing several choices?</p>
+<p>1) Price. Telephone calls would be completely free of charge among two IP phones ( and that believe me is a GREEEEAT THING when you try it)</p>
+<p>2) The never enough considered satisfaction to be able to ref..ck who f..cked us for many years&#8230;</p>
+<p>What would VoIP telephony need to be #1 spot in the curve?</p>
+<p>1) A reliable PORTABLE Phone that doesn&#8217;t need millions of Hot Spot&#8217;s to work.</p>
+<p>2) A reliable, cheap flat rate internet connection anywhere for everybody.</p>
+<p>If ONE could put these patterns together, THEN VoIP would really have the chance to be #1.</p>
+<p>See my website: <a href="http://www.worldonip.com/" rel="nofollow ugc">http://www.worldonip.com/</a> or contact me   <a href="mailto:patrizia@worldonip.com">patrizia@worldonip.com</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

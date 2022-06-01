@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Looking for my next gig&#8230;.	</title>
+	<atom:link href="/index.php/2008/04/30/looking-for-my-next-gig/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2008/04/30/looking-for-my-next-gig/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 04 Jun 2008 13:15:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Jace		</title>
+		<link>/index.php/2008/04/30/looking-for-my-next-gig/#comment-266</link>
+
+		<dc:creator><![CDATA[Jace]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2008 13:15:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/04/looking-for-my-next-gig/#comment-266</guid>
+
+					<description><![CDATA[&lt;p&gt;It looks like your form processing thingy doesn&#039;t like spaces in names. Or something.&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>It looks like your form processing thingy doesn&#8217;t like spaces in names. Or something.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kiran Jonnalagadda		</title>
+		<link>/index.php/2008/04/30/looking-for-my-next-gig/#comment-265</link>
+
+		<dc:creator><![CDATA[Kiran Jonnalagadda]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2008 13:13:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/04/looking-for-my-next-gig/#comment-265</guid>
+
+					<description><![CDATA[&lt;p&gt;You know what we do. Let me know if its of interest.&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>You know what we do. Let me know if its of interest.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: David		</title>
+		<link>/index.php/2008/04/30/looking-for-my-next-gig/#comment-264</link>
+
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 02 May 2008 18:31:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/04/looking-for-my-next-gig/#comment-264</guid>
+
+					<description><![CDATA[&lt;p&gt;Join the club... :) a very difficult decision...&lt;/p&gt;
+
+&lt;p&gt;Btw, I&#039;m in Denmark right now... Helsingor to be exact.&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>Join the club&#8230; 🙂 a very difficult decision&#8230;</p>
+<p>Btw, I&#8217;m in Denmark right now&#8230; Helsingor to be exact.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

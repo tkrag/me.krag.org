@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Beastie Boys	</title>
+	<atom:link href="/index.php/2003/03/12/the-beastie-boys/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/03/12/the-beastie-boys/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 12 Mar 2003 13:11:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: cuba		</title>
+		<link>/index.php/2003/03/12/the-beastie-boys/#comment-101</link>
+
+		<dc:creator><![CDATA[cuba]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=314#comment-101</guid>
+
+					<description><![CDATA[it was an accident to be here... but it was cool to visit you and find this beastie boys&#039; info.]]></description>
+			<content:encoded><![CDATA[<p>it was an accident to be here&#8230; but it was cool to visit you and find this beastie boys&#8217; info.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

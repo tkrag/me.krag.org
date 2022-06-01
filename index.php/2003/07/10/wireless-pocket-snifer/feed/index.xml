@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Wireless pocket snifer	</title>
+	<atom:link href="/index.php/2003/07/10/wireless-pocket-snifer/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/07/10/wireless-pocket-snifer/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 10 Jul 2003 10:35:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: cowboy		</title>
+		<link>/index.php/2003/07/10/wireless-pocket-snifer/#comment-157</link>
+
+		<dc:creator><![CDATA[cowboy]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=371#comment-157</guid>
+
+					<description><![CDATA[Smart ID has its version of WiFi detector, WFS-1.
+There is a very interesting evaluation of SMARTID detectector WFS-1 against Kensington WiFi Finder in http://www.securityfocus.com/infocus/1727.
+More discussions in www.gizmodo.com
+The choice is clear.]]></description>
+			<content:encoded><![CDATA[<p>Smart ID has its version of WiFi detector, WFS-1.<br />
+There is a very interesting evaluation of SMARTID detectector WFS-1 against Kensington WiFi Finder in <a href="http://www.securityfocus.com/infocus/1727" rel="nofollow ugc">http://www.securityfocus.com/infocus/1727</a>.<br />
+More discussions in <a href="http://www.gizmodo.com/" rel="nofollow ugc">http://www.gizmodo.com/</a><br />
+The choice is clear.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2003/07/10/wireless-pocket-snifer/#comment-158</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=371#comment-158</guid>
+
+					<description><![CDATA[Yes, I just ordered a handful of these detectors for my company. They should arrive any day now.]]></description>
+			<content:encoded><![CDATA[<p>Yes, I just ordered a handful of these detectors for my company. They should arrive any day now.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

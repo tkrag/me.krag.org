@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Kajak polo (aka Canoe Polo)	</title>
+	<atom:link href="/index.php/2005/08/16/kajak-polo-aka-canoe-polo/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2005/08/16/kajak-polo-aka-canoe-polo/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 03 Jul 2008 15:12:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Mindy		</title>
+		<link>/index.php/2005/08/16/kajak-polo-aka-canoe-polo/#comment-234</link>
+
+		<dc:creator><![CDATA[Mindy]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2008 15:12:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=474#comment-234</guid>
+
+					<description><![CDATA[&lt;p&gt;It can be difficult coming back from injury. I had to do swimming for ages after having a broken leg. At least you&#039;ve found something more interesting! I also found a good sports masseuse which helped with the pain and niggles. Good luck with getting back on court.&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>It can be difficult coming back from injury. I had to do swimming for ages after having a broken leg. At least you&#8217;ve found something more interesting! I also found a good sports masseuse which helped with the pain and niggles. Good luck with getting back on court.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Search Engine for low-bandwidth connections	</title>
+	<atom:link href="/index.php/2003/07/21/search-engine-for-low-bandwidth-connections/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/07/21/search-engine-for-low-bandwidth-connections/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 21 Jul 2003 13:07:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: s woodside		</title>
+		<link>/index.php/2003/07/21/search-engine-for-low-bandwidth-connections/#comment-169</link>
+
+		<dc:creator><![CDATA[s woodside]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=382#comment-169</guid>
+
+					<description><![CDATA[makes you wonder how they got covered by the BBC at all
+
+simon]]></description>
+			<content:encoded><![CDATA[<p>makes you wonder how they got covered by the BBC at all</p>
+<p>simon</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bill Thies		</title>
+		<link>/index.php/2003/07/21/search-engine-for-low-bandwidth-connections/#comment-170</link>
+
+		<dc:creator><![CDATA[Bill Thies]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=382#comment-170</guid>
+
+					<description><![CDATA[Hi,
+
+As a graduate student on the TEK project at MIT, let me try to answer some of your questions.
+
+It&#039;s definately the case that there are other Web-over-email utilities, such as www4mail that you mention.  While these are great services, there are several benefits that are added by having a client program on the user side.  First, it greatly improves usability -- users have a standard web browser interface that hides the details of search queries and email formatting from the user.  Also, the results are returned as bonefied web pages, complete with colors and special formatting.  When/if a community ever gains full Internet connectivity, it can seamlessly integrate into the new environment with the browser / navigation skills that were learned using TEK.
+
+Also, sometimes it is important to have a shared installation on a public kiosk, school, or library machine.  In these cases, the TEK Client provides basic user management so that several people can share a single email account (which typically belongs to the site administrator.)  The administrator can oversee the usage of the system and authorize the sending and receiving of mails.
+
+Finally, the client program provides a local search utility for indexing pages that have been downloaded previously.  In this sense, it serves to build up a local information cache that is likely to have relevant information for the community.
+
+Regarding the distribution of the large client program, we have found so far that it&#039;s feasible to distribute on CD, especially for shared machines where there is an organization or administrator that is actively installing new software across several related sites.  Sometimes it is also possible to package TEK with other systems (e.g., those provided by FirstMileSolutions, http://www.firstmilesolutions.com/ ) that are providing the first sources of connectivity for a region.
+
+On the server side, there are benefits added besides the advanced searching technologies (which, as you correctly state, are still under development.)  For example, the server keeps track of each client as well as the set of URL&#039;s that they have previously downloaded; in this way, the server can avoid wasting bandwidth on duplicate pages, and can always send new pages that are adding information to a Client&#039;s cache.
+
+We are very grateful for the recent interest in TEK, and we are continuing to improve and extend the system so that it can best meet the needs of low-connectivity users.  Please check our website at http://tek.sourceforge.net/ for the latest information on TEK.  Thank you.]]></description>
+			<content:encoded><![CDATA[<p>Hi,</p>
+<p>As a graduate student on the TEK project at MIT, let me try to answer some of your questions.</p>
+<p>It&#8217;s definately the case that there are other Web-over-email utilities, such as www4mail that you mention.  While these are great services, there are several benefits that are added by having a client program on the user side.  First, it greatly improves usability &#8212; users have a standard web browser interface that hides the details of search queries and email formatting from the user.  Also, the results are returned as bonefied web pages, complete with colors and special formatting.  When/if a community ever gains full Internet connectivity, it can seamlessly integrate into the new environment with the browser / navigation skills that were learned using TEK.</p>
+<p>Also, sometimes it is important to have a shared installation on a public kiosk, school, or library machine.  In these cases, the TEK Client provides basic user management so that several people can share a single email account (which typically belongs to the site administrator.)  The administrator can oversee the usage of the system and authorize the sending and receiving of mails.</p>
+<p>Finally, the client program provides a local search utility for indexing pages that have been downloaded previously.  In this sense, it serves to build up a local information cache that is likely to have relevant information for the community.</p>
+<p>Regarding the distribution of the large client program, we have found so far that it&#8217;s feasible to distribute on CD, especially for shared machines where there is an organization or administrator that is actively installing new software across several related sites.  Sometimes it is also possible to package TEK with other systems (e.g., those provided by FirstMileSolutions, <a href="http://www.firstmilesolutions.com/" rel="nofollow ugc">http://www.firstmilesolutions.com/</a> ) that are providing the first sources of connectivity for a region.</p>
+<p>On the server side, there are benefits added besides the advanced searching technologies (which, as you correctly state, are still under development.)  For example, the server keeps track of each client as well as the set of URL&#8217;s that they have previously downloaded; in this way, the server can avoid wasting bandwidth on duplicate pages, and can always send new pages that are adding information to a Client&#8217;s cache.</p>
+<p>We are very grateful for the recent interest in TEK, and we are continuing to improve and extend the system so that it can best meet the needs of low-connectivity users.  Please check our website at <a href="http://tek.sourceforge.net/" rel="nofollow ugc">http://tek.sourceforge.net/</a> for the latest information on TEK.  Thank you.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

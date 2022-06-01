@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Interesting projects from MIT Medialab Asia	</title>
+	<atom:link href="/index.php/2002/12/05/interesting-projects-from-mit-medialab-asia/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2002/12/05/interesting-projects-from-mit-medialab-asia/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 05 Dec 2002 05:45:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Pathik DebMallik		</title>
+		<link>/index.php/2002/12/05/interesting-projects-from-mit-medialab-asia/#comment-18</link>
+
+		<dc:creator><![CDATA[Pathik DebMallik]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=225#comment-18</guid>
+
+					<description><![CDATA[What is this all about. Can I get some information by e-mail?]]></description>
+			<content:encoded><![CDATA[<p>What is this all about. Can I get some information by e-mail?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: anil s m ingle		</title>
+		<link>/index.php/2002/12/05/interesting-projects-from-mit-medialab-asia/#comment-19</link>
+
+		<dc:creator><![CDATA[anil s m ingle]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=225#comment-19</guid>
+
+					<description><![CDATA[sir,
+i am student of nit warangal cse i want to do project there i am recently doing project on web minnning in iiit hyderabad . can it possible thaT i get this opertunity in my winter vacation or my next summer vacation hoping that u consider  this request
+hoping to get ur response
+thanking u
+anil s m ingle
+nit warangal]]></description>
+			<content:encoded><![CDATA[<p>sir,<br />
+i am student of nit warangal cse i want to do project there i am recently doing project on web minnning in iiit hyderabad . can it possible thaT i get this opertunity in my winter vacation or my next summer vacation hoping that u consider  this request<br />
+hoping to get ur response<br />
+thanking u<br />
+anil s m ingle<br />
+nit warangal</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

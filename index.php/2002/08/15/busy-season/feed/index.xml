@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: busy season….	</title>
+	<atom:link href="/index.php/2002/08/15/busy-season/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2002/08/15/busy-season/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 15 Aug 2002 12:10:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: yael zaslavsky		</title>
+		<link>/index.php/2002/08/15/busy-season/#comment-15</link>
+
+		<dc:creator><![CDATA[yael zaslavsky]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=201#comment-15</guid>
+
+					<description><![CDATA[hi...
+you have dissapeared...
+actually i was wondering if you are still alive...after writing many mails and calling you, and no answer....
+so, you are alive!!!!and happy!!!
+this is good!
+tke care you
+yael
+(if you dont remember, we used to be friends once...from israel)]]></description>
+			<content:encoded><![CDATA[<p>hi&#8230;<br />
+you have dissapeared&#8230;<br />
+actually i was wondering if you are still alive&#8230;after writing many mails and calling you, and no answer&#8230;.<br />
+so, you are alive!!!!and happy!!!<br />
+this is good!<br />
+tke care you<br />
+yael<br />
+(if you dont remember, we used to be friends once&#8230;from israel)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Palm Tungsten C revisited	</title>
+	<atom:link href="/index.php/2003/06/16/palm-tungsten-c-revisited/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/06/16/palm-tungsten-c-revisited/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 16 Jun 2003 08:20:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Jim Campbell		</title>
+		<link>/index.php/2003/06/16/palm-tungsten-c-revisited/#comment-151</link>
+
+		<dc:creator><![CDATA[Jim Campbell]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=358#comment-151</guid>
+
+					<description><![CDATA[What are you using for the ssh client? I just ordered the Tungsten C and I&#039;m really looking forward to being able to remote administer my server(s) from any hotspot!
+
+Remove the &quot;dot&quot; from my address for email.
+
+Thanks,
+Jim]]></description>
+			<content:encoded><![CDATA[<p>What are you using for the ssh client? I just ordered the Tungsten C and I&#8217;m really looking forward to being able to remote administer my server(s) from any hotspot!</p>
+<p>Remove the &#8220;dot&#8221; from my address for email.</p>
+<p>Thanks,<br />
+Jim</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2003/06/16/palm-tungsten-c-revisited/#comment-152</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=358#comment-152</guid>
+
+					<description><![CDATA[There are basically 2 ssh clients I found, Mocha Telnet from Mochasoft (http://www.mochasoft.dk/palm.html), is a 25$ piece of software and is pretty stable and feature-risch, but is NOT made for high-res devices, which means a lot of left-right scrolling in actual use.
+
+TuSSH (short for Tungsten SSH) is a simple, but high-res and FREE ssh client. So far it is ssh 1 only (but the author is working on support for ssh2). It&#039;s currently in version 0.55 but progress is really fast, so I have high hopes for it.
+check it out here: (http://staff.deltatee.com/~angusa/TuSSH.html)
+
+Hope that helps
+
+/Tomas]]></description>
+			<content:encoded><![CDATA[<p>There are basically 2 ssh clients I found, Mocha Telnet from Mochasoft (<a href="http://www.mochasoft.dk/palm.html" rel="nofollow ugc">http://www.mochasoft.dk/palm.html</a>), is a 25$ piece of software and is pretty stable and feature-risch, but is NOT made for high-res devices, which means a lot of left-right scrolling in actual use.</p>
+<p>TuSSH (short for Tungsten SSH) is a simple, but high-res and FREE ssh client. So far it is ssh 1 only (but the author is working on support for ssh2). It&#8217;s currently in version 0.55 but progress is really fast, so I have high hopes for it.<br />
+check it out here: (<a href="http://staff.deltatee.com/~angusa/TuSSH.html" rel="nofollow ugc">http://staff.deltatee.com/~angusa/TuSSH.html</a>)</p>
+<p>Hope that helps</p>
+<p>/Tomas</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: beefcommando		</title>
+		<link>/index.php/2003/06/16/palm-tungsten-c-revisited/#comment-153</link>
+
+		<dc:creator><![CDATA[beefcommando]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=358#comment-153</guid>
+
+					<description><![CDATA[check out pssh, it supports ssh version 2 and seems to work well.
+
+http://www.sealiesoftware.com/pssh/]]></description>
+			<content:encoded><![CDATA[<p>check out pssh, it supports ssh version 2 and seems to work well.</p>
+<p><a href="http://www.sealiesoftware.com/pssh/" rel="nofollow ugc">http://www.sealiesoftware.com/pssh/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

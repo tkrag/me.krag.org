@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Vacation time is coming	</title>
+	<atom:link href="/index.php/2004/04/16/vacation-time-is-coming/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/04/16/vacation-time-is-coming/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 16 Apr 2004 19:10:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Atanu Dey		</title>
+		<link>/index.php/2004/04/16/vacation-time-is-coming/#comment-218</link>
+
+		<dc:creator><![CDATA[Atanu Dey]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=453#comment-218</guid>
+
+					<description><![CDATA[I wish you a great vacation and hope you have a very fun and relaxing time.
+
+Keep away from the grizzlies. :)
+
+Atanu]]></description>
+			<content:encoded><![CDATA[<p>I wish you a great vacation and hope you have a very fun and relaxing time.</p>
+<p>Keep away from the grizzlies. 🙂</p>
+<p>Atanu</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

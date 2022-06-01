@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: relaxation	</title>
+	<atom:link href="/index.php/2001/01/25/relaxation/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2001/01/25/relaxation/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 25 Jan 2001 03:35:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: painting		</title>
+		<link>/index.php/2001/01/25/relaxation/#comment-4</link>
+
+		<dc:creator><![CDATA[painting]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=37#comment-4</guid>
+
+					<description><![CDATA[Hi All!I love your site!  Mark painting]]></description>
+			<content:encoded><![CDATA[<p>Hi All!I love your site!  Mark painting</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: painting		</title>
+		<link>/index.php/2001/01/25/relaxation/#comment-5</link>
+
+		<dc:creator><![CDATA[painting]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=37#comment-5</guid>
+
+					<description><![CDATA[Hi All!I love your site!  Mark painting]]></description>
+			<content:encoded><![CDATA[<p>Hi All!I love your site!  Mark painting</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

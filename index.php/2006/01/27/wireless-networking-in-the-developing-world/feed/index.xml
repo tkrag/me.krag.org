@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Wireless Networking in the Developing World	</title>
+	<atom:link href="/index.php/2006/01/27/wireless-networking-in-the-developing-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2006/01/27/wireless-networking-in-the-developing-world/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sat, 12 May 2007 22:16:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Unthinkingly.com&#187; Blog Archive &#187; Networking Wirelessly, Freely		</title>
+		<link>/index.php/2006/01/27/wireless-networking-in-the-developing-world/#comment-240</link>
+
+		<dc:creator><![CDATA[Unthinkingly.com&#187; Blog Archive &#187; Networking Wirelessly, Freely]]></dc:creator>
+		<pubDate>Sat, 12 May 2007 22:16:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=491#comment-240</guid>
+
+					<description><![CDATA[&lt;p&gt;[...] Thomas Krag has a great-looking new book (with lead editor Rob Flickenger) about wireless networking in the developing world. And it&#8217;s always nice to see people taking advantage of the print-on-demand services of lulu.com.   The massive popularity of wireless networking has caused equipment costs to continually plummet, while equipment capabilities continue to increase. By applying this technology in areas that are badly in need of critical communications infrastructure, more people can be brought online than ever before, in less time, for very little cost. We hope to not only convince you that this is possible, but also show how we have made such networks work, and to give you the information and tools you need to start a network project in your local community. [...]&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Thomas Krag has a great-looking new book (with lead editor Rob Flickenger) about wireless networking in the developing world. And it&#8217;s always nice to see people taking advantage of the print-on-demand services of lulu.com.   The massive popularity of wireless networking has caused equipment costs to continually plummet, while equipment capabilities continue to increase. By applying this technology in areas that are badly in need of critical communications infrastructure, more people can be brought online than ever before, in less time, for very little cost. We hope to not only convince you that this is possible, but also show how we have made such networks work, and to give you the information and tools you need to start a network project in your local community. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: WorldChanging: Another World Is Here		</title>
+		<link>/index.php/2006/01/27/wireless-networking-in-the-developing-world/#comment-239</link>
+
+		<dc:creator><![CDATA[WorldChanging: Another World Is Here]]></dc:creator>
+		<pubDate>Sat, 28 Jan 2006 01:19:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=491#comment-239</guid>
+
+					<description><![CDATA[&lt;strong&gt;Hands-On Leapfrogging&lt;/strong&gt;
+
+Wireless Networking for the Developing World is a how-to guide for building, deploying and maintaining wireless information networks in rural parts of the developing world....]]></description>
+			<content:encoded><![CDATA[<p><strong>Hands-On Leapfrogging</strong></p>
+<p>Wireless Networking for the Developing World is a how-to guide for building, deploying and maintaining wireless information networks in rural parts of the developing world&#8230;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

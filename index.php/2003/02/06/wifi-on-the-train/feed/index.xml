@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: WiFi on the train	</title>
+	<atom:link href="/index.php/2003/02/06/wifi-on-the-train/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/02/06/wifi-on-the-train/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 06 Feb 2003 12:41:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: riptari filter		</title>
+		<link>/index.php/2003/02/06/wifi-on-the-train/#comment-77</link>
+
+		<dc:creator><![CDATA[riptari filter]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=276#comment-77</guid>
+
+					<description><![CDATA[&lt;strong&gt;multiplicity, the DR, DDN&lt;/strong&gt;
+
+I noticed several good links over at Tomas Krag&#039;s multiplicity blog today, you should take a peek: WiFi on Scandinavian]]></description>
+			<content:encoded><![CDATA[<p><strong>multiplicity, the DR, DDN</strong></p>
+<p>I noticed several good links over at Tomas Krag&#8217;s multiplicity blog today, you should take a peek: WiFi on Scandinavian</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Refugees United &#8211; My new stomping grounds	</title>
+	<atom:link href="/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 03 Sep 2009 15:01:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Randy Nichols		</title>
+		<link>/index.php/2009/09/03/refugees-united-my-new-stomping-grounds/#comment-273</link>
+
+		<dc:creator><![CDATA[Randy Nichols]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2009 15:01:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=586#comment-273</guid>
+
+					<description><![CDATA[A friend of mine just emailed me one of your articles from a while back.  I read that one a few more.  Really enjoy your blog.  Thanks]]></description>
+			<content:encoded><![CDATA[<p>A friend of mine just emailed me one of your articles from a while back.  I read that one a few more.  Really enjoy your blog.  Thanks</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

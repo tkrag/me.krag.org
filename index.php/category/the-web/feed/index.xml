@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>The Web Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/the-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 11 Jun 2004 19:13:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>The Web Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Lawrence Lessig and Eben Moglen</title>
+		<link>/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/</link>
+					<comments>/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2004 19:13:56 +0000</pubDate>
+				<category><![CDATA[The Web]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=458</guid>
+
+					<description><![CDATA[<p>More people need to hear Eben Moglen and Lawrence Lessig speak. In the past 3 days, i&#8217;ve had the fortune to hear 2 extremey eloquent presentations about &#8220;Freedom&#8221;, as in Free Software, Hardware, Networks and especially culture. Both of these gentlemen are incredibly eloquent, moving and extremely convincing. And both of them manage to express [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/">Lawrence Lessig and Eben Moglen</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>More people need to hear Eben Moglen and Lawrence Lessig speak.</p>
+<p>In the past 3 days, i&#8217;ve had the fortune to hear 2 extremey eloquent presentations about &#8220;Freedom&#8221;, as in Free Software, Hardware, Networks and especially culture.</p>
+<p>Both of these gentlemen are incredibly eloquent, moving and extremely convincing. And both of them manage to express the importance of holding on to the freedoms we have, in the face of grave pressure from corporate interests. Unfortunately at a conference like this, they are preaching to the converted.</p>
+<p>Other people need to hear this again and again and again&#8230;.</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/">Lawrence Lessig and Eben Moglen</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2004/06/11/lawrence-lessig-and-eben-moglen/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">458</post-id>	</item>
+		<item>
+		<title>Semantic Web &#8211; Syllogisms, Global Ontologies and blue-eyed ideals</title>
+		<link>/index.php/2003/11/10/semantic-web-syllogisms-global-ontologies-and-blue-eyed-ideals/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 10 Nov 2003 08:44:39 +0000</pubDate>
+				<category><![CDATA[The Web]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=417</guid>
+
+					<description><![CDATA[<p>Shirky: The Semantic Web, Syllogism, and Worldview Clay Shirky delivers the most concise, accurate and true criticism of the so-called Semantic Web. It&#8217;s a very weel-argued criticism, derailing the whole idea of a global ontology, and pointing out that a universal system based on Syllogisms will fail at the really difficult part, namely dealing with [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2003/11/10/semantic-web-syllogisms-global-ontologies-and-blue-eyed-ideals/">Semantic Web &#8211; Syllogisms, Global Ontologies and blue-eyed ideals</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a title="Shirky: The Semantic Web, Syllogism, and Worldview" href="http://www.shirky.com/writings/semantic_syllogism.html">Shirky: The Semantic Web, Syllogism, and Worldview</a></p>
+<p>Clay Shirky delivers the most concise, accurate and true criticism of the so-called <a href="http://www.sciam.com/article.cfm?articleID=00048144-10D2-1C70-84A9809EC588EF21">Semantic Web</a>. It&#8217;s a very weel-argued criticism, derailing the whole idea of a global ontology, and pointing out that a universal system based on Syllogisms will fail at the really difficult part, namely dealing with uncertainties, generalisations and half-truths. The same uncertainties, generalisations and half-truths that humans base pretty much all our conversations and value-statements on. It&#8217;s insightful for anyone who&#8217;s been grasped by the &#8216;sweetness&#8217; of the semantic web vision and confirming for anyone who&#8217;s been a sceptic all along. </p>
+<p>Oh, and interesting for anyone who&#8217;s never given the sematic web a second thought (much like myself), because it deals with larger issues, i.e, the (un)likeliness of ever coming up with a global, machine-understandable ontology, and the general idea of solving the trivial problems, and ignoring the hard ones, that seems to be a favourite amongst techies everywhere (myself definitely included <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><bq>Any attempt at a global ontology is doomed to fail, because meta-data describes a worldview. The designers of the Soviet library&#8217;s cataloging system were making an assertion about the world when they made the first category of books &#8220;Works of the classical authors of Marxism-Leninism.&#8221; Charles Dewey was making an assertion about the world when he lumped all books about non-Christian religions into a single category, listed last among books about religion. It is not possible to neatly map these two systems onto one another, or onto other classification schemes &#8212; they describe different kinds of worlds.</p>
+<p>Because meta-data describes a worldview, incompatibility is an inevitable by-product of vigorous argument. It would be relatively easy, for example, to encode a description of genes in XML, but it would be impossible to get a universal standard for such a description, because biologists are still arguing about what a gene actually is. There are several competing standards for describing genetic information, and the semantic divergence is an artifact of a real conversation among biologists. You can&#8217;t get a standard til you have an agreement, and you can&#8217;t force an agreement to exist where none actually does.</bq></p>
+<p>The post <a rel="nofollow" href="/index.php/2003/11/10/semantic-web-syllogisms-global-ontologies-and-blue-eyed-ideals/">Semantic Web &#8211; Syllogisms, Global Ontologies and blue-eyed ideals</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">417</post-id>	</item>
+		<item>
+		<title>Quality of Service on the Internet</title>
+		<link>/index.php/2003/08/15/quality-of-service-on-the-internet/</link>
+					<comments>/index.php/2003/08/15/quality-of-service-on-the-internet/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2003 14:24:52 +0000</pubDate>
+				<category><![CDATA[The Web]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=396</guid>
+
+					<description><![CDATA[<p>Dan Bricklin has a great article about Why We Don&#8217;t Need QOS: Trains, Cars, and Internet Quality of Service. He echo&#8217;s a lot of my thoughts about providing Voice over the Internet, something that Telco&#8217;s are notriously loathe to do, partly because they won&#8217;t cannibalize their own business, but partly because they just don&#8217;t get [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2003/08/15/quality-of-service-on-the-internet/">Quality of Service on the Internet</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.bricklin.com/">Dan Bricklin</a> has a great article about <a  href="http://www.bricklin.com/qos.htm">Why We Don&#8217;t Need QOS: Trains, Cars, and Internet Quality of Service</a>.</p>
+<p>He echo&#8217;s a lot of my thoughts about providing Voice over the Internet, something that Telco&#8217;s are notriously loathe to do, partly because they won&#8217;t cannibalize their own business, but partly because they just don&#8217;t get it. </p>
+<p>If you&#8217;re someone who&#8217;s convinced that voice and video over the internet won&#8217;t happen untiol we have reliable QoS guarantees, read this. If, like me, you don&#8217;t like the telco way of thinking about net traffic and congestion, but you&#8217;ve lacked the words and analogies to say so, read this right now.</p>
+<p><bq>I keep reading how all sorts of applications for the Internet will require new, &#8220;Quality of Service&#8221; (QOS) features in order to work. There is this feeling that special handling of &#8220;the right traffic&#8221; will be required to make things work. I believe that there are some dangerous flaws in this type of thinking. Not only can QOS make the Internet worse for applications we need and depend upon, it won&#8217;t be able to help deliver on its promise. I also believe that while the need for QOS sounds intuitive at first, once you think about it a bit, you&#8217;ll see that common sense argues against it in the context of the Internet.</bq></p>
+<p>The post <a rel="nofollow" href="/index.php/2003/08/15/quality-of-service-on-the-internet/">Quality of Service on the Internet</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2003/08/15/quality-of-service-on-the-internet/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">396</post-id>	</item>
+	</channel>
+</rss>

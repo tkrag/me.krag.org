@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Blog changes	</title>
+	<atom:link href="/index.php/2003/01/18/blog-changes/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/01/18/blog-changes/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sat, 18 Jan 2003 17:03:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Daen de Leon		</title>
+		<link>/index.php/2003/01/18/blog-changes/#comment-29</link>
+
+		<dc:creator><![CDATA[Daen de Leon]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=242#comment-29</guid>
+
+					<description><![CDATA[Ha!  You thought you were blogging away in anonymity.  I&#039;ve got news for you, sunshine ... secretly, this blog is being syndicated to 57 news agencies from Afghanistan to Zimbabwe ;-)
+
+Isn&#039;t GeoUrl a wonderful thing?]]></description>
+			<content:encoded><![CDATA[<p>Ha!  You thought you were blogging away in anonymity.  I&#8217;ve got news for you, sunshine &#8230; secretly, this blog is being syndicated to 57 news agencies from Afghanistan to Zimbabwe 😉</p>
+<p>Isn&#8217;t GeoUrl a wonderful thing?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

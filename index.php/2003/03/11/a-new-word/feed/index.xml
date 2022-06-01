@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: A new word…	</title>
+	<atom:link href="/index.php/2003/03/11/a-new-word/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/03/11/a-new-word/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Tue, 11 Mar 2003 12:27:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Nate Aune		</title>
+		<link>/index.php/2003/03/11/a-new-word/#comment-100</link>
+
+		<dc:creator><![CDATA[Nate Aune]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=313#comment-100</guid>
+
+					<description><![CDATA[Yeah, I know the allure of Props... 
+
+You might like this essay entitled &quot;Structured Procrastination&quot; by John Perry.
+http://www-csli.stanford.edu/%7ejohn/procrastination.html]]></description>
+			<content:encoded><![CDATA[<p>Yeah, I know the allure of Props&#8230; </p>
+<p>You might like this essay entitled &#8220;Structured Procrastination&#8221; by John Perry.<br />
+<a href="http://www-csli.stanford.edu/%7ejohn/procrastination.html" rel="nofollow ugc">http://www-csli.stanford.edu/%7ejohn/procrastination.html</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: eSeva: e-government on India	</title>
+	<atom:link href="/index.php/2003/05/15/eseva-e-government-on-india/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/05/15/eseva-e-government-on-india/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 15 May 2003 11:46:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: tprasad raj		</title>
+		<link>/index.php/2003/05/15/eseva-e-government-on-india/#comment-132</link>
+
+		<dc:creator><![CDATA[tprasad raj]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=344#comment-132</guid>
+
+					<description><![CDATA[about e-seva in apgovt. on  line
+
+we know about eseva and egovernance separately by doing my project work
+
+what are the activities and electives in their electronic systems
+
+give ur valuable results in this matter 
+
+awaiting for ur results
+bye]]></description>
+			<content:encoded><![CDATA[<p>about e-seva in apgovt. on  line</p>
+<p>we know about eseva and egovernance separately by doing my project work</p>
+<p>what are the activities and electives in their electronic systems</p>
+<p>give ur valuable results in this matter </p>
+<p>awaiting for ur results<br />
+bye</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

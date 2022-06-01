@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: EmergingTech Writeup	</title>
+	<atom:link href="/index.php/2004/02/15/emergingtech-writeup/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/02/15/emergingtech-writeup/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 15 Feb 2004 10:24:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: felix		</title>
+		<link>/index.php/2004/02/15/emergingtech-writeup/#comment-210</link>
+
+		<dc:creator><![CDATA[felix]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=441#comment-210</guid>
+
+					<description><![CDATA[i like the fact, that you called it del.irio.us! you probably were on the plane without your google suitcase. it´s been nice meeting you in gringo country.]]></description>
+			<content:encoded><![CDATA[<p>i like the fact, that you called it del.irio.us! you probably were on the plane without your google suitcase. it´s been nice meeting you in gringo country.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2004/02/15/emergingtech-writeup/#comment-211</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=441#comment-211</guid>
+
+					<description><![CDATA[del.irio.us is so much nicer than del.icio.us
+
+Perhaps I should grab that domain. Oh, damn it&#039;s taken already :-)
+
+thanks for the pointer, and the nice cynical talks at ETech]]></description>
+			<content:encoded><![CDATA[<p>del.irio.us is so much nicer than del.icio.us</p>
+<p>Perhaps I should grab that domain. Oh, damn it&#8217;s taken already 🙂</p>
+<p>thanks for the pointer, and the nice cynical talks at ETech</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

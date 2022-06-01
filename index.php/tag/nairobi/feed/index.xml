@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>nairobi Archives &bull; krag.be</title>
+	<atom:link href="/index.php/tag/nairobi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sat, 12 Jun 2010 15:38:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>nairobi Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>In nairobi with refugees united</title>
+		<link>/index.php/2010/06/12/in-nairobi-with-refugees-united/</link>
+					<comments>/index.php/2010/06/12/in-nairobi-with-refugees-united/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2010 15:38:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[barcampnairobi]]></category>
+		<category><![CDATA[nairobi]]></category>
+		<category><![CDATA[refugees united]]></category>
+		<category><![CDATA[Refunite]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2010/06/in-nairobi-with-refugees-united/</guid>
+
+					<description><![CDATA[<p>I&#8217;m in Nairobi for a week for a series of meetings with partners and to get an impression of the local tech scene. Day 1 was very much about touching down, having a quick meeting and then a quick football party for the world cup opening. Today is BarCamp Nairobi, a geek, web developer, tech [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/12/in-nairobi-with-refugees-united/">In nairobi with refugees united</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m in Nairobi for a week for a series of meetings with partners and to get an impression of the local tech scene. Day 1 was very much about touching down, having a quick meeting and then a quick football party for the world cup opening. </p>
+<p>Today is BarCamp Nairobi, a geek, web developer, tech entrepreneur hangout. Its a great place to meet people, and an amazing place to get an impression of the buzz in the Nairobi tech scene. It&#8217;s pretty wow. The kind of scene we were always dreaming of interacting with back when http://wire.less.dk/ was my day job. The kind of scene that just didn&#8217;t exist back then in Africa. Well it&#8217;s certainly happening here, right now. </p>
+<p>It&#8217;s also pretty strange being at an unconference like this in a city and a scene i&#8217;ve never been involved in before. It isn&#8217;t easy finding an in, getting to meet people and figuring out who&#8217;s who and what&#8217;s what. </p>
+<p>In some weird way it&#8217;s also quite strange not to be deeply involved in open, grassroots driven projects anymore. I find it easier to get up in front of a crowd and talk about http://wire.less.dk/, open books such as http://wndw.net/ or geeky networking stuff, rather than Refugees United. Part of that is experience. I know how to talk to geeks about geeky stuff. I am (or at least was) deeply into the intricacies of linux networking, license-exempt wireless and even open-content ict training materials. </p>
+<p>And while there are some truly fascinating tech challenges involved in the Refugees United idea, it&#8217;s still too early for me to feel confident that I haven&#8217;t missed something really fundamental. </p>
+<p>Anonymity and location anonymity for publicly viewable personal profiles. Mobile interfaces, sim applications and xforms. Open data and APIs. Multi-language web tool, advanced search indexing and Open Source tools.<br />
+I think i have to get used to the idea that there are just too many distinct challenges at Refugees United for me to be deeply familiar with any of them. I guess thats part of what it feels like to be a manager rather than a trainer, geek and grassroots enthusiast. </p>
+<p>But it also makes it much harder to define myself as a geek, to give a one-line description of what my current challenges are. And here at Barcamp that&#8217;s a surprisingly new challenges.</p>
+<p>All that said, the advantage of a place like barcamp nairobi is that unlike back home, every geek i&#8217;ve talked to immediately understands the challenges, the reality of refugees life etc. It seems, on anecdotal evidence, that refugee life and refugee realities are much closer to home here. In tech terms it probably means that we could learn a lot from being more active participants in the nairobi scene. </p>
+<p>This is after all where we do our outreach, where the challenges we&#8217;re dealing with go from the abstract to the concrete, and where, in ushahidis (http://ushahidi.org/) words &#8220;if it works here it&#8217;ll work anywhere&#8221;.</p>
+<p>But, and this is a pretty big but, there&#8217;s also an organisational challenge to be faced. A dichotomy of self that we&#8217;re going to be facing at refunite. We&#8217;re pretty big on corporate partnerships here, with some amazing positive experiences arising from that. In tech terms, the work ericsson has done for us, and the prospect of some great partnerships with mobile operators are literally invaluable to us. But they also represent a fundamentally different culture and approach than the grassroots, open-source approach of frontlineSMS, ushahidi, translate.org.za and so on. Orgs and projects that have the definite potential to be as invaluable as the corporate contributions. Orgs and projects that, in the context of difficult to reach populations are easily at the forefront of innovation. </p>
+<p>How to combine the 2 worlds into undeniable success? I guess it starts with myself embracing the corporate along with the, to me, much more familiar open. But it also starts with us, as an organisation embracing the open, and the local. Engaging with techies as close to our constituents as possible. </p>
+<p>The post <a rel="nofollow" href="/index.php/2010/06/12/in-nairobi-with-refugees-united/">In nairobi with refugees united</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2010/06/12/in-nairobi-with-refugees-united/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609</post-id>	</item>
+	</channel>
+</rss>

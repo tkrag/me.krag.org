@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: My knee… again	</title>
+	<atom:link href="/index.php/2003/12/20/my-knee-again/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/12/20/my-knee-again/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sat, 20 Dec 2003 08:59:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: abbytude		</title>
+		<link>/index.php/2003/12/20/my-knee-again/#comment-203</link>
+
+		<dc:creator><![CDATA[abbytude]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=425#comment-203</guid>
+
+					<description><![CDATA[wow thats pathetic that u are writing a diary about your knee... wow creeeeeepy
+
+
+
+hmmm y am i writing this... i on&#039;t know]]></description>
+			<content:encoded><![CDATA[<p>wow thats pathetic that u are writing a diary about your knee&#8230; wow creeeeeepy</p>
+<p>hmmm y am i writing this&#8230; i on&#8217;t know</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

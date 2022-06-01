@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Is being poor illegal in Denmark?	</title>
+	<atom:link href="/index.php/2003/10/16/is-being-poor-illegal-in-denmark/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/10/16/is-being-poor-illegal-in-denmark/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 16 Oct 2003 09:30:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Guan Yang		</title>
+		<link>/index.php/2003/10/16/is-being-poor-illegal-in-denmark/#comment-198</link>
+
+		<dc:creator><![CDATA[Guan Yang]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=414#comment-198</guid>
+
+					<description><![CDATA[At first sight it seems really stupid, but there are benefits to this system as well.
+
+Suppose the tax authorities decide that you spent at least 75.000 kr and make you pay taxes for that amount. But you actually had a huge illegal business, and actually made 1.000.000 kr. Wait 1 year for the state of limitations to kick in, and they&#039;ll never be able to tax your 925.000 kr again.
+
+People who fill out the big tax return (Udvidede selvangivelse) need to submit a form called Kapitalforklaring, which is basically an analysis of all your capital and how it changed during the year. That will give a much clearer figure for personal consumption &#8212; for example, your low residual might be have been caused by spending from savings.]]></description>
+			<content:encoded><![CDATA[<p>At first sight it seems really stupid, but there are benefits to this system as well.</p>
+<p>Suppose the tax authorities decide that you spent at least 75.000 kr and make you pay taxes for that amount. But you actually had a huge illegal business, and actually made 1.000.000 kr. Wait 1 year for the state of limitations to kick in, and they&#8217;ll never be able to tax your 925.000 kr again.</p>
+<p>People who fill out the big tax return (Udvidede selvangivelse) need to submit a form called Kapitalforklaring, which is basically an analysis of all your capital and how it changed during the year. That will give a much clearer figure for personal consumption &mdash; for example, your low residual might be have been caused by spending from savings.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: grey259		</title>
+		<link>/index.php/2003/10/16/is-being-poor-illegal-in-denmark/#comment-199</link>
+
+		<dc:creator><![CDATA[grey259]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=414#comment-199</guid>
+
+					<description><![CDATA[Perhaps you just have a secret admirer at the tax-authority..  In which case your documentation will be extremely beneficial to the person building a shrine of you in his or her basement.]]></description>
+			<content:encoded><![CDATA[<p>Perhaps you just have a secret admirer at the tax-authority..  In which case your documentation will be extremely beneficial to the person building a shrine of you in his or her basement.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

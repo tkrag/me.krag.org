@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Cordless IP Phone with Wireless Router Function	</title>
+	<atom:link href="/index.php/2003/02/12/cordless-ip-phone-with-wireless-router-function/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/02/12/cordless-ip-phone-with-wireless-router-function/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 12 Feb 2003 15:08:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: alsaify		</title>
+		<link>/index.php/2003/02/12/cordless-ip-phone-with-wireless-router-function/#comment-84</link>
+
+		<dc:creator><![CDATA[alsaify]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=287#comment-84</guid>
+
+					<description><![CDATA[Hellow ,
+We need more information about this facility , however we do have ADSL but we need to use VOIP between two locations so what are the rquirments need to be provided to be functioned !!!??]]></description>
+			<content:encoded><![CDATA[<p>Hellow ,<br />
+We need more information about this facility , however we do have ADSL but we need to use VOIP between two locations so what are the rquirments need to be provided to be functioned !!!??</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: subhash B. Belgundkar		</title>
+		<link>/index.php/2003/02/12/cordless-ip-phone-with-wireless-router-function/#comment-85</link>
+
+		<dc:creator><![CDATA[subhash B. Belgundkar]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=287#comment-85</guid>
+
+					<description><![CDATA[Please give me detial]]></description>
+			<content:encoded><![CDATA[<p>Please give me detial</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

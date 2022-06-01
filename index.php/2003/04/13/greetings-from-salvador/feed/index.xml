@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Greetings from Salvador	</title>
+	<atom:link href="/index.php/2003/04/13/greetings-from-salvador/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/04/13/greetings-from-salvador/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 13 Apr 2003 16:00:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: ciumoso		</title>
+		<link>/index.php/2003/04/13/greetings-from-salvador/#comment-122</link>
+
+		<dc:creator><![CDATA[ciumoso]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=334#comment-122</guid>
+
+					<description><![CDATA[Am I jealous or what? Neuza and I were in Salvador two weeks in December and January, high summer. Be sure to see what&#039;s playing at the Rock in Rio Salvardor at the Aeroclube Mall, if you like Brazilian music. In Rio, be careful. In the sertões of C. Diamantina,  keep track of north, and look out for Jimmy Page, the Led Zep guy, he lives there somewhere.]]></description>
+			<content:encoded><![CDATA[<p>Am I jealous or what? Neuza and I were in Salvador two weeks in December and January, high summer. Be sure to see what&#8217;s playing at the Rock in Rio Salvardor at the Aeroclube Mall, if you like Brazilian music. In Rio, be careful. In the sertões of C. Diamantina,  keep track of north, and look out for Jimmy Page, the Led Zep guy, he lives there somewhere.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

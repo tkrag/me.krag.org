@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: More VoIP over WiFi	</title>
+	<atom:link href="/index.php/2003/07/23/more-voip-over-wifi/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/07/23/more-voip-over-wifi/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Wed, 18 Feb 2009 06:03:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Into Tech - are you into VoIP?		</title>
+		<link>/index.php/2003/07/23/more-voip-over-wifi/#comment-174</link>
+
+		<dc:creator><![CDATA[Into Tech - are you into VoIP?]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2009 06:03:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=384#comment-174</guid>
+
+					<description><![CDATA[&lt;strong&gt;Into Tech - are you into VoIP?...&lt;/strong&gt;
+
+Where are your related posts?...]]></description>
+			<content:encoded><![CDATA[<p><strong>Into Tech &#8211; are you into VoIP?&#8230;</strong></p>
+<p>Where are your related posts?&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mass IT		</title>
+		<link>/index.php/2003/07/23/more-voip-over-wifi/#comment-173</link>
+
+		<dc:creator><![CDATA[Mass IT]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2008 20:50:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=384#comment-173</guid>
+
+					<description><![CDATA[&lt;p&gt;That was a great post. I will have to bookmark this site so I can read it later.&lt;/p&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>That was a great post. I will have to bookmark this site so I can read it later.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ulf Jonströmer		</title>
+		<link>/index.php/2003/07/23/more-voip-over-wifi/#comment-171</link>
+
+		<dc:creator><![CDATA[Ulf Jonströmer]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=384#comment-171</guid>
+
+					<description><![CDATA[We are an investor in wireless - intersted in more info regarding VoIP in combination with WiFi
+Best regards
+Ulf]]></description>
+			<content:encoded><![CDATA[<p>We are an investor in wireless &#8211; intersted in more info regarding VoIP in combination with WiFi<br />
+Best regards<br />
+Ulf</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ulf Jonströmer		</title>
+		<link>/index.php/2003/07/23/more-voip-over-wifi/#comment-172</link>
+
+		<dc:creator><![CDATA[Ulf Jonströmer]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=384#comment-172</guid>
+
+					<description><![CDATA[We are an investor in wireless - intersted in more info regarding VoIP in combination with WiFi
+Best regards
+Ulf]]></description>
+			<content:encoded><![CDATA[<p>We are an investor in wireless &#8211; intersted in more info regarding VoIP in combination with WiFi<br />
+Best regards<br />
+Ulf</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

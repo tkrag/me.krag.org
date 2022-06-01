@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: BOLD 2003: Development and the Internet	</title>
+	<atom:link href="/index.php/2003/03/31/bold-2003-development-and-the-internet/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/03/31/bold-2003-development-and-the-internet/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 31 Mar 2003 17:54:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: David Brake		</title>
+		<link>/index.php/2003/03/31/bold-2003-development-and-the-internet/#comment-117</link>
+
+		<dc:creator><![CDATA[David Brake]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=329#comment-117</guid>
+
+					<description><![CDATA[I&#039;m there, and I am finding the background information being given out really handy. Can&#039;t say I think much of the way that the websites themselves are organized, though.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m there, and I am finding the background information being given out really handy. Can&#8217;t say I think much of the way that the websites themselves are organized, though.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: andrew		</title>
+		<link>/index.php/2003/03/31/bold-2003-development-and-the-internet/#comment-118</link>
+
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=329#comment-118</guid>
+
+					<description><![CDATA[Thanks for posting this. This is perfect for the work I&#039;m doing at the moment. I really appreciate it.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for posting this. This is perfect for the work I&#8217;m doing at the moment. I really appreciate it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Oswald Hanciles		</title>
+		<link>/index.php/2003/03/31/bold-2003-development-and-the-internet/#comment-119</link>
+
+		<dc:creator><![CDATA[Oswald Hanciles]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=329#comment-119</guid>
+
+					<description><![CDATA[What is this all about?
+I am from Africa, in Sierra Leone.  I am the Assistant Commissioner, Public Affairs and Tax Education, National Revenue Authority here.  I want to be part of your programme.  How do I link up.
+Oswald Hanciles]]></description>
+			<content:encoded><![CDATA[<p>What is this all about?<br />
+I am from Africa, in Sierra Leone.  I am the Assistant Commissioner, Public Affairs and Tax Education, National Revenue Authority here.  I want to be part of your programme.  How do I link up.<br />
+Oswald Hanciles</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

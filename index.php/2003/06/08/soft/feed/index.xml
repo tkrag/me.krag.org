@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: S.O.F.T.	</title>
+	<atom:link href="/index.php/2003/06/08/soft/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/06/08/soft/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sun, 08 Jun 2003 20:11:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: makena		</title>
+		<link>/index.php/2003/06/08/soft/#comment-148</link>
+
+		<dc:creator><![CDATA[makena]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=355#comment-148</guid>
+
+					<description><![CDATA[I&#039;m very impressed reading about S.O.F.T company, Congratulations and keep it up. I&#039;d like to know more about the company so can you please give my your website. Thank you and Keep up the good work.
+Makena
+from Kenya]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m very impressed reading about S.O.F.T company, Congratulations and keep it up. I&#8217;d like to know more about the company so can you please give my your website. Thank you and Keep up the good work.<br />
+Makena<br />
+from Kenya</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

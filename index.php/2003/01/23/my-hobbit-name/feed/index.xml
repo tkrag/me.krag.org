@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: My hobbit name	</title>
+	<atom:link href="/index.php/2003/01/23/my-hobbit-name/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/01/23/my-hobbit-name/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Thu, 23 Jan 2003 12:36:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: brenda guzman		</title>
+		<link>/index.php/2003/01/23/my-hobbit-name/#comment-54</link>
+
+		<dc:creator><![CDATA[brenda guzman]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=249#comment-54</guid>
+
+					<description><![CDATA[amo a the lord of the rings]]></description>
+			<content:encoded><![CDATA[<p>amo a the lord of the rings</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: brenda guzman		</title>
+		<link>/index.php/2003/01/23/my-hobbit-name/#comment-55</link>
+
+		<dc:creator><![CDATA[brenda guzman]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=249#comment-55</guid>
+
+					<description><![CDATA[amo a the lord of the rings]]></description>
+			<content:encoded><![CDATA[<p>amo a the lord of the rings</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

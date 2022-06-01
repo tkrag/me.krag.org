@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Micro Finance &#038; Open Source	</title>
+	<atom:link href="/index.php/2004/05/14/micro-finance-open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2004/05/14/micro-finance-open-source/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 14 May 2004 12:29:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Guan Yang		</title>
+		<link>/index.php/2004/05/14/micro-finance-open-source/#comment-219</link>
+
+		<dc:creator><![CDATA[Guan Yang]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=455#comment-219</guid>
+
+					<description><![CDATA[This may not be very interesting to a empirical development practitioner like yourself, but I recently attended my microeconomics teacher&#039;s PhD defense (viva). He did his PhD work on a theoretical and empirical framework for looking at subsidised lending in markets that are previously dominated by a moneylender -- defined as a lender who has higher costs of finance than an official lender, but who has better information about credit risks and can enforce repayment (presumably because he can credibly issue the threat of physical violence).
+
+Many microfinance institutions, such as Grameen Bank, are heralded as a form of sustainable development, but in reality they do not make any profits and require large subsidies every year to remain afloat and sustain their activities.
+
+It turns out that the introduction of a subsidized lender disturbs the equilibrium in the market because it leads the official lender to attempt to lend to everyone, even people who should not receive credit (because of inability to repay or unsustainable business models). This again results in both the official lender and the unofficial moneylender going bankrupt.]]></description>
+			<content:encoded><![CDATA[<p>This may not be very interesting to a empirical development practitioner like yourself, but I recently attended my microeconomics teacher&#8217;s PhD defense (viva). He did his PhD work on a theoretical and empirical framework for looking at subsidised lending in markets that are previously dominated by a moneylender &#8212; defined as a lender who has higher costs of finance than an official lender, but who has better information about credit risks and can enforce repayment (presumably because he can credibly issue the threat of physical violence).</p>
+<p>Many microfinance institutions, such as Grameen Bank, are heralded as a form of sustainable development, but in reality they do not make any profits and require large subsidies every year to remain afloat and sustain their activities.</p>
+<p>It turns out that the introduction of a subsidized lender disturbs the equilibrium in the market because it leads the official lender to attempt to lend to everyone, even people who should not receive credit (because of inability to repay or unsustainable business models). This again results in both the official lender and the unofficial moneylender going bankrupt.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Frank Pearce		</title>
+		<link>/index.php/2004/05/14/micro-finance-open-source/#comment-220</link>
+
+		<dc:creator><![CDATA[Frank Pearce]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=455#comment-220</guid>
+
+					<description><![CDATA[Microcredit does not have to be subsidised to work. There are examples of informal micro-credit schemes that are organised by the participants themselves. Good practice in this industry should follow their examples.]]></description>
+			<content:encoded><![CDATA[<p>Microcredit does not have to be subsidised to work. There are examples of informal micro-credit schemes that are organised by the participants themselves. Good practice in this industry should follow their examples.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Katrin		</title>
+		<link>/index.php/2004/05/14/micro-finance-open-source/#comment-221</link>
+
+		<dc:creator><![CDATA[Katrin]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=455#comment-221</guid>
+
+					<description><![CDATA[Tomas -- how very interesting that you are mentioning this.  I just had a very interesting conversation at an international dev conference in Washington DC about the very topic.  Among other people, I was talking to the guy who is putting on one of the key training sessions for microenterprise practitioners next month in my neck of the woods - see http://www.mdi-nh.org/  There are a couple of tracks on applications that I hoping to check out. I love to talk with you more -- especially about the &#039;poverty assessment&#039; tools that are needed in the new schema of focusing microfinance on those living in absolute poverty.  It&#039;s a complex field and I am by no means a domain expert here, but I think you are on to something pretty interesting -- certainly something we here at Aspiration are looking at as well.  Let me know whether you want to talk more -- would be nice to reconnect anyway.  I am on skypes, if that helps... :-)  
+
+Katrin]]></description>
+			<content:encoded><![CDATA[<p>Tomas &#8212; how very interesting that you are mentioning this.  I just had a very interesting conversation at an international dev conference in Washington DC about the very topic.  Among other people, I was talking to the guy who is putting on one of the key training sessions for microenterprise practitioners next month in my neck of the woods &#8211; see <a href="http://www.mdi-nh.org/" rel="nofollow ugc">http://www.mdi-nh.org/</a>  There are a couple of tracks on applications that I hoping to check out. I love to talk with you more &#8212; especially about the &#8216;poverty assessment&#8217; tools that are needed in the new schema of focusing microfinance on those living in absolute poverty.  It&#8217;s a complex field and I am by no means a domain expert here, but I think you are on to something pretty interesting &#8212; certainly something we here at Aspiration are looking at as well.  Let me know whether you want to talk more &#8212; would be nice to reconnect anyway.  I am on skypes, if that helps&#8230; 🙂  </p>
+<p>Katrin</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2004/05/14/micro-finance-open-source/#comment-222</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=455#comment-222</guid>
+
+					<description><![CDATA[Guan,
+
+You are very wrong if you think this has no interest, merely because I
+am a dabbling practitioner. I am extremely interested in this sort of
+argument, just like I am extremely interested in any other constructive
+critique of development work, especially when it relates to my direct
+work. 
+
+I can follow the argument of a skewed market as a result of subsidized
+lending, and was wondering whether your teacher&#039;s work had any
+discussion of microlending in markets where there is no official lender,
+or at best the official lender is over-cautious? Unfortunately in many
+of the places where I work, all talk of market equilibrium is a little
+forced, since there often is no finance to be had, even if you will
+accept the risk of physical violence. In those cases, it seems to me
+that the existence of a microlender, subsidized or not, might be one of
+the catalysts that is needed to force the official lender to take the
+local market into consideration. 
+
+I don&#039;t pretend to be an economist, or to fully understand the
+intricacies of subsidies, and in fact, i can&#039;t even quote statistics
+about how many microlenders, and under what circumstances, actually
+become self-sustainable. I do know however that there are large areas
+where the market simply fails to provide even the most basic
+necessities, and to take a pure free-market perspective in those areas
+is naive at best, and pretty dangerous at worst. The macro-economic
+reasons for the failure of local markets are probably clearly
+understandably, and could be understood in terms of finite cash-flow
+being focused on those organisations that have the greatest chance of
+success and growth rates. But in those cases, perhaps spreading the cash
+to other parts of a country is not such a bad idea?
+
+In any case, I am always interested in other perspectives on these
+issues. thanks.]]></description>
+			<content:encoded><![CDATA[<p>Guan,</p>
+<p>You are very wrong if you think this has no interest, merely because I<br />
+am a dabbling practitioner. I am extremely interested in this sort of<br />
+argument, just like I am extremely interested in any other constructive<br />
+critique of development work, especially when it relates to my direct<br />
+work. </p>
+<p>I can follow the argument of a skewed market as a result of subsidized<br />
+lending, and was wondering whether your teacher&#8217;s work had any<br />
+discussion of microlending in markets where there is no official lender,<br />
+or at best the official lender is over-cautious? Unfortunately in many<br />
+of the places where I work, all talk of market equilibrium is a little<br />
+forced, since there often is no finance to be had, even if you will<br />
+accept the risk of physical violence. In those cases, it seems to me<br />
+that the existence of a microlender, subsidized or not, might be one of<br />
+the catalysts that is needed to force the official lender to take the<br />
+local market into consideration. </p>
+<p>I don&#8217;t pretend to be an economist, or to fully understand the<br />
+intricacies of subsidies, and in fact, i can&#8217;t even quote statistics<br />
+about how many microlenders, and under what circumstances, actually<br />
+become self-sustainable. I do know however that there are large areas<br />
+where the market simply fails to provide even the most basic<br />
+necessities, and to take a pure free-market perspective in those areas<br />
+is naive at best, and pretty dangerous at worst. The macro-economic<br />
+reasons for the failure of local markets are probably clearly<br />
+understandably, and could be understood in terms of finite cash-flow<br />
+being focused on those organisations that have the greatest chance of<br />
+success and growth rates. But in those cases, perhaps spreading the cash<br />
+to other parts of a country is not such a bad idea?</p>
+<p>In any case, I am always interested in other perspectives on these<br />
+issues. thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: WorldChanging: Another World Is Here		</title>
+		<link>/index.php/2004/05/14/micro-finance-open-source/#comment-223</link>
+
+		<dc:creator><![CDATA[WorldChanging: Another World Is Here]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=455#comment-223</guid>
+
+					<description><![CDATA[&lt;strong&gt;Open Source Microcredit?&lt;/strong&gt;
+
+Microcredit -- the practice of lending poor people small amounts in order to start cottage industries and small businesses -- is a model that, generally...]]></description>
+			<content:encoded><![CDATA[<p><strong>Open Source Microcredit?</strong></p>
+<p>Microcredit &#8212; the practice of lending poor people small amounts in order to start cottage industries and small businesses &#8212; is a model that, generally&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Smart Mobs		</title>
+		<link>/index.php/2004/05/14/micro-finance-open-source/#comment-224</link>
+
+		<dc:creator><![CDATA[Smart Mobs]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=455#comment-224</guid>
+
+					<description><![CDATA[&lt;strong&gt;Open Source MicroCredit Applications&lt;/strong&gt;
+
+An initiative to develop an Open Source Microcredit Suite of Applications has been launched, it seeks to address problems inherent in presently used packages. Thomas Krag of multiplicity states: &quot;...[K]eeping tabs on thousands of tiny loans is a daunti...]]></description>
+			<content:encoded><![CDATA[<p><strong>Open Source MicroCredit Applications</strong></p>
+<p>An initiative to develop an Open Source Microcredit Suite of Applications has been launched, it seeks to address problems inherent in presently used packages. Thomas Krag of multiplicity states: &#8220;&#8230;[K]eeping tabs on thousands of tiny loans is a daunti&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: GeoSketch MT plugin (alpha)	</title>
+	<atom:link href="/index.php/2003/03/28/geosketch-mt-plugin-alpha/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2003/03/28/geosketch-mt-plugin-alpha/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Fri, 28 Mar 2003 12:22:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: David		</title>
+		<link>/index.php/2003/03/28/geosketch-mt-plugin-alpha/#comment-114</link>
+
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=327#comment-114</guid>
+
+					<description><![CDATA[How do you install Storable.pm and MIME/Base64.pm on a host that is running perl 5.6.1 ?]]></description>
+			<content:encoded><![CDATA[<p>How do you install Storable.pm and MIME/Base64.pm on a host that is running perl 5.6.1 ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tomas		</title>
+		<link>/index.php/2003/03/28/geosketch-mt-plugin-alpha/#comment-115</link>
+
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=327#comment-115</guid>
+
+					<description><![CDATA[I always use the cpan tool to install and compile perl modules.]]></description>
+			<content:encoded><![CDATA[<p>I always use the cpan tool to install and compile perl modules.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Maps		</title>
+		<link>/index.php/2003/03/28/geosketch-mt-plugin-alpha/#comment-116</link>
+
+		<dc:creator><![CDATA[Maps]]></dc:creator>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=327#comment-116</guid>
+
+					<description><![CDATA[This demand is all centered on the Internet maps and the brisk sales of digital cameras. 9.3% us map of all households owned digital cameras in 2000, mapquest as opposed to 4.4% in 1999. 4.6% percent obtained hotel a digital camera in 2000 alone according to driving directions a Photo Marketing Association survey. The consumers map quest who own digital cameras are also more likely map to have computers, Internet connections, photo hotels]]></description>
+			<content:encoded><![CDATA[<p>This demand is all centered on the Internet maps and the brisk sales of digital cameras. 9.3% us map of all households owned digital cameras in 2000, mapquest as opposed to 4.4% in 1999. 4.6% percent obtained hotel a digital camera in 2000 alone according to driving directions a Photo Marketing Association survey. The consumers map quest who own digital cameras are also more likely map to have computers, Internet connections, photo hotels</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

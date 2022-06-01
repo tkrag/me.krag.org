@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: In nairobi with refugees united	</title>
+	<atom:link href="/index.php/2010/06/12/in-nairobi-with-refugees-united/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2010/06/12/in-nairobi-with-refugees-united/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Sat, 12 Jun 2010 19:35:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Barcamp Nairobi 2010 is Humming! &#8212; WhiteAfrican		</title>
+		<link>/index.php/2010/06/12/in-nairobi-with-refugees-united/#comment-274</link>
+
+		<dc:creator><![CDATA[Barcamp Nairobi 2010 is Humming! &#8212; WhiteAfrican]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2010 19:35:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2010/06/in-nairobi-with-refugees-united/#comment-274</guid>
+
+					<description><![CDATA[[...] KosmoReporter (Pictures) iHub blog Wannabe Geek (Live Blogging) Multiplicity [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] KosmoReporter (Pictures) iHub blog Wannabe Geek (Live Blogging) Multiplicity [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

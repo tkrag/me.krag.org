@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Arthur	</title>
+	<atom:link href="/index.php/2007/02/24/arthur/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2007/02/24/arthur/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Mon, 26 Feb 2007 08:50:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Kenneth Geisshirt		</title>
+		<link>/index.php/2007/02/24/arthur/#comment-260</link>
+
+		<dc:creator><![CDATA[Kenneth Geisshirt]]></dc:creator>
+		<pubDate>Mon, 26 Feb 2007 08:50:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=498#comment-260</guid>
+
+					<description><![CDATA[Welcome, Athur.
+
+I&#039;m sure your parents are proud and eager to get to know you better. Have fun!]]></description>
+			<content:encoded><![CDATA[<p>Welcome, Athur.</p>
+<p>I&#8217;m sure your parents are proud and eager to get to know you better. Have fun!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mohammed Sameer		</title>
+		<link>/index.php/2007/02/24/arthur/#comment-259</link>
+
+		<dc:creator><![CDATA[Mohammed Sameer]]></dc:creator>
+		<pubDate>Sat, 24 Feb 2007 19:07:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=498#comment-259</guid>
+
+					<description><![CDATA[Congratulations and blesses!
+
+Hope we won&#039;t find him in the forests of Uganda one day :-)]]></description>
+			<content:encoded><![CDATA[<p>Congratulations and blesses!</p>
+<p>Hope we won&#8217;t find him in the forests of Uganda one day 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

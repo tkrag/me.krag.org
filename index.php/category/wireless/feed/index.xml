@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Wireless Archives &bull; krag.be</title>
+	<atom:link href="/index.php/category/wireless/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>I am multiple and various - Tomas A. Krag</description>
+	<lastBuildDate>Tue, 16 Sep 2008 09:56:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/krag.be/wp-content/uploads/2017/02/cropped-avatar_yuge-1.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Wireless Archives &bull; krag.be</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">124264715</site>	<item>
+		<title>Shameless self-promotion</title>
+		<link>/index.php/2008/09/16/shameless-self-promotion/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2008 09:56:36 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/09/shameless-self-promotion/</guid>
+
+					<description><![CDATA[<p>Despite having kept a low profile, and done next to no development-related work in the past 2 years, a old journalist contact of wire.less.dk gave me a call yesterday, and today there&#8217;s a&#160; couple of decent quotes on danish on-line computer mag version2. It&#8217;s an article (in danish) about Tim Berners-Lee&#8217;s World Wide Web Foundation, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/09/16/shameless-self-promotion/">Shameless self-promotion</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Despite having kept a low profile, and done next to no development-related work in the past 2 years, a old journalist contact of <a href="http://wire.less.dk/">wire.less.dk</a> gave me a call yesterday, and today there&#8217;s <a href="http://www.version2.dk/artikel/8465?nyhedsbrev">a&nbsp; couple of decent quotes</a> on danish on-line computer mag <a href="http://www.version2.dk/">version2</a>. </p>
+<p>It&#8217;s an article (in danish) about <a href="http://www.webfoundation.org/donations/knight2008/tbl-speech">Tim Berners-Lee&#8217;s World Wide Web Foundation</a>, and his claims that we need to focus on extending the web to those 4 billion people who still aren&#8217;t properly on-line. His is a hard point to argue with, and i got away with spewing some very un-controversial answers to the usual questions, i.e. Do they really need the web? and what do they need it for? isn&#8217;t it hard when there&#8217;s no clean drinking water and no electricity?</p>
+<p>I&#8217;m not going to bore anyone here with the obvious answers, but all-in-all the journalist did a decent job, only misspelling my name once in 4 mentions, and getting almost the entire name of our non-profit correct (it&#8217;s wire.less.dk rather than just wire.less).</p>
+<p>perhaps this means i&#8217;m forgiven, not forgotten?</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/09/16/shameless-self-promotion/">Shameless self-promotion</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">523</post-id>	</item>
+		<item>
+		<title>BookSprint: Thinking about the non-profit technology space</title>
+		<link>/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Thu, 22 May 2008 13:41:23 +0000</pubDate>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Me]]></category>
+		<category><![CDATA[non-profit]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2008/05/booksprint-thinking-about-the-non-profit-technology-space/</guid>
+
+					<description><![CDATA[<p>5 years of wireless wizardry, a very successful book project, some time out as a linux enterprise consultant, some time spent combining my technology skills with my interest in africa, and a good 6 months mostly hanging out with the future. I&#8217;m now spending a lot of time thinking about what the next 2 years [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>5 years of <a href="http://wire.less.dk/">wireless wizardry</a>, a very successful <a href="http://wndw.net/">book project</a>, some time out as a <a href="http://casalogic.dk/">linux enterprise consultant</a>, some time spent combining my technology skills with my <a href="http://allafrica.com/">interest in africa</a>, and a good 6 months mostly hanging out with <a href="http://flickr.com/photos/tkrag/sets/72157594550688898">the future</a>. I&#8217;m now spending a lot of time thinking about what the next 2 years could/should bring. </p>
+<p>The technology non-profit space, web 2.0, free (open source) software, open networks, open content books, africa, and small kids. These are some of the things i&#8217;ve racked up some experience in over the last few years. There&#8217;s little doubt that the book project is the most impressive project i&#8217;ve had a hand in. With litterally hundreds of thousands of downloads (250,000 since february 2008), a 2nd edition, and official translations into spanish, french and arabic, this is one hell of a success for what is essentially a double niche-in-a-niche project. A technology book about wireless networks, targetted specifically at developing world practitioners. Yet the success if unequivocal, impressive, and ultimately has very little to do with my involvement.</p>
+<p>I came up with a model that seems to work, found a little bit of funding to try it out, and invited the perfect team of authors. I also used my charm to convince <a href="http://hackerfriendly.com/">the best technical editor and author</a> i know to spend enormous amounts of time on very little money to help make this book as amazing as it is. Then i stepped back, went off and did some of the other stuff i mentioned above, and watched this idea unfold. </p>
+<p>I&#8217;m proud of what i helped create, but also well aware of the role i played in it. But I want this success to be replicated, and there are a number of titles i think deserve to be written which could help create a series of pragmatic, hands-on technology books with a focus on the developing world, and free (open source) software. Published under some form of open content license, ensuring they reach their maximum potential as tools for communities around the world. </p>
+<p>Not only do i think this is possible, but i also think it&#8217;s important in ways that i can&#8217;t yet quite describe in simple words, having to do with open content licenses, books as conveyors of learning, and the importance of technology independence. </p>
+<p>Unlike other open content publishing business models, there&#8217;s a little twist in this one, since the prime source of income won&#8217;t be from book sales or advertising, but will come directly from funders, for whom the value-proposition should be pretty clear. Given the <a href="http://booksprint.info/">book sprint</a> model, we can produce pofessionally edited books at a fraction of the cost of the traditional publishing industry. And we have shown that these books are useful as training materials for workshops, as hands-on guides for individuals and organisations trying to implement these technologies, and as awareness raisers for decision-makers looking at technology solutions to exisiting problems. And the price point for a single title seems to be close to that of a single regional week-long technology workshop. So for the price of a single workshop, a book can be published that can become a tangible input to future workshops, but also can massively expand the reach of a workshop-based training model by reaching an audience far beyond that of the equivalent workshop. </p>
+<p>And given some of the fascinating discussions i&#8217;ve seen on <a href="http://manypossibilities.net/2008/04/building-the-demand-in-print-on-demand/">pricing models</a> for <a href="http://radar.oreilly.com/archives/2008/02/community-pricing-for-books.html">open content books</a>, those costs would be shareable between multiple funders, by collecting bids before initiating the project. A model that could perhaps be combined with a <a href="http://magnatune.com/">magnatune</a>, <a href="http://magnatune.com/info/model">pay-what-you-feel-is-right</a> model for downloads. The profits of which could be shared with the authors, and help fund the day-to-day running of the organisation. If the costs of publishing the book has already been covered by non-profit funders, the post-production sales might help fund the difficult overhead that always dogs non-profits between projects. </p>
+<p>Somewhere in this model there may even be room for experimenting with <a href="http://en.wikipedia.org/wiki/Social_business">Social Business</a> models, in the spirit of <a href="http://en.wikipedia.org/wiki/Muhammad_Yunus">Mohammad Yunus</a>. But that&#8217;ll be a discussion for another day, and perhaps another blog. </p>
+<p></p>
+<p>The post <a rel="nofollow" href="/index.php/2008/05/22/booksprint-thinking-about-the-non-profit-technology-space/">BookSprint: Thinking about the non-profit technology space</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">510</post-id>	</item>
+		<item>
+		<title>The Truth About Wireless Devices</title>
+		<link>/index.php/2007/06/04/the-truth-about-wireless-devices/</link>
+					<comments>/index.php/2007/06/04/the-truth-about-wireless-devices/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 04 Jun 2007 09:00:22 +0000</pubDate>
+				<category><![CDATA[Mixed Bag]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/2007/06/the-truth-about-wireless-devices/</guid>
+
+					<description><![CDATA[<p>Hilarious cartoon exposÃ© about the true dangers of having a wifi device in your home. Be Afraid! Be very afraid! Wellington Grey &#8212; The Truth About Wireless Devices</p>
+<p>The post <a rel="nofollow" href="/index.php/2007/06/04/the-truth-about-wireless-devices/">The Truth About Wireless Devices</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Hilarious cartoon exposÃ© about the true dangers of having a wifi device in your home. Be Afraid! Be very afraid!</p>
+<p><a href="http://www.wellingtongrey.net/miscellanea/archive/2007-05-27--the-truth-about-wireless-devices.html">Wellington Grey &#8212; The Truth About Wireless Devices</a></p>
+<p>The post <a rel="nofollow" href="/index.php/2007/06/04/the-truth-about-wireless-devices/">The Truth About Wireless Devices</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2007/06/04/the-truth-about-wireless-devices/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">507</post-id>	</item>
+		<item>
+		<title>Chillispot Howto</title>
+		<link>/index.php/2006/10/02/chillispot-howto/</link>
+					<comments>/index.php/2006/10/02/chillispot-howto/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2006 15:33:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=494</guid>
+
+					<description><![CDATA[<p>I wrote this howto on setting up a hotspot system on ubuntu with user authentication about a year ago, but the site that hosted it seems to have gone down. Here&#8217;s the original link: http://140.105.28.77:3455/1/62 And here&#8217;s the text as stolen from google cache (please excuse the horrible formatting): Goal The goal is to setup [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/02/chillispot-howto/">Chillispot Howto</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I wrote this howto on setting up a hotspot system on ubuntu with user authentication about a year ago, but the site that hosted it seems to have gone down.</p>
+<p>Here&#8217;s the original link:</p>
+<p><a href="http://140.105.28.77:3455/1/62">http://140.105.28.77:3455/1/62</a></p>
+<p>And here&#8217;s the text as stolen from google cache (please excuse the horrible formatting):</p>
+<p><span id="more-505"></span><strong> Goal</strong></p>
+<p><strong /><br />
+The goal is to setup a gateway that will force users to login (via a captive portal web-page). Once setup the machine will have 2 network interfaces (we will use eth0 and eth1 in this example). One interface is connected to the internet (eth0) the other is an internal interface through which we connect our other machines (eth1) this could be a ethernet port with a switch to which we attach a number of other machines or wireless Access Points (layer 2 transparent bridges), or it could be a wireless interface, automatically turning the gateway i nto an access point.</p>
+<p><strong>The proccess</strong><br />
+Chillispot takes control of the internal interface (eth1) using a vtun kernel module to bring up a virtual interface (tun0). In fact thr vtun kernel module is used to move IP packets from the kernel to user mode, in such a way that chillispot can function without any non-standard kernel modules. Chillispot then sets up a DHCP server (this can be disabled from the chillispot conf file) on the tun0 interface.</p>
+<p>A client connecting to this interface has all packets rejected until it is authorized though the chillispot login page (acting as a supplicant for authentication). When a non-authenticated client tries to connect to a web-page (on port 80 or 443) the request is intercepted by chilli and redirected to a perl-script called hotspotlogin.cgi (served by apache over https).</p>
+<p>hotspotlogin.cgi serves a page to the end-user with a username and password field. These authentication data are then forwarded to the freeradius server, which matches them with information in it&#8217;s backend (using either PAP or CHAP). The backend in this case is mysql, but could be any number of services such as LDAP, Kerberos, unix passwd files or even Active Directory (probably).</p>
+<p>A user is then either rejected or authenticated by freeradius, prompting hotspotlogin.cgi to present either a rejection message or a page with a success message and a logout link to the user.</p>
+<p><strong>Hardware Requirements</strong><br />
+Any PC with 2 network interfaces should work.</p>
+<p><strong>Software Installation</strong><br />
+For this howto we start with an installation of Ubuntu Linux. We&#8217;ve used the Hoary release of ubuntu, but this should work equally well with other versions of ubuntu, and with other Gnu/Linux distributions such as Fedora Core, Mandriva etc.</p>
+<p>This has been tested with both server and desktop installs of ubuntu. The base installation is beyond the scope of this document, but the Ubuntu Website has plenty of documentation on installing ubuntu from scratch.</p>
+<p>Once ubuntu is installed, we need to install som extra packages that are not installed by default. If you do not know how to install software under ubuntu read this before proceeding, or if you&#8217;re familiar with the linux command-line read the manpage for the apt-get command. This is a Howto on adding the Universe repository to your ubuntu installation, which is required for some of the packages that need to be installed.</p>
+<p>You need to install the following extra packages (and their dependencies) via synaptic or the apt-get command before proceeding. some of these may not be necessary, or may be installed already by default. Please update this page if you have further information.:</p>
+<p>* mysql-server<br />
+* apache2<br />
+* freeradius<br />
+* freeradius-mysql</p>
+<p>Finally you need to get the [ http://chillispot.org/download.html chillispot package] (which is not in the ubuntu repositories) from the Chillispot webpage.</p>
+<p>Once you have downloaded that file, open a terminal, go to the directory it was downloaded to and type:</p>
+<p>$ sudo dpkg -i chillispot_1.0RC3-1_i386.deb</p>
+<p>This should install the last piece of required software.</p>
+<p><strong>Configuring Apache2 for SSL</strong><br />
+For security reasons we want to present the login page only via an encrypted (https) onnection, so we need to configure apache2 to serve SSL encrypted pages.</p>
+<p>There is a HowTo on configuring apache2 for SSL on the Ubuntu Forums. NOTE! most of the commands in the howto require root privileges and should be preceeded by the sudo command. Please follow the above howto before proceeding.</p>
+<p>Finally copy the chillispot cgi script to the default apache2 cgi-bin directory:</p>
+<p>$ sudo cp /usr/share/doc/chillispot/hotspotlogin.cgi /usr/lib/cgi-bin/<br />
+$ sudo chmod +x /usr/lib/cgi-bin/hotspotlogin.cgi</p>
+<p><strong>Configuring</strong></p>
+<p>Most of the following sections were manhandled from the install instrucions in the Release notes instructions for Debian Sarge (and parts of the Fedora Core instructions). All mistakes are MY fault, and not the errors of the original authors <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Network and Firewall Setup</strong><br />
+We are assuming 2 network interfaces,</p>
+<p>* eth0 is connected to the internet and should be configured for this purpose (use ifconfig, /etc/network/interfaces, or the graphical network configuration tool under System->Administration->Networking).<br />
+* eth1 is the interface that other computers should connect to. This interface should not be configured, but should be brought up.</p>
+<p>$ sudo ifconfig eth1 up</p>
+<p>or if it&#8217;s been previously configured use:</p>
+<p>$ sudo ifconfig 0.0.0.0 up</p>
+<p>In order to enable packet forwarding you should change the following line in /etc/network/options:</p>
+<p>ip_forward=yes</p>
+<p>Then you have to restart networking:</p>
+<p>$ sudo /etc/init.d/network restart</p>
+<p>In order to enable firewall and NAT you can use the firewall script in &#8220;/usr/share/doc/chillispot/firewall.iptables&#8221; as a starting point. After you have reviewed the firewall rules you execute the script by issuing the command:</p>
+<p>$ sudo sh /usr/share/doc/chillispot/firewall.iptables</p>
+<p>The firewall script needs to be executed every time the computer is restarted. One way to make sure this happens is to copy the file to /etc/init.d/</p>
+<p>$ sudo cp /usr/share/doc/chillispot/firewall.iptables /etc/init.d/chili.iptables<br />
+$ sudo chmod u+x /etc/init.d/chilli.iptables<br />
+$ ln -s /etc/init.d/chilli.iptables /etc/rcS.d/S40chilli.iptables</p>
+<p>Configuring the chillispot conf file</p>
+<p>You need to tell Chilli about the location of the authentication server (which in this scenario is on the same machine as chillispot). This is done by uncommenting and editing the following line in &#8220;/etc/chilli.conf&#8221;:</p>
+<p>uamserver https://192.168.182.1/cgi-bin/hotspotlogin.cgi</p>
+<p>192.168.182.1 is the default IP address that chillispot gives the tun0 interface. For added password security, we need to add a shared secret between the hotspotlogin.cgi and chilli. Find the line in &#8220;/etc/chilli.conf&#8221; that reads</p>
+<p>#uamsecret ht2eb8ej6s4et3rg1ulp</p>
+<p>Uncomment this line (remove the #) and CHANGE the secret to something equally weird but different. Remember the secret as it needs to also go into the hotspotlogin.cgi script (we will do this later).<br />
+Since we are also running the radius server (freeradius) on the same machine, we need to find and edit the lines that point to the radius server in &#8220;/etc/chilli.conf&#8221;. They should read:</p>
+<p>radiusserver1 127.0.0.1<br />
+radiusserver2 127.0.0.1</p>
+<p>You should also change the line in &#8220;/etc/chilli.conf&#8221; that starts radiussecret, so that it does not use the default secret to encrypt traffic between chilli and radius.</p>
+<p>radiussecret somethingReallyDifficultToGuess</p>
+<p>Remember this secret, as it needs to be added to the freeradius configuration files as well.</p>
+<p><strong>Configuring freeradius</strong><br />
+The freeradius configuration files are all in the /etc/freeradius/ directory. To start with, and for testing purposes, we will use the &#8220;/etc/freeradius/users&#8221; text file, to enable a single test user (steve). Later we can change the configuration to use mysql for storing usernames and passwords, but first we want to make sure that the whole thing works in the simplest possible setup.</p>
+<p>Edit &#8220;/etc/freeradius/clients.conf&#8221;.<br />
+Find the section that contains the line</p>
+<p>client 127.0.0.1 {</p>
+<p>make sure it is uncommented, and then, in the section between the { and the following }, change the following lines:</p>
+<p>secret          = testing123</p>
+<p>change testing123 to match the radiussecret you chose for &#8220;/etc/chilli.conf&#8221; (somethingReallyDifficultToGuess)</p>
+<p>Edit &#8220;/etc/freeradius/users&#8221;<br />
+Uncomment the following line in the file</p>
+<p>#steve  Auth-Type := Local, User-Password == &#8220;testing&#8221;</p>
+<p>This will be the test user and password we will use to make sure everything works.</p>
+<p>Customizing hotspotlogin script<br />
+To improve password security, we need to add the &#8220;uamsecret&#8221; from &#8220;/etc/chilli.conf&#8221; to the hotspotlogin script. Edit &#8220;/usr/lib/cgi-bin/hotspotlogin.cgi&#8221;.<br />
+Find the line that reads:</p>
+<p>#$uamsecret = &#8220;ht2eb8ej6s4et3rg1ulp&#8221;;</p>
+<p>Uncomment this line and edit the secret to match the one in &#8220;/etc/chilli.conf&#8221; (The uamsecret, NOT the radiussecret).</p>
+<p>Also uncomment the line that reads:</p>
+<p>#$userpassword=1;</p>
+<p>Now, just to be sure all these changes have taken effec, restart apache2, freeradius and chilli</p>
+<p>$ /etc/init.d/apache2 force-reload<br />
+$ /etc/init.d/freeradius restart<br />
+$ /etc/init.d/chilli restart</p>
+<p><strong>Using chillispot</strong><br />
+You should now have a simple authentication server that allows a computer to log in and gain access to the network. Plug a computer into the eth1 interface on the chillispot machine, either via a switch or hub, or using a crossover utp cable (or by plugging a transparent bridge wireless access point into the eth1 interface). We will call this machine the &#8220;client&#8221; machine.</p>
+<p>On the client machine, bring up the network interface with DHCP. Chillispot should give you an ip address in the 192.168.182.0/24 network.</p>
+<p>Open your browser, and try to go to any webpage like google.com</p>
+<p>You should be redirected to a login page with a field for username and password. Log in using &#8220;steve&#8221; and &#8220;testing&#8221;, and you should get a message that says you have successfully logged in. You should now have full access to the internet until you click the logout link in the chillispot webpage.</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/10/02/chillispot-howto/">Chillispot Howto</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2006/10/02/chillispot-howto/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">505</post-id>	</item>
+		<item>
+		<title>The Security Challenge of Open Wireless Networks</title>
+		<link>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/</link>
+					<comments>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Wed, 22 Mar 2006 14:29:15 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=492</guid>
+
+					<description><![CDATA[<p>**Disclosure**: I am currently in the proccess of interviewing for a job with [Fon](http://fon.com/) and this piece is largely a result of me spending time (for the first time in years) on the challenges of shared wireless in the rich countries of the west (rather than thinking mostly about the challenges in the less developed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/">The Security Challenge of Open Wireless Networks</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>**Disclosure**: I am currently in the proccess of interviewing for a job with [Fon](http://fon.com/) and this piece is largely a result of me spending time (for the first time in years) on the challenges of shared wireless in the rich countries of the west (rather than thinking mostly about the challenges in the less developed countries). *</p>
+<p>The following are my pretty unstructured notes on how a hotspot sharing service such as [Fon](http://fon.com/) could help deal with some of the, real and imagined, security issues of hotspot-based networks. In many ways it doesn&#8217;t seem to matter to _the average user_ whether a security threat is real or imagined, as most people will never actually lose data or get atacked in a way that has actual consequences, it mostly the awareness of the threat that needs to be dealt with, rather than perhaps th threat itself. In many cases the way to deal with the awareness of the threat, is of course to remove the threat itself, however unlikely it is to ever be a problem. </p>
+<p>Here we go&#8230;.</p>
+<p>There are 2 main security challenges that emerge from a system of shared wireless. Both are essentially the result of not having a stable trust network between the owner of the wireless network node, and the user of the network.<br />
+1. The risk of someone abusing your network for unethical (or perhaps even illegal) activities, including access to unethical materials on-line or attempts to access personal data over the local network.<br />
+2. The risk induced by the need to trust the owner of whatever Access Point you happen to connect to when away from home, and the ability of that trust to be abused top access your personal data and attempt to steal passwords to services such as e-mail or on-line banking services. </p>
+<p><span id="more-493"></span><br />
+## The risk of abuse of connectivity.  ##</p>
+<p>There is a risk, when sharing ones network, that users will not use this network responsibly. This risk includes<br />
+* the risk of abuse of bandwidth,<br />
+* the risk of uethical (and sometimes illegal) use of network resources (child pornography and terrorism seem to be favoured by the news media when discussing this risk),<br />
+* the risk abuse of local network privileges. </p>
+<p>### Abuse of bandwidth ###<br />
+When you agree to share your network with others, it is most often done, with the implicit understanding that you are sharing excess bandwidth, i.e. that you probably won&#8217;t notice the difference. However, especially in densely popuilated areas, a completely open network, may receive much more usage than the person sharing the network expects, thus adversely impacting his/her user experience. </p>
+<p>Simple traffic shaping/bandwidth management can easily be implemented at the router level, and the biggest barrier in doing this for most people, is probably a lack of understanding of the issue, and a lack of knowledge about how to configure this.  Controlled models of sharing, such as those offered by Fon and others, have the potential to easily deal with this issue. Primarily, the fact that Aliens (i.e. non-members of the Fon network) are charged a small fee for access, means there is little business seense in using someone elses network as your main connection. Also, the fact that Fon distributes routers with a simple web interface that allows for user authentiaction greatly simplifies the challenge of bandwidth control. In fact, user authentication, at some level, is a prerequisite for decent bandwidth management, and without some sort of user-level auth more advanced equipment would be required to deal with this issue (i.e. either dual access points or a system that supports VLAN&#8217;s with multiple essid&#8217;s in the same access point). Once user authentication is built into the system, it is fairly trivial to set-up a system that reserves a minimum of bandwidth for the network owner and his or her household. </p>
+<p>**Recommendation**: Build simple bandwidth control into the default Fon-Basic firmware. Ideally using 2 separate essid&#8217;s, one running WPA and one with the exisiting captive portal solution for roaming visitors (Remark: This isn&#8217;t possible with current firmware for the Linksys WRT54G). Ensure that bandwidth control is enabled by default, and that all it takes to modify it is to enter the full bandwidth of your connection, and (if the VLAN solution is not viable) a list of usernames to be prioritised. Make it possible to disable this for advanced users like myself who have separate access points for personal use and for Fon.<br />
+I think everyone is potentially going to run into this problem, and dealing with it up-front increases the likelihood of happy users.</p>
+<p>### Unethical (perhaps illegal) use of the network ###<br />
+This is a risk that receives a lot of attention from the media, (at least in Europe) with the story being that anyonme who has an open wireless network, essentially is abetting Terrorists and Child Pornographers in plying their trade, because they are offering a place for these criminals to connect anonymously to the Internet. From a perspective of common sense, this is a blatantly absurd assumption. The internet is pretty much built on a concept of anonymity, and there are litterally thousands of tools available for easy download that will let anyone completely hide their tracks on the internet. It is trivialk for anyone wanting to perpetrate a crime on-line to do so anonymously without resorting to parking their car outside your home and sitting in a cold, dark car while downloading information off your network. There are cybercafÃ©&#8217;s or libraries with internet access, but more importantly, with a bit of research and the right tools they can do all this from the comfort of their DSL connection. </p>
+<p>Legally, the position seems even more absurd. Since anyone running an Open Network is subject to other people using their network, it is impossible for law enforcement to prove that a specific bit of traffic originating on a wireless network, was initiated by any one person or computer. In other words, if your network is not open, and someone hacks into your network or computer, you may be facing a much harder job proving it wasn&#8217;t your traffic, than if the network was indeed left open. Add to this that most cases of compter crime perpetrated over private networks is actually done by hacking into windows-based computers over the Internet (remotely) and using them for sending spam or perpetrating Distributed Denial of Service attacks, and the absurdity of the legal argument rises further. </p>
+<p>On the other hand, we have to accept that there is a will amongst both the Governments and the ISP&#8217;s to propagfate this myth, and to spread this fear of abuse. In other words, the more people believe in these absurdities, the more important it is for Fon and others to address these fears in public. </p>
+<p>**Recommendation**: There seem to be 2 ways for a network such as Fon to deal with this issue. Technically speaking, the fact that users must be authenticated and logged in in order to use the network, would go some way towards mitigating the fear of anonymous usage (although there is not true authentication in this scenario because Fon users credentials are not checked on registration). The other, and in my mind, more important role for Fon, is to work actively through the media, to mitigate these absurdities, by repeatedly explaining the truth, perhaps starting with a FAQ on security issues.  Beyond that, since the threat is fabricated anyway, there is probably very little Fon (or others) can do to deal with this issue. </p>
+<p>### Abuse of local network privileges ###</p>
+<p>This is, perhaps, the biggest of the security challenges faced by average users sharing their bandwidth. Given the way many people share local resources amongst multiple computers in the home, i.e. using windows file sharing or Apple Bonjour, and given the inherently incesure default configurations of most home computers, the trusted local network becomes an (unfortunately)  critical part of home user security. In other words, in home swith multiple computers, a lot of trust is often placed in the fact that the ISP&#8217;s router and/or firewall provides some degree of segregation between the Internet and the local network. In the default configurations of most people who share a local network (with or without a system like Fon), this quickly becomes an issue. The way Fon and other recommend setting up the access point used for sharing, places it behind the firewall on the local area network, leaving any visitors capable of browsing for windows file shares, intercepting local Bonjour data etc.<br />
+As with the issue of bandwidth abuse, the main reason for this is probably a lack of knowledge and understadning of the issues with most regular Internet users. Also there seems to be very little information about this from ISP&#8217;s and equipment manufacturers, who prefer to tell people to close off their wireless networks, rather than helping them open them in a secure manner. </p>
+<p>**Recommendation**:  Using  VLAN&#8217;s, either wireless or wired, to segregate Fon user traffic from local user traffic could be used to improve local security. However, using just the equipment available from the ISP (a low-cost router) and Fon&#8217;s access point, there doesn&#8217;t seem to be a fool-proof way to segregate traffic logically or physically, without using some sort of tunneling or vpn. (I might be wrong here, so please do correct me if I am). At least as long as both the visiting Fon users and local users wish to use the wireless network, and there is only one wireless access point available, unless the access point supports wireless VLAN&#8217;s with encryption only on one of the essids.<br />
+The simplest setup might involve 2 access points, both conencted to separate ports on the ISP&#8217;s router, and segregated intop VLAN&#8217;s on that router, but this markedly increases equipment costs.<br />
+Another, and perhaps better approach, would be for Fon, in cooperation with participating ISP&#8217;s, to produce simple security guides, explaining the local security issues, specifically as they apply to the setup of the ISP&#8217;s router with Fon&#8217;s system. This could include useful guides to setting up local VPN&#8217;s or tunnels that can be used for local file-sharing and Bonjour traffic etc. Some of the options for that include running an OpenVPN server on the access point, and explaining the advantages of local users joining a VPN when using local network resources. Alternatively, there are peer-to-peer VPN solutions, such as [hamachi](http://hamachi.cc/), which might offer a useful alternative for local filesharing, without requiring pushing the limits of the Linksys WRT54G for encryption and decryption of data. (More about the impressive hamachi later). </p>
+<p>## Security for Roaming Users.  ##</p>
+<p>Now this is where the security dicsussion gets really interesting. Essentially, when using a 3rd party hotspot, I am placing a lot of trust in the owner of that particular hotspot (as well as his or her provider). There are basically 2 ways this trust can be abused. By the actual provider of the hotspot, or by a [rogue hotspot](http://en.wikipedia.org/wiki/Wireless_security#Malicious_Association) or [man-in-the-middle attack](http://en.wikipedia.org/wiki/Wireless_security#Man-In-The-Middle_Attacks). </p>
+<p>Both of these threats can, in many ways, be treated as one, i.e. the scenario where Internet Access is gained through an untrusted 3rd party, be it a Rogue Access Point, or a malicious Open AP provider or Fon member.</p>
+<p>### Trust in the Hotspot ###</p>
+<p>In commercial hotspot networks, such a T-mobile or similar, the trust i place in the actual hotspot provider is similar to the trust I place in my ISP at home, and is founded on the reputation of that particular company, which is pretty simple to research on-line. However the Rogue AP scenario must be considered a potential threat in these cases ass well. In the case of an entirely open hotspot, or one provided by an informal network such as Fon, this trust is much harder to verify. The person who&#8217;s network i connect to has only an informal association with Fon, and the risk of acting maliciously is assumed to be much smaller than for a company making a living out of providing decent service.</p>
+<p>In these cases (open AP&#8217;s or Rogue AP&#8217;s), the risk of abuse must be assumed to be real, even if it is probably rare. And unfortunately, in the rare cases where such a network is abused with malicious intent, this gives the hotspot owner complete access to traffic from the user&#8217;s computer to the Internet. With a skilled attacker and a less than extremely sharp user, this unfortunately can include SSL traffic such as credit card information or bank login details (see this [article on Tom&#8217;s Networking](http://www.tomsnetworking.com/2006/03/21/out_to_get_you/) for more details).</p>
+<p>There are basically 3 ways to protect against these types of issues, on untrusted networks.<br />
+1. Assume that the risk of this happening is small enough that you can ignore it. If your biggest secrets are you&#8217;re credit card data, and you have a habit of watching your statements for strange transactions, perhaps the issue really isn&#8217;t too big. This is generally my approach, and I&#8217;m a big fan of less paranoia, but then i don&#8217;t often transmit sensitive corporate data or have other peoples trust to consider, almost everything i transmit can only hurt myself, and so the threat seems containable.</p>
+<p>1. Ensure that nothing private is transmitted over the untrusted network. Use the Open AP only for surfing the web, and doing other innoculous things (generally things that don&#8217;t require a password. Perhaps use an anonymizer, such as [tor](http://tor.eff.org/) and [privoxy](http://www.privoxy.org/), if you don&#8217;t want the hotspot owner to know which sites you have been using). Think carefully about which data you want to risk exposing, before transmitting that data over the uintrusted network. </p>
+<p>1. Secure your connection with a VPN or advanced tunneling. This seems to be the optimal solution, but for regular computer users, this can be pretty difficult to understand, let alone implement properly. If SSL is insecure, why trust other encryption mechanisms? And do I really need to understand what is going on in the background to be able to trust the network? There has been a lack of simple solutions for this type of encryption, solutions that just work, from companies the users trust. And specifically solutions that don&#8217;t require advanced knowledge of security.</p>
+<p>### VPN&#8217;s and Tunneling ###<br />
+For end-users without the skills or server access to setup SSH tunnels or their own VPN tunnel, using a VPN solution is not simple. Unless your company runns a service supported by an IT department, this has, so far, not been a simple matter. There are alternatives for users without a corporate VPN. Hosted VPN services such as [HotspotVPN](http://www.hotspotvpn.com/), will let you use their servers as a VPN end-point for a monthly fee. There are 2 issues with this type of service, mainly that it introduces yet another trust point, that the end-user needs to place faith in, and that the services aren&#8217;t cheap for casual users who may not need the, on a regular basis. The main reason for monthly costs in the 10 USD region is probably bandwidth, i.e. everyone who uses a service such as HotspotVPN, passes all traffic through their servers, requiring them to have quite a bit of bandwidth available. </p>
+<p>An interesting alternative to this, would be to use one&#8217;s own bandwidth, by hosting ones own VPN endpoint.  Unfortunately there are some barriers to this, the most significant being the need to have your own server running 24/7, with a routable (preferably fixed) IP address. Both of these requirements, are currently quite demanding, and not something that normal Internet users should need to do/have. </p>
+<p>**Recommendation**: In this respect, controlled wireless networks such as Fon have a potential advantage. Fon controls the software on the access point, and using the Linksys WRT45G series running linux, such an access point can easily act as a VPN end-point. With the right software on the access point, each users home AP could act as a VPN end-point for that user, when he/she is travelling, and using a different Fon node (or other Open AP). This might have the additional advantage of being a reason for people not turning off their Access Point when they are away on vacation or otherwise not needing the local access for a period (in other words, it might also improve the availability of Fon hotspots). </p>
+<p>The obvious way to provide such a service in the Fon software, would seem to be using the Open Source [OpenVPN](http://openvpn.net/) implementation. Not only is it already implemented in the software that forms the basis of the Fon software, but it also has clients for all 3 major Operating Systems (Linux, Mac OSX and Windows). Unfortunately, I foresee an issue here, namely that many Fon users will not be installing their AP&#8217;s in such a way that they have a routable IP on their Internet (WAN) interface. In many cases, the ISP already provides a router, that other equipment plugs into, and some quite technical configuration may be needed to forward requests through the router to the AP. In other cases, the ISP doesn&#8217;t provide routable addresses to end-users at all, making it very difficult to provide traditional VPN endpoints on the Access Points. Note: While it may be possible to configure OpenVPN to traverse NAT systems, this is by no means easy, especially given the many different forms of NAT employed by ISP routers.</p>
+<p>One alternative suggestion for using AP&#8217;s as VPN end-points is implementing a sort of NAT-traversing peer-to-peer tunneling system. In the past 6 months systems like these have begun to appear, and other companies are working on similar software. One implementation that can give an indication of this type of functionality is   [Hamachi](http://hamachi.cc/). Hamachi is a peer-to-peer secure tunneling system, that allows you to organize two or more computers into a virtual network. The strength of the systems lies in it&#8217;s ease-of-use and the fact that hamachi manages to traverse about 95% of all NAT routers (according to hamachi&#8217;s own estimates). Unfortunately Hamachi software is not Open Source, but free clients exist for both Windows and Linux (Mac OSX coming soon) . While it may be difficult for Fon (or others) to implement this software, due to it&#8217;s closed-source nature, hamachi seems to provide a good indication of what is possible in this space. Having this type of system on their AP, would allow a user to remotely connect their laptop directly to their home AP in a secure tunneled network, and perform all their network transactions over this link, rendering rogue AP&#8217;s and MITM attacks extremely difficult. And more importantly it would allow Fon to offer a security service without having to cover the cost of bandwidth.</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/">The Security Challenge of Open Wireless Networks</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2006/03/22/the-security-challenge-of-open-wireless-networks/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">493</post-id>	</item>
+		<item>
+		<title>Wireless Networking in the Developing World</title>
+		<link>/index.php/2006/01/27/wireless-networking-in-the-developing-world/</link>
+					<comments>/index.php/2006/01/27/wireless-networking-in-the-developing-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2006 09:43:08 +0000</pubDate>
+				<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Mixed Bag]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=491</guid>
+
+					<description><![CDATA[<p>For the past 4 months I&#8217;ve been working to get a book out on wireless networking. Together with some of the smartest, most passionate people i&#8217;ve ever had the pleasure to work with, and lead by experienced technical book author and editor Rob Flickenger, we&#8217;ve completed the book. It&#8217;s called &#8220;WirelessNetworking in the Developing World&#8221;, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/01/27/wireless-networking-in-the-developing-world/">Wireless Networking in the Developing World</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>For the past 4 months I&#8217;ve been working to get a book out on wireless networking.<br />
+Together with some of the smartest, most passionate people i&#8217;ve ever had the pleasure to work with, and lead by experienced technical book author and editor Rob Flickenger, we&#8217;ve completed the book. It&#8217;s called &#8220;WirelessNetworking in the Developing World&#8221;, and it is a free book released under<br />
+a Creative Commons license.</p>
+<p>More info is available at: <a href="http://wndw.net/">http://wndw.net/</a></p>
+<p>and: <a href="http://dk.wndw.net/">http://dk.wndw.net/</a> (Danish Mirror)</p>
+<p>And the <a href="http://wndw.net/news.html">Press Release</a></p>
+<p>The post <a rel="nofollow" href="/index.php/2006/01/27/wireless-networking-in-the-developing-world/">Wireless Networking in the Developing World</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2006/01/27/wireless-networking-in-the-developing-world/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">492</post-id>	</item>
+		<item>
+		<title>Wireless laughs</title>
+		<link>/index.php/2006/01/24/wireless-laughs/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2006 10:50:49 +0000</pubDate>
+				<category><![CDATA[Mixed Bag]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=490</guid>
+
+					<description><![CDATA[<p>From here.</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/01/24/wireless-laughs/">Wireless laughs</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://i0.wp.com/multiplicity.dk/wp-content/reality20366350060124.gif"><img src='https://i0.wp.com/multiplicity.dk/wp-content/reality20366350060124.gif?w=640' alt='Cordless tech comic strip' data-recalc-dims="1" /></a></p>
+<p>From <a href="http://www.comics.com/comics/reality/archive/reality-20060124.html">here</a>.</p>
+<p>The post <a rel="nofollow" href="/index.php/2006/01/24/wireless-laughs/">Wireless laughs</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">491</post-id>	</item>
+		<item>
+		<title>Considering a life less travelled</title>
+		<link>/index.php/2005/11/25/considering-a-life-less-travelled/</link>
+					<comments>/index.php/2005/11/25/considering-a-life-less-travelled/#comments</comments>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2005 13:54:31 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=486</guid>
+
+					<description><![CDATA[<p>For the past 4 years; in fact ever since that fateful day about 5 years ago when I said yes to travel to ghana, working as a volunteer for Africa Express , and genreally having a blast. It was my baptism into the fascinating world that has occupied the last 4 years of my life. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2005/11/25/considering-a-life-less-travelled/">Considering a life less travelled</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>For the past 4 years; in fact ever since that fateful day about 5 years ago when I said yes to <a href="http://www.geekhalla.org/cgi-local/jeek.cgi?filter=tkrag">travel to ghana</a>, working as a volunteer for <a href="http://www.africaexpress.com/">Africa Express </a>, and genreally having a blast.</p>
+<p>It was my baptism into the fascinating world that has occupied the last 4 years of my life. Working with hands-on, do-it-yourself technology for the developing world. Travelling to Armenia, Croatia, Rural Massachussets, Namibia, South Africa, India, Italy, California, Geneva, Brazil, Rural Denmark, Tunisia, all with the triple mission to teach, to learn and to have fun, has made me more, and better friends than I could have ever imagined. It&#8217;s been the most incredible journey, one that I would do over in an instant, and will never forget. </p>
+<p>It&#8217;s not over, but it is changing. I feel a subtle change in me, especially when i&#8217;m on the road. More and more, the time away feels like time away from my life. As if, at home, was my stable base, my girlfriend, my sports, my family, my home, and as if being on the road means being away from all that. I still have fun, but not quite as much as I used to. I still have most of my best friends spread all over the planet, but I feel more of a need for an intimacy that is not available in those relationsships.</p>
+<p>But most importantly, I feel this i a turning point for me as a volunteer/development worker/non-profit organisation. A time to decide. </p>
+<p>To continue as an individual, a proffessional volunteer, a travelling consultant, means to continue a life with little stability, no stable income, no stable work base, no stable flow. The alternative, to proffesionalize myself, to become a stable organisation, with employees, and grant-proposal-writers, and a vision and business plan.<br />
+And I&#8217;m increasingly realizing that that is not what i want to be.</p>
+<p>I am in this &#8216;business&#8217; because i love what i do, but also because i believe in what i do. and for me to believe, i need to have the freedom to let the project come first, and the financing second, and that is not something that the development industry does well.</p>
+<p>Funding is institutionalized to a degree where I&#8217;ve come to believe that to run a stable organisation it is aqlmost imperative that you let funding come first, that funding, as a goal, becomes the primary goal. I want my projects to be first,k second and third, and to consider funding at a distant fourth. It is necessary for me to have it be like that. I need to believe in what i do, and being a born sceptic there are very few compromises needed before i lose that faith. </p>
+<p>I see 2 options and a strict deadline:</p>
+<ol>
+<li>I get a job. And interesting job in open source preferably, but a job. Probably one that is based here in Copenhegan, and requires a little less travelling than has been my default for the past 3 years. Ideally a job that has a 4-day work-week, or a 4 week pr. year travel allowance for volunteer jobs, or somehow let&#8217;s me keep in touch with all the wonderful people and projects I have had the extremem good fortune to encounter.
+</li>
+<li>I/we/it merge with another organisation. One that thinks our work, and our existing projects are interesting enough that they will let us do these and others with as little interference as possible. One that sees in what we do, and in our extensive contacts an opportunity big enough that it&#8217;s worth taking on the administrative overhead, the grant-proposal-writing, and the budget reporting, and let us get on with our unique skills, understanding and describing technology from that unique developing world perspective.
+</li>
+</ol>
+<p>Let me know what you think&#8230;..</p>
+<p>The post <a rel="nofollow" href="/index.php/2005/11/25/considering-a-life-less-travelled/">Considering a life less travelled</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2005/11/25/considering-a-life-less-travelled/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">488</post-id>	</item>
+		<item>
+		<title>Wireless Ghana &#8211; Broadband for the West African village.</title>
+		<link>/index.php/2005/08/17/wireless-ghana-broadband-for-the-west-african-village/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2005 14:02:27 +0000</pubDate>
+				<category><![CDATA[ict4dev]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=475</guid>
+
+					<description><![CDATA[<p>Yet another of the many ruaral wireless projects that are springing up around the world. Wireless Ghana &#8211; Broadband for the West African village. Having been an active advocate and tech trainer on this type of project for about 3 years, it warms my heart whenever i see a project like this. * It proves [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2005/08/17/wireless-ghana-broadband-for-the-west-african-village/">Wireless Ghana &#8211; Broadband for the West African village.</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Yet another of the many ruaral wireless projects that are springing up around the world. </p>
+<p><a href="http://www.wirelessghana.com/">Wireless Ghana &#8211; Broadband for the West African village.</a></p>
+<p>Having been an active advocate and tech trainer on this type of project for about 3 years, it warms my heart whenever i see a project like this. </p>
+<p>* It proves we were right, and that low-cost, DIY wireless really is an adequate solution for rural connectivity issues.<br />
+* It means there is one more community on-line, limiting the bias towards western culture opn the internet<br />
+* It&#8217;s an opportunity for me to try and reach out to some people through our projects. And perhaps a future opportunity for me to visit Ghana again, a country which i spent 3 months in, and which will forever be close to my heart.</p>
+<p>I&#8217;ll have to contact these people, and see what they are up to.</p>
+<p>The post <a rel="nofollow" href="/index.php/2005/08/17/wireless-ghana-broadband-for-the-west-african-village/">Wireless Ghana &#8211; Broadband for the West African village.</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">475</post-id>	</item>
+		<item>
+		<title>Last Chance to See &#8211; wireless4development is HAPPENING</title>
+		<link>/index.php/2004/09/04/last-chance-to-see-wireless4development-is-happening/</link>
+		
+		<dc:creator><![CDATA[Tomas]]></dc:creator>
+		<pubDate>Sat, 04 Sep 2004 08:46:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wireless]]></category>
+		<guid isPermaLink="false">http://www.multiplicity.dk/?p=465</guid>
+
+					<description><![CDATA[<p>This is very likely to be the VERY last post on this blog. I haven&#8217;t quite decided what the future holds for me in terms of blogging, but at the moment I&#8217;ve had enough. I&#8217;ve been blogging for about 6 years now. Here is my very first post from June 1998. I have no particular [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/09/04/last-chance-to-see-wireless4development-is-happening/">Last Chance to See &#8211; wireless4development is HAPPENING</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>This is very likely to be the VERY last post on this blog. I haven&#8217;t quite decided what the future holds for me in terms of blogging, but at the moment I&#8217;ve had enough. I&#8217;ve been <a href="http://www.krag.org/tomas.html">blogging</a> for  about 6 years now. <a href="http://www.krag.org/Tomas/intro.html">Here</a> is my very first post from June 1998. </p>
+<p>I have no particular reason for stopping except that 6 years seems enough, and that I&#8217;m doing a pretty miserable job of it anyway.</p>
+<p>I&#8217;ve been struggling to find a balance between being a blog for my friends, family and colleagues to keep up with my hectic life, and being a professional blog about ICT&#8217;s for development. But mostly I just need a break. </p>
+<p>I suppose my writings will be showing up on a variety of other sites from time to time instead. One of the main places will probably be the <a href="http://thewirelessroadshow.org/">The Wireless Roadshow</a>, but I hope to be able to start publishing more cohesive articles about wireless and Open Source in the developing world. </p>
+<p>I&#8217;ve enjoyed bloggin, but enough is enough. </p>
+<p>So long and thanks for all the fish</p>
+<p>The post <a rel="nofollow" href="/index.php/2004/09/04/last-chance-to-see-wireless4development-is-happening/">Last Chance to See &#8211; wireless4development is HAPPENING</a> appeared first on <a rel="nofollow" href="/">krag.be</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">465</post-id>	</item>
+	</channel>
+</rss>
